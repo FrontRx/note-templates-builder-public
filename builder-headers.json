@@ -252,6 +252,15 @@
     "category": "plan"
   },
   {
+    "en": "Diagnoses / Problem List",
+    "fr": "Diagnostics / Liste des problèmes",
+    "condition": "",
+    "instruction_en": "Standalone numbered list of diagnoses or active clinical problems, without management actions — use when diagnoses are documented separately from the plan; otherwise prefer ASSESSMENT & PLAN. Each item = one diagnosis or active clinical problem. Use bold for the diagnosis name. Do NOT restate symptoms, history, or examination findings here — assessment only. Include differential diagnoses where clinically relevant, noting which are being ruled out (\"r/o\").",
+    "instruction_fr": "Liste numérotée autonome des diagnostics ou problèmes cliniques actifs, sans les actions de prise en charge — à utiliser lorsque les diagnostics sont documentés séparément du plan; sinon privilégier IMPRESSION ET CONDUITE. Chaque item = un diagnostic ou problème clinique actif. Mettre le nom du diagnostic en gras. Ne PAS reprendre ici les symptômes, l'histoire ou les résultats d'examen — impression seulement. Inclure les diagnostics différentiels lorsque cliniquement pertinent, en notant ceux à éliminer (\"r/o\").",
+    "example": "1) **Fibrillation auriculaire paroxystique — nouveau diagnostic**\n2) **Diabète de type 2 — contrôle sous-optimal**\n3) **HTA — non contrôlée**\n   r/o HTA secondaire",
+    "category": "plan"
+  },
+  {
     "en": "Patient Education",
     "fr": "Enseignement au patient",
     "condition": "ONLY IF MENTIONED",
