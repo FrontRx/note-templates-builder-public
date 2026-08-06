@@ -132,6 +132,15 @@
         "example": ""
       },
       {
+        "en": "ASSESSMENT & PLAN",
+        "fr": "IMPRESSION ET CONDUITE",
+        "group": "ASSESSMENT & PLAN",
+        "condition": "",
+        "instruction_en": "Organize as a numbered problem list. Each item = one diagnosis or active clinical problem, followed immediately by its management actions. Use bold for the diagnosis name. Do NOT restate symptoms, history, or examination findings here — assessment only. Drug doses and new prescriptions belong clearly listed under the relevant problem's plan. Include differential diagnoses where clinically relevant, noting which are being ruled out (\"r/o\"). For multi-complaint or multimorbidity notes, address each active problem.",
+        "instruction_fr": "Organiser sous forme de liste numérotée de problèmes. Chaque item = un diagnostic ou problème clinique actif, suivi immédiatement de ses actions de prise en charge. Mettre le nom du diagnostic en gras. Ne PAS reprendre ici les symptômes, l'histoire ou les résultats d'examen — impression seulement. Les doses de médicaments et nouvelles prescriptions sont clairement listées sous le plan du problème pertinent. Inclure les diagnostics différentiels lorsque cliniquement pertinent, en notant ceux à éliminer (\"r/o\"). Pour les notes à plaintes multiples, aborder chaque problème actif.",
+        "example": "1) **Urticaire chronique spontanée — bilan en cours**\n   - Bilan sanguin : FSC, VS, CRP, TSH, IgE totales, tryptase sérique\n   - Cesser AINS (relation temporelle suspecte) — substituer acétaminophène au besoin\n   - Cétirizine (Reactine) 10 mg po die → augmenter à 20 mg po die si contrôle insuffisant\n   - Journal des symptômes × 4 semaines\n   - Retour en clinique dans 4–6 semaines avec résultats\n   r/o urticaire inductible, urticaire vasculitique\n\n2) **Allergie alimentaire aux arachides — probable IgE-médiée**\n   - Prick test arachides à planifier\n   - IgE spécifiques arachides (Ara h 2) demandées\n   - Renouvellement EpiPen 0,3 mg IM × 2 — enseignement technique d'injection\n   - Éviction stricte arachides et produits dérivés maintenue\n   - Plan d'action anaphylaxie remis\n   - Discuter provocation orale en milieu contrôlé selon résultats sérologie\n   r/o allergie croisée légumineuses"
+      },
+      {
         "en": "Patient Education",
         "fr": "Enseignement au patient",
         "group": "ASSESSMENT & PLAN",
@@ -266,6 +275,15 @@
         "example": ""
       },
       {
+        "en": "ASSESSMENT & PLAN",
+        "fr": "IMPRESSION ET CONDUITE",
+        "group": "ASSESSMENT & PLAN",
+        "condition": "",
+        "instruction_en": "Organize as a numbered problem list. Each item = one diagnosis or active clinical problem, followed immediately by its management actions. Use bold for the diagnosis name. Do NOT restate symptoms, history, or examination findings here — assessment only. Drug doses and new prescriptions belong in the Medications section or clearly listed under the relevant problem's plan. Include differential diagnoses where clinically relevant, noting which are being ruled out (\"r/o\"). For multi-complaint or multimorbidity notes, address each active problem.",
+        "instruction_fr": "Organiser sous forme de liste numérotée de problèmes. Chaque item = un diagnostic ou problème clinique actif, suivi immédiatement de ses actions de prise en charge. Mettre le nom du diagnostic en gras. Ne PAS reprendre ici les symptômes, l'histoire ou les résultats d'examen — impression seulement. Les doses de médicaments et nouvelles prescriptions appartiennent à la section Médication ou clairement listées sous le plan du problème pertinent. Inclure les diagnostics différentiels lorsque cliniquement pertinent, en notant ceux à éliminer (\"r/o\"). Aborder chaque problème actif.",
+        "example": "1) **Choc septique d'origine pulmonaire présumée**\n   - Hémocultures × 2 prélevées avant antibiothérapie\n   - Antibiothérapie empirique large spectre initiée\n   - Optimisation vasopresseurs selon objectifs MAP ≥ 65 mmHg\n   - Bilan infectieux complémentaire : antigène urinaire Légionelle et Pneumocoque\n   - Surveillance lactate sériel q4h\n   r/o choc cardiogénique : échocardiographie au chevet demandée\n\n2) **Insuffisance respiratoire aiguë hypoxémique — ventilation mécanique**\n   - Paramètres ventilatoires protecteurs : VT 6 mL/kg de poids idéal, PEEP selon table ARDSnet\n   - Objectif SpO2 92–96%, PaO2 ≥ 55 mmHg\n   - Gazométrie artérielle q4h\n   - Sédation-analgésie titrée selon score RASS cible −2\n   - Évaluation quotidienne pour épreuve d'éveil et sevrage ventilatoire\n\n3) **Insuffisance rénale aiguë — monitoring**\n   - Bilan hydrique strict q1h\n   - Débit urinaire cible ≥ 0,5 mL/kg/h\n   - Éviter néphrotoxiques\n   - Créatinine et ionogramme q12h\n   r/o nécrose tubulaire aiguë ischémique\n\n4) **Glycémie — contrôle en contexte critique**\n   - Protocole insuline intraveineuse selon glycémies capillaires q1h\n   - Objectif glycémique 6–10 mmol/L\n\n5) **Niveau de soins — à clarifier**\n   - Discussion avec famille/représentant légal à planifier dans les 24 h\n   - Documenter directive anticipée si disponible"
+      },
+      {
         "en": "Follow-up",
         "fr": "Suivi",
         "group": "ASSESSMENT & PLAN",
@@ -361,6 +379,15 @@
         "instruction_en": "Produce a concise administrative summary of the clinical episode or period. Include key dates, interventions, responsible parties (by role), and outcomes. Intended for administrative or billing purposes.",
         "instruction_fr": "Produire un résumé administratif concis de l'épisode ou de la période clinique. Inclure les dates clés, les interventions, les responsables (par rôle) et les résultats. Destiné à des fins administratives ou de facturation.",
         "example": ""
+      },
+      {
+        "en": "ASSESSMENT & PLAN",
+        "fr": "IMPRESSION ET CONDUITE",
+        "group": "ASSESSMENT & PLAN",
+        "condition": "",
+        "instruction_en": "Organize as a numbered problem list. Each item = one diagnosis or active clinical problem, followed immediately by its management actions. Use bold for the diagnosis name. Do NOT restate symptoms, history, or examination findings here — assessment only. Drug doses and new prescriptions belong in the Medications section or clearly listed under the relevant problem's plan. Include differential diagnoses where clinically relevant, noting which are being ruled out (\"r/o\"). For multi-complaint or multimorbidity notes, address each active problem. For geriatric evaluations, include functional goals in the plan where applicable. For psychiatric notes, include safety plan elements when relevant.",
+        "instruction_fr": "Organiser sous forme de liste numérotée de problèmes. Chaque item = un diagnostic ou problème clinique actif, suivi immédiatement de ses actions de prise en charge. Mettre le nom du diagnostic en gras. Ne PAS reprendre ici les symptômes, l'histoire ou les résultats d'examen — impression seulement. Les doses de médicaments et nouvelles prescriptions appartiennent à la section Médication ou clairement listées sous le plan du problème pertinent. Inclure les diagnostics différentiels lorsque cliniquement pertinent, en notant ceux à éliminer (\"r/o\"). Pour les notes à plaintes multiples ou de multimorbidité, aborder chaque problème actif. Pour les évaluations gériatriques, inclure les objectifs fonctionnels dans le plan si applicable. Pour les notes psychiatriques, inclure les éléments du plan de sécurité si pertinent.",
+        "example": "1) **Fibrillation auriculaire paroxystique — nouveau diagnostic**\n   - ECG 12 dérivations\n   - Bilan thyroïdien, FSC, électrolytes\n   - Anticoagulation : discuter bénéfice/risque, initier Apixaban (Eliquis) selon score CHA₂DS₂-VASc\n   - Référence cardiologie en semi-urgence\n   - Monitoring Holter 48 h\n\n2) **Diabète de type 2 — contrôle sous-optimal**\n   - HbA1c dans bilan sanguin prochain\n   - Ajuster Metformin (Glucophage) si toléré\n   - Référence en éducation diabète\n   - Autosurveillance glycémique à jeun et 2 h postprandial\n\n3) **HTA — non contrôlée**\n   - Augmenter Ramipril (Altace)\n   - Mesures de TA à domicile bid × 2 semaines\n   r/o HTA secondaire si non réponse au traitement"
       },
       {
         "en": "Follow-up",
@@ -565,6 +592,15 @@
         "example": ""
       },
       {
+        "en": "ASSESSMENT & PLAN",
+        "fr": "IMPRESSION ET CONDUITE",
+        "group": "ASSESSMENT & PLAN",
+        "condition": "",
+        "instruction_en": "Organize as a numbered problem list. Each item = one diagnosis or active clinical problem, followed immediately by its management actions. Use bold for the diagnosis name. Do NOT restate symptoms, history, or examination findings here — assessment only. Drug doses and new prescriptions belong in the Medications section or clearly listed under the relevant problem's plan. Include differential diagnoses where clinically relevant, noting which are being ruled out (\"r/o\"). For multi-complaint or multimorbidity notes, address each active problem. For geriatric evaluations, include functional goals in the plan where applicable. For psychiatric notes, include safety plan elements when relevant.",
+        "instruction_fr": "Organiser sous forme de liste numérotée de problèmes. Chaque item = un diagnostic ou problème clinique actif, suivi immédiatement de ses actions de prise en charge. Mettre le nom du diagnostic en gras. Ne PAS reprendre ici les symptômes, l'histoire ou les résultats d'examen — impression seulement. Les doses de médicaments et nouvelles prescriptions appartiennent à la section Médication ou clairement listées sous le plan du problème pertinent. Inclure les diagnostics différentiels lorsque cliniquement pertinent, en notant ceux à éliminer (\"r/o\"). Pour les notes à plaintes multiples ou de multimorbidité, aborder chaque problème actif. Pour les évaluations gériatriques, inclure les objectifs fonctionnels dans le plan si applicable. Pour les notes psychiatriques, inclure les éléments du plan de sécurité si pertinent.",
+        "example": "1) **Fibrillation auriculaire paroxystique — nouveau diagnostic**\n   - ECG 12 dérivations\n   - Bilan thyroïdien, FSC, électrolytes\n   - Anticoagulation : discuter bénéfice/risque, initier Apixaban (Eliquis) selon score CHA₂DS₂-VASc\n   - Référence cardiologie en semi-urgence\n   - Monitoring Holter 48 h\n\n2) **Diabète de type 2 — contrôle sous-optimal**\n   - HbA1c dans bilan sanguin prochain\n   - Ajuster Metformin (Glucophage) si toléré\n   - Référence en éducation diabète\n   - Autosurveillance glycémique à jeun et 2 h postprandial\n\n3) **HTA — non contrôlée**\n   - Augmenter Ramipril (Altace)\n   - Mesures de TA à domicile bid × 2 semaines\n   r/o HTA secondaire si non réponse au traitement"
+      },
+      {
         "en": "Follow-up",
         "fr": "Suivi",
         "group": "ASSESSMENT & PLAN",
@@ -687,6 +723,15 @@
         "instruction_en": "Report all investigation results mentioned. Include date of each result. If prior comparative values are available, include them in parentheses. Organize under sub-headings: Laboratoire, Imagerie, Autres (ECG, EMG, spirométrie, etc.). Report exhaustively — do not summarize or omit mentioned values. List laboratory results with date. Organize by panel (e.g., FSC, électrolytes, bilan hépatique, coagulation, marqueurs cardiaques). Include prior values in parentheses for trending. Flag abnormal values if clinician does so in transcript. Report imaging results with modality, body region, date, and key findings. If no date is mentioned, assume it is the most recent study of that type. Report all findings mentioned exhaustively.",
         "instruction_fr": "Rapporter tous les résultats d'examens mentionnés. Inclure la date de chaque résultat. Si des valeurs comparatives antérieures sont disponibles, les inclure entre parenthèses. Organiser sous des sous-titres : Laboratoire, Imagerie, Autres (ECG, EMG, spirométrie, etc.). Rapporter de manière exhaustive — ne pas résumer ni omettre les valeurs mentionnées. Lister les résultats de laboratoire avec la date. Organiser par panel (ex. : FSC, électrolytes, bilan hépatique, coagulation, marqueurs cardiaques). Inclure les valeurs antérieures entre parenthèses pour le suivi de tendance. Signaler les valeurs anormales si le clinicien le fait dans la transcription. Rapporter les résultats d'imagerie avec la modalité, la région corporelle, la date et les constatations principales. Si aucune date n'est mentionnée, supposer qu'il s'agit du dernier examen de ce type. Rapporter toutes les constatations mentionnées de manière exhaustive.",
         "example": ""
+      },
+      {
+        "en": "ASSESSMENT & PLAN",
+        "fr": "IMPRESSION ET CONDUITE",
+        "group": "ASSESSMENT & PLAN",
+        "condition": "",
+        "instruction_en": "Organize as a numbered problem list. Each item = one diagnosis or active clinical problem, followed immediately by its management actions. Use bold for the diagnosis name. Do NOT restate symptoms, history, or examination findings here — assessment only. Drug doses and new prescriptions belong in the Medications section or clearly listed under the relevant problem's plan. Include differential diagnoses where clinically relevant, noting which are being ruled out (\"r/o\"). For multi-complaint or multimorbidity notes, address each active problem. For geriatric evaluations, include functional goals in the plan where applicable. For psychiatric notes, include safety plan elements when relevant.",
+        "instruction_fr": "Organiser sous forme de liste numérotée de problèmes. Chaque item = un diagnostic ou problème clinique actif, suivi immédiatement de ses actions de prise en charge. Mettre le nom du diagnostic en gras. Ne PAS reprendre ici les symptômes, l'histoire ou les résultats d'examen — impression seulement. Les doses de médicaments et nouvelles prescriptions appartiennent à la section Médication ou clairement listées sous le plan du problème pertinent. Inclure les diagnostics différentiels lorsque cliniquement pertinent, en notant ceux à éliminer (\"r/o\"). Pour les notes à plaintes multiples ou de multimorbidité, aborder chaque problème actif. Pour les évaluations gériatriques, inclure les objectifs fonctionnels dans le plan si applicable. Pour les notes psychiatriques, inclure les éléments du plan de sécurité si pertinent.",
+        "example": "1) **Fibrillation auriculaire paroxystique — nouveau diagnostic**\n   - ECG 12 dérivations\n   - Bilan thyroïdien, FSC, électrolytes\n   - Anticoagulation : discuter bénéfice/risque, initier Apixaban (Eliquis) selon score CHA₂DS₂-VASc\n   - Référence cardiologie en semi-urgence\n   - Monitoring Holter 48 h\n\n2) **Diabète de type 2 — contrôle sous-optimal**\n   - HbA1c dans bilan sanguin prochain\n   - Ajuster Metformin (Glucophage) si toléré\n   - Référence en éducation diabète\n   - Autosurveillance glycémique à jeun et 2 h postprandial\n\n3) **HTA — non contrôlée**\n   - Augmenter Ramipril (Altace)\n   - Mesures de TA à domicile bid × 2 semaines\n   r/o HTA secondaire si non réponse au traitement"
       },
       {
         "en": "Follow-up",
@@ -829,6 +874,15 @@
         "example": ""
       },
       {
+        "en": "ASSESSMENT & PLAN",
+        "fr": "IMPRESSION ET CONDUITE",
+        "group": "ASSESSMENT & PLAN",
+        "condition": "",
+        "instruction_en": "Organize as a numbered problem list. Each item = one diagnosis or active clinical problem, followed immediately by its management actions. Use bold for the diagnosis name. Do NOT restate symptoms, history, or examination findings here — assessment only. Drug doses and new prescriptions belong in the Medications section or clearly listed under the relevant problem's plan. Include differential diagnoses where clinically relevant, noting which are being ruled out (\"r/o\"). For multi-complaint or multimorbidity notes, address each active problem.",
+        "instruction_fr": "Organiser sous forme de liste numérotée de problèmes. Chaque item = un diagnostic ou problème clinique actif, suivi immédiatement de ses actions de prise en charge. Mettre le nom du diagnostic en gras. Ne PAS reprendre ici les symptômes, l'histoire ou les résultats d'examen — impression seulement. Les doses de médicaments et nouvelles prescriptions appartiennent à la section Médication ou clairement listées sous le plan du problème pertinent. Inclure les diagnostics différentiels lorsque cliniquement pertinent, en notant ceux à éliminer (\"r/o\"). Pour les notes à plaintes multiples ou de multimorbidité, aborder chaque problème actif.",
+        "example": "1) **Fibrillation auriculaire paroxystique — nouveau diagnostic**\n   - ECG 12 dérivations\n   - Bilan thyroïdien, FSC, électrolytes\n   - Anticoagulation : discuter bénéfice/risque, initier Apixaban (Eliquis) selon score CHA₂DS₂-VASc\n   - Référence cardiologie en semi-urgence\n   - Monitoring Holter 48 h\n\n2) **Diabète de type 2 — contrôle sous-optimal**\n   - HbA1c dans bilan sanguin prochain\n   - Ajuster Metformin (Glucophage) si toléré\n   - Référence en éducation diabète\n   - Autosurveillance glycémique à jeun et 2 h postprandial\n\n3) **HTA — non contrôlée**\n   - Augmenter Ramipril (Altace)\n   - Mesures de TA à domicile bid × 2 semaines\n   r/o HTA secondaire si non réponse au traitement"
+      },
+      {
         "en": "Follow-up",
         "fr": "Suivi",
         "group": "ASSESSMENT & PLAN",
@@ -882,6 +936,15 @@
         "example": ""
       },
       {
+        "en": "FOLLOW-UP NOTE",
+        "fr": "NOTE DE SUIVI",
+        "group": "ASSESSMENT & PLAN",
+        "condition": "",
+        "instruction_en": "For inpatient or outpatient follow-up encounters, document: interval events since last assessment, patient-reported changes in symptoms, response to treatment, and any new concerns raised. Use telegraphic format. This section replaces the full HPI for follow-up notes — do not restate the original presentation. Reference the original diagnosis briefly and focus on evolution.",
+        "instruction_fr": "Pour les rencontres de suivi hospitalisé ou en clinique externe, documenter : les événements survenus depuis la dernière évaluation, les changements de symptômes rapportés par le patient, la réponse au traitement et toute nouvelle préoccupation soulevée. Utiliser un format télégraphique. Cette section remplace l'anamnèse complète pour les notes de suivi — ne pas reprendre la présentation initiale. Référencer brièvement le diagnostic initial et se concentrer sur l'évolution.",
+        "example": ""
+      },
+      {
         "en": "Vital Signs",
         "fr": "Signes vitaux",
         "group": "OBJECTIVE",
@@ -916,6 +979,15 @@
         "instruction_en": "Report all investigation results mentioned. Include date of each result. If prior comparative values are available, include them in parentheses. Organize under sub-headings: Laboratoire, Imagerie, Autres (ECG, EMG, spirométrie, etc.). Report exhaustively — do not summarize or omit mentioned values. List laboratory results with date. Organize by panel (e.g., FSC, électrolytes, bilan hépatique, coagulation, marqueurs cardiaques). Include prior values in parentheses for trending. Flag abnormal values if clinician does so in transcript. Report imaging results with modality, body region, date, and key findings. If no date is mentioned, assume it is the most recent study of that type. Report all findings mentioned exhaustively.",
         "instruction_fr": "Rapporter tous les résultats d'examens mentionnés. Inclure la date de chaque résultat. Si des valeurs comparatives antérieures sont disponibles, les inclure entre parenthèses. Organiser sous des sous-titres : Laboratoire, Imagerie, Autres (ECG, EMG, spirométrie, etc.). Rapporter de manière exhaustive — ne pas résumer ni omettre les valeurs mentionnées. Lister les résultats de laboratoire avec la date. Organiser par panel (ex. : FSC, électrolytes, bilan hépatique, coagulation, marqueurs cardiaques). Inclure les valeurs antérieures entre parenthèses pour le suivi de tendance. Signaler les valeurs anormales si le clinicien le fait dans la transcription. Rapporter les résultats d'imagerie avec la modalité, la région corporelle, la date et les constatations principales. Si aucune date n'est mentionnée, supposer qu'il s'agit du dernier examen de ce type. Rapporter toutes les constatations mentionnées de manière exhaustive.",
         "example": ""
+      },
+      {
+        "en": "ASSESSMENT & PLAN",
+        "fr": "IMPRESSION ET CONDUITE",
+        "group": "ASSESSMENT & PLAN",
+        "condition": "",
+        "instruction_en": "Organize as a numbered problem list. Each item = one diagnosis or active clinical problem, followed immediately by its management actions. Use bold for the diagnosis name. Do NOT restate symptoms, history, or examination findings here — assessment only. Drug doses and new prescriptions belong in the Medications section or clearly listed under the relevant problem's plan. Include differential diagnoses where clinically relevant, noting which are being ruled out (\"r/o\"). For multi-complaint or multimorbidity notes, address each active problem. For geriatric evaluations, include functional goals in the plan where applicable. For psychiatric notes, include safety plan elements when relevant.",
+        "instruction_fr": "Organiser sous forme de liste numérotée de problèmes. Chaque item = un diagnostic ou problème clinique actif, suivi immédiatement de ses actions de prise en charge. Mettre le nom du diagnostic en gras. Ne PAS reprendre ici les symptômes, l'histoire ou les résultats d'examen — impression seulement. Les doses de médicaments et nouvelles prescriptions appartiennent à la section Médication ou clairement listées sous le plan du problème pertinent. Inclure les diagnostics différentiels lorsque cliniquement pertinent, en notant ceux à éliminer (\"r/o\"). Pour les notes à plaintes multiples ou de multimorbidité, aborder chaque problème actif. Pour les évaluations gériatriques, inclure les objectifs fonctionnels dans le plan si applicable. Pour les notes psychiatriques, inclure les éléments du plan de sécurité si pertinent.",
+        "example": "1) **Fibrillation auriculaire paroxystique — nouveau diagnostic**\n   - ECG 12 dérivations\n   - Bilan thyroïdien, FSC, électrolytes\n   - Anticoagulation : discuter bénéfice/risque, initier Apixaban (Eliquis) selon score CHA₂DS₂-VASc\n   - Référence cardiologie en semi-urgence\n   - Monitoring Holter 48 h\n\n2) **Diabète de type 2 — contrôle sous-optimal**\n   - HbA1c dans bilan sanguin prochain\n   - Ajuster Metformin (Glucophage) si toléré\n   - Référence en éducation diabète\n   - Autosurveillance glycémique à jeun et 2 h postprandial\n\n3) **HTA — non contrôlée**\n   - Augmenter Ramipril (Altace)\n   - Mesures de TA à domicile bid × 2 semaines\n   r/o HTA secondaire si non réponse au traitement"
       },
       {
         "en": "Patient Education",
@@ -1077,6 +1149,15 @@
         "instruction_en": "Report all investigation results mentioned. Include date of each result. If prior comparative values are available, include them in parentheses. Organize under sub-headings: Laboratoire, Imagerie, Autres (ECG, etc.). Report exhaustively — do not summarize or omit mentioned values. List laboratory results with date. Organize by panel (e.g., FSC, électrolytes, bilan hépatique, coagulation, marqueurs cardiaques). Include prior values in parentheses for trending. Flag abnormal values if clinician does so in transcript. Report imaging results with modality, body region, date, and key findings. If no date is mentioned, assume it is the most recent study of that type. Report all findings mentioned exhaustively.",
         "instruction_fr": "Rapporter tous les résultats d'examens mentionnés. Inclure la date de chaque résultat. Si des valeurs comparatives antérieures sont disponibles, les inclure entre parenthèses. Organiser sous des sous-titres : Laboratoire, Imagerie, Autres (ECG, etc.). Rapporter de manière exhaustive — ne pas résumer ni omettre les valeurs mentionnées. Lister les résultats de laboratoire avec la date. Organiser par panel (ex. : FSC, électrolytes, bilan hépatique, coagulation, marqueurs cardiaques). Inclure les valeurs antérieures entre parenthèses pour le suivi de tendance. Signaler les valeurs anormales si le clinicien le fait dans la transcription. Rapporter les résultats d'imagerie avec la modalité, la région corporelle, la date et les constatations principales. Si aucune date n'est mentionnée, supposer qu'il s'agit du dernier examen de ce type. Rapporter toutes les constatations mentionnées de manière exhaustive.",
         "example": ""
+      },
+      {
+        "en": "ASSESSMENT & PLAN",
+        "fr": "IMPRESSION ET CONDUITE",
+        "group": "ASSESSMENT & PLAN",
+        "condition": "",
+        "instruction_en": "Organize as a numbered problem list. Each item = one diagnosis or active clinical problem, followed immediately by its management actions. Use bold for the diagnosis name. Do NOT restate symptoms, history, or examination findings here — assessment only. Drug doses and new prescriptions belong clearly listed under the relevant problem's plan. Include differential diagnoses where clinically relevant, noting which are being ruled out (\"r/o\"). For multi-complaint visits, address each active problem.",
+        "instruction_fr": "Organiser sous forme de liste numérotée de problèmes. Chaque item = un diagnostic ou problème clinique actif, suivi immédiatement de ses actions de prise en charge. Mettre le nom du diagnostic en gras. Ne PAS reprendre ici les symptômes, l'histoire ou les résultats d'examen — impression seulement. Les doses de médicaments et nouvelles prescriptions sont clairement listées sous le plan du problème pertinent. Inclure les diagnostics différentiels lorsque cliniquement pertinent, en notant ceux à éliminer (\"r/o\"). Pour les visites à plaintes multiples, aborder chaque problème actif.",
+        "example": "1) **Douleur thoracique — à préciser**\n   - ECG 12 dérivations en cours\n   - Marqueurs cardiaques ×2 (0 h et 3 h)\n   - RX thorax\n   - Monitoring cardiaque continu\n   r/o SCA, embolie pulmonaire, dissection aortique\n\n2) **HTA — non contrôlée à l'admission**\n   - Mesures tensionnelles sériées\n   - Ajuster traitement antihypertenseur selon évolution"
       },
       {
         "en": "Patient Education",
@@ -1249,6 +1330,15 @@
         "example": ""
       },
       {
+        "en": "ASSESSMENT & PLAN",
+        "fr": "IMPRESSION ET CONDUITE",
+        "group": "ASSESSMENT & PLAN",
+        "condition": "",
+        "instruction_en": "Organize as a numbered problem list. Each item = one diagnosis or active clinical problem, followed immediately by its management actions. Use bold for the diagnosis name. Do NOT restate symptoms, history, or examination findings here — assessment only. Drug doses and new prescriptions belong clearly listed under the relevant problem's plan. Include differential diagnoses where clinically relevant, noting which are being ruled out (\"r/o\"). For psychiatric notes, include safety plan elements when relevant.",
+        "instruction_fr": "Organiser sous forme de liste numérotée de problèmes. Chaque item = un diagnostic ou problème clinique actif, suivi immédiatement de ses actions de prise en charge. Mettre le nom du diagnostic en gras. Ne PAS reprendre ici les symptômes, l'histoire ou les résultats d'examen — impression seulement. Les doses de médicaments et nouvelles prescriptions sont clairement listées sous le plan du problème pertinent. Inclure les diagnostics différentiels lorsque cliniquement pertinent, en notant ceux à éliminer (\"r/o\"). Pour les notes psychiatriques, inclure les éléments du plan de sécurité si pertinent.",
+        "example": "1) **Trouble dépressif majeur — épisode sévère avec idéation suicidaire active**\n   - Garde préventive évaluée — mise en place si applicable (P-38.001)\n   - Consultation psychiatrie demandée en urgence\n   - Retrait des accès létaux discuté avec entourage\n   - Plan de sécurité élaboré : personnes ressources identifiées, numéros de crise remis\n   - Surveillance rapprochée en salle d'urgence — environnement sécurisé\n   - Ajustement médicamenteux différé — à compléter avec psychiatrie\n\n2) **Insomnie sévère — contexte dépressif**\n   - Mesures de sommeil non pharmacologiques discutées\n   - Prescription sédative à considérer selon évaluation psychiatrique\n\n3) **Intoxication aux substances — à exclure**\n   r/o intoxication aiguë ou sevrage — dépistage toxicologique urinaire et alcoolémie demandés\n\n4) **Cause organique contributive — à exclure**\n   r/o pathologie thyroïdienne, neurologique ou métabolique\n   - Bilan sanguin de base demandé (FSC, électrolytes, TSH, glycémie)"
+      },
+      {
         "en": "Patient Education",
         "fr": "Enseignement au patient",
         "group": "ASSESSMENT & PLAN",
@@ -1365,6 +1455,15 @@
         "example": ""
       },
       {
+        "en": "ASSESSMENT & PLAN",
+        "fr": "IMPRESSION ET CONDUITE",
+        "group": "ASSESSMENT & PLAN",
+        "condition": "",
+        "instruction_en": "Organize as a numbered problem list. Each item = one diagnosis or active clinical problem, followed immediately by its management actions. Use bold for the diagnosis name. Do NOT restate symptoms, history, or examination findings here — assessment only. Drug doses and new prescriptions belong in the Medications section or clearly listed under the relevant problem's plan. Include differential diagnoses where clinically relevant, noting which are being ruled out (\"r/o\"). For multi-complaint or multimorbidity notes, address each active problem.",
+        "instruction_fr": "Organiser sous forme de liste numérotée de problèmes. Chaque item = un diagnostic ou problème clinique actif, suivi immédiatement de ses actions de prise en charge. Mettre le nom du diagnostic en gras. Ne PAS reprendre ici les symptômes, l'histoire ou les résultats d'examen — impression seulement. Les doses de médicaments et nouvelles prescriptions appartiennent à la section Médication ou clairement listées sous le plan du problème pertinent. Inclure les diagnostics différentiels lorsque cliniquement pertinent, en notant ceux à éliminer (\"r/o\"). Pour les notes à plaintes multiples ou de multimorbidité, aborder chaque problème actif.",
+        "example": "1) **Fibrillation auriculaire paroxystique — nouveau diagnostic**\n   - ECG 12 dérivations\n   - Bilan thyroïdien, FSC, électrolytes\n   - Anticoagulation : discuter bénéfice/risque, initier Apixaban (Eliquis) selon score CHA₂DS₂-VASc\n   - Référence cardiologie en semi-urgence\n   - Monitoring Holter 48 h\n\n2) **Diabète de type 2 — contrôle sous-optimal**\n   - HbA1c dans bilan sanguin prochain\n   - Ajuster Metformin (Glucophage) si toléré\n   - Référence en éducation diabète\n   - Autosurveillance glycémique à jeun et 2 h postprandial\n\n3) **HTA — non contrôlée**\n   - Augmenter Ramipril (Altace)\n   - Mesures de TA à domicile bid × 2 semaines\n   r/o HTA secondaire si non réponse au traitement"
+      },
+      {
         "en": "Follow-up",
         "fr": "Suivi",
         "group": "ASSESSMENT & PLAN",
@@ -1416,6 +1515,15 @@
         "instruction_en": "Document only systems explicitly examined following the procedure. Use head-to-toe order. Use standardized medical terminology. Each system on its own line with findings — do not write \"normal\" globally; specify what was examined and what was found. For urgent/resuscitation contexts, prioritize relevant systems and document concisely.",
         "instruction_fr": "Documenter uniquement les systèmes explicitement examinés après la procédure. Utiliser l'ordre céphalo-caudal. Utiliser la terminologie médicale standardisée. Chaque système sur sa propre ligne avec les constatations — ne pas écrire \"normal\" de façon globale; préciser ce qui a été examiné et ce qui a été trouvé. En contexte urgent/réanimation, prioriser les systèmes pertinents et documenter de manière concise.",
         "example": "GÉNÉRAL : Alerte, orienté ×3, pas de détresse aiguë\nCŒUR : Rythme régulier, B1 B2 normaux, pas de souffle ausculté\nPOUMONS : MV bilatéral, pas de crépitants ni sibilances\nSITE PROCÉDURAL : Pansement propre, sec, intact; pas de saignement actif; pas d'hématome\nMEMBRES INFÉRIEURS : Pas d'œdème, pouls pédieux présents bilatéralement"
+      },
+      {
+        "en": "ASSESSMENT & PLAN",
+        "fr": "IMPRESSION ET CONDUITE",
+        "group": "ASSESSMENT & PLAN",
+        "condition": "",
+        "instruction_en": "Organize as a numbered problem list. Each item = one diagnosis or active clinical problem, followed immediately by its management actions. Use bold for the diagnosis name. Do NOT restate symptoms, history, or examination findings here — assessment only. Drug doses and new prescriptions belong in the Medications section or clearly listed under the relevant problem's plan. Include differential diagnoses where clinically relevant, noting which are being ruled out (\"r/o\"). For multi-complaint or multimorbidity notes, address each active problem.",
+        "instruction_fr": "Organiser sous forme de liste numérotée de problèmes. Chaque item = un diagnostic ou problème clinique actif, suivi immédiatement de ses actions de prise en charge. Mettre le nom du diagnostic en gras. Ne PAS reprendre ici les symptômes, l'histoire ou les résultats d'examen — impression seulement. Les doses de médicaments et nouvelles prescriptions appartiennent à la section Médication ou clairement listées sous le plan du problème pertinent. Inclure les diagnostics différentiels lorsque cliniquement pertinent, en notant ceux à éliminer (\"r/o\"). Pour les notes à plaintes multiples ou de multimorbidité, aborder chaque problème actif.",
+        "example": "1) **Thoracocentèse diagnostique et évacuatrice — gauche**\n   - Procédure réalisée sans complication immédiate\n   - Liquide pleural envoyé pour analyse (cytologie, biochimie, culture)\n   - Rx thorax post-procédure demandé pour exclure pneumothorax iatrogène\n   - Surveillance SpO2 et état respiratoire × 2 h post-procédure\n   r/o pneumothorax iatrogène sur Rx post-procédure\n\n2) **Épanchement pleural — étiologie à préciser**\n   - Résultats de l'analyse du liquide pleural attendus\n   - Réévaluation clinique selon résultats"
       },
       {
         "en": "Patient Education",
@@ -1514,6 +1622,15 @@
         "instruction_en": "Report all investigation results mentioned. Include date of each result. If prior comparative values are available, include them in parentheses. Organize under sub-headings: Laboratoire, Imagerie, Autres (ECG, spirométrie, etc.). Report exhaustively — do not summarize or omit mentioned values. List laboratory results with date. Organize by panel (e.g., FSC, électrolytes, bilan hépatique, coagulation, marqueurs cardiaques). Include prior values in parentheses for trending. Flag abnormal values if clinician does so in transcript. Report imaging results with modality, body region, date, and key findings. If no date is mentioned, assume it is the most recent study of that type. Report all findings mentioned exhaustively.",
         "instruction_fr": "Rapporter tous les résultats d'examens mentionnés. Inclure la date de chaque résultat. Si des valeurs comparatives antérieures sont disponibles, les inclure entre parenthèses. Organiser sous des sous-titres : Laboratoire, Imagerie, Autres (ECG, spirométrie, etc.). Rapporter de manière exhaustive — ne pas résumer ni omettre les valeurs mentionnées. Lister les résultats de laboratoire avec la date. Organiser par panel (ex. : FSC, électrolytes, bilan hépatique, coagulation, marqueurs cardiaques). Inclure les valeurs antérieures entre parenthèses pour le suivi de tendance. Signaler les valeurs anormales si le clinicien le fait dans la transcription. Rapporter les résultats d'imagerie avec la modalité, la région corporelle, la date et les constatations principales. Si aucune date n'est mentionnée, supposer qu'il s'agit du dernier examen de ce type. Rapporter toutes les constatations mentionnées de manière exhaustive.",
         "example": ""
+      },
+      {
+        "en": "ASSESSMENT & PLAN",
+        "fr": "IMPRESSION ET CONDUITE",
+        "group": "ASSESSMENT & PLAN",
+        "condition": "",
+        "instruction_en": "Organize as a numbered problem list. Each item = one diagnosis or active clinical problem, followed immediately by its management actions. Use bold for the diagnosis name. Do NOT restate symptoms, history, or examination findings here — assessment only. Drug doses and new prescriptions belong clearly listed under the relevant problem's plan. Include differential diagnoses where clinically relevant, noting which are being ruled out (\"r/o\"). For multi-complaint or multimorbidity notes, address each active problem.",
+        "instruction_fr": "Organiser sous forme de liste numérotée de problèmes. Chaque item = un diagnostic ou problème clinique actif, suivi immédiatement de ses actions de prise en charge. Mettre le nom du diagnostic en gras. Ne PAS reprendre ici les symptômes, l'histoire ou les résultats d'examen — impression seulement. Les doses de médicaments et nouvelles prescriptions doivent être clairement listées sous le plan du problème pertinent. Inclure les diagnostics différentiels lorsque cliniquement pertinent, en notant ceux à éliminer (\"r/o\"). Pour les notes à plaintes multiples ou de multimorbidité, aborder chaque problème actif.",
+        "example": "1) **Fibrillation auriculaire paroxystique — nouveau diagnostic**\n   - ECG 12 dérivations\n   - Bilan thyroïdien, FSC, électrolytes\n   - Anticoagulation : discuter bénéfice/risque, initier Apixaban (Eliquis) selon score CHA₂DS₂-VASc\n   - Référence cardiologie en semi-urgence\n   - Monitoring Holter 48 h\n\n2) **Diabète de type 2 — contrôle sous-optimal**\n   - HbA1c dans bilan sanguin prochain\n   - Ajuster Metformin (Glucophage) si toléré\n   - Référence en éducation diabète\n   - Autosurveillance glycémique à jeun et 2 h postprandial\n\n3) **HTA — non contrôlée**\n   - Augmenter Ramipril (Altace)\n   - Mesures de TA à domicile bid × 2 semaines\n   r/o HTA secondaire si non réponse au traitement"
       },
       {
         "en": "Patient Education",
@@ -1641,6 +1758,15 @@
         "example": ""
       },
       {
+        "en": "ASSESSMENT & PLAN",
+        "fr": "IMPRESSION ET CONDUITE",
+        "group": "ASSESSMENT & PLAN",
+        "condition": "",
+        "instruction_en": "Organize as a numbered problem list. Each item = one diagnosis or active clinical problem, followed immediately by its management actions. Use bold for the diagnosis name. Do NOT restate symptoms, history, or examination findings here — assessment only. Drug doses and new prescriptions belong clearly listed under the relevant problem's plan. Include differential diagnoses where clinically relevant, noting which are being ruled out (\"r/o\"). For multi-complaint notes, address each active problem.",
+        "instruction_fr": "Organiser sous forme de liste numérotée de problèmes. Chaque item = un diagnostic ou problème clinique actif, suivi immédiatement de ses actions de prise en charge. Mettre le nom du diagnostic en gras. Ne PAS reprendre ici les symptômes, l'histoire ou les résultats d'examen — impression seulement. Les doses de médicaments et nouvelles prescriptions sont clairement listées sous le plan du problème pertinent. Inclure les diagnostics différentiels lorsque cliniquement pertinent, en notant ceux à éliminer (\"r/o\"). Pour les notes à plaintes multiples, aborder chaque problème actif.",
+        "example": "1) **Fibrillation auriculaire paroxystique — nouveau diagnostic**\n   - ECG 12 dérivations\n   - Bilan thyroïdien, FSC, électrolytes\n   - Anticoagulation : discuter bénéfice/risque, initier Apixaban (Eliquis) selon score CHA₂DS₂-VASc\n   - Référence cardiologie en semi-urgence\n   - Monitoring Holter 48 h\n\n2) **Diabète de type 2 — contrôle sous-optimal**\n   - HbA1c dans bilan sanguin prochain\n   - Ajuster Metformin (Glucophage) si toléré\n   - Référence en éducation diabète\n   - Autosurveillance glycémique à jeun et 2 h postprandial\n\n3) **HTA — non contrôlée**\n   - Augmenter Ramipril (Altace)\n   - Mesures de TA à domicile bid × 2 semaines\n   r/o HTA secondaire si non réponse au traitement"
+      },
+      {
         "en": "Patient Education",
         "fr": "Enseignement au patient",
         "group": "ASSESSMENT & PLAN",
@@ -1712,13 +1838,31 @@
         "example": ""
       },
       {
+        "en": "FOLLOW-UP NOTE",
+        "fr": "NOTE DE SUIVI",
+        "group": "ASSESSMENT & PLAN",
+        "condition": "",
+        "instruction_en": "Document interval events since last assessment, patient-reported changes in symptoms, response to treatment, and any new concerns raised. Use telegraphic format. Do not restate the original presentation. Reference the original diagnosis briefly and focus on evolution. For multi-complaint calls, use a separate bold sub-heading for each complaint. Document pertinent negatives if explicitly stated.",
+        "instruction_fr": "Documenter les événements survenus depuis la dernière évaluation, les changements de symptômes rapportés, la réponse au traitement et toute nouvelle préoccupation soulevée. Utiliser un format télégraphique. Ne pas reprendre la présentation initiale. Référencer brièvement le diagnostic initial et se concentrer sur l'évolution. Pour les appels à plaintes multiples, utiliser un sous-titre en gras distinct pour chaque plainte. Documenter les négatifs pertinents si explicitement mentionnés.",
+        "example": ""
+      },
+      {
         "en": "Diagnostic Investigations",
         "fr": "Examens paracliniques",
-        "group": "FOLLOW-UP NOTE",
+        "group": "ASSESSMENT & PLAN",
         "condition": "ONLY IF RESULTS AVAILABLE",
         "instruction_en": "Report all investigation results mentioned during the call. Include date of each result. If prior comparative values are available, include them in parentheses. Organize under sub-headings: Laboratoire, Imagerie, Autres. Report exhaustively — do not summarize or omit mentioned values. List laboratory results with date. Organize by panel (e.g., FSC, électrolytes, bilan hépatique, coagulation). Include prior values in parentheses for trending. Flag abnormal values if clinician does so in transcript. Report imaging results with modality, body region, date, and key findings. If no date is mentioned, assume it is the most recent study of that type. Report all findings mentioned exhaustively.",
         "instruction_fr": "Rapporter tous les résultats d'examens mentionnés lors de l'appel. Inclure la date de chaque résultat. Si des valeurs comparatives antérieures sont disponibles, les inclure entre parenthèses. Organiser sous des sous-titres : Laboratoire, Imagerie, Autres. Rapporter de manière exhaustive — ne pas résumer ni omettre les valeurs mentionnées. Lister les résultats de laboratoire avec la date. Organiser par panel (ex. : FSC, électrolytes, bilan hépatique, coagulation). Inclure les valeurs antérieures entre parenthèses pour le suivi de tendance. Signaler les valeurs anormales si le clinicien le fait dans la transcription. Rapporter les résultats d'imagerie avec la modalité, la région corporelle, la date et les constatations principales. Si aucune date n'est mentionnée, supposer qu'il s'agit du dernier examen de ce type. Rapporter toutes les constatations mentionnées de manière exhaustive.",
         "example": ""
+      },
+      {
+        "en": "ASSESSMENT & PLAN",
+        "fr": "IMPRESSION ET CONDUITE",
+        "group": "ASSESSMENT & PLAN",
+        "condition": "",
+        "instruction_en": "Organize as a numbered problem list. Each item = one diagnosis or active clinical problem, followed immediately by its management actions. Use bold for the diagnosis name. Do NOT restate symptoms, history, or examination findings here — assessment only. Drug doses and new prescriptions belong clearly listed under the relevant problem's plan. Include differential diagnoses where clinically relevant, noting which are being ruled out (\"r/o\"). For multi-complaint calls, address each active problem. For psychiatric concerns, include safety plan elements when relevant.",
+        "instruction_fr": "Organiser sous forme de liste numérotée de problèmes. Chaque item = un diagnostic ou problème clinique actif, suivi immédiatement de ses actions de prise en charge. Mettre le nom du diagnostic en gras. Ne PAS reprendre ici les symptômes, l'histoire ou les résultats d'examen — impression seulement. Les doses de médicaments et nouvelles prescriptions sont clairement listées sous le plan du problème pertinent. Inclure les diagnostics différentiels lorsque cliniquement pertinent, en notant ceux à éliminer (\"r/o\"). Pour les appels à plaintes multiples, aborder chaque problème actif. Pour les préoccupations psychiatriques, inclure les éléments du plan de sécurité si pertinent.",
+        "example": "1) **Diabète de type 2 — contrôle sous-optimal**\n   - HbA1c reçue : 8,2 % (antérieure : 7,6 %)\n   - Augmenter Metformin (Glucophage) 500 mg po bid → 1000 mg po bid\n   - Autosurveillance glycémique à jeun et 2 h postprandial\n   - Référence en éducation diabète\n\n2) **HTA — suivi résultats**\n   - TA domiciliaire rapportée autour de 138/86 mmHg\n   - Maintenir Ramipril (Altace) 5 mg po die\n   - Mesures TA à domicile bid × 2 semaines, consigner résultats"
       },
       {
         "en": "Patient Education",
@@ -1790,6 +1934,24 @@
         "instruction_en": "List all current medications with Canadian trade name, dose, route, and frequency when stated. Note recent changes in parentheses: (diminué), (augmenté), (cessé), (nouveau). If dose or frequency is not mentioned, include only the drug name — do not use placeholders.",
         "instruction_fr": "Lister tous les médicaments en cours avec le nom de marque canadien, la dose, la voie d'administration et la fréquence lorsque mentionnés. Indiquer les modifications récentes entre parenthèses : (diminué), (augmenté), (cessé), (nouveau). Si la dose ou la fréquence n'est pas mentionnée, inscrire uniquement le nom du médicament — ne pas utiliser de variables fictives.",
         "example": "Metformin (Glucophage) 500 mg po bid, Ramipril (Altace) 5 mg po die, Atorvastatine (Lipitor) 40 mg po die (augmenté)"
+      },
+      {
+        "en": "FOLLOW-UP NOTE",
+        "fr": "NOTE DE SUIVI",
+        "group": "ASSESSMENT & PLAN",
+        "condition": "",
+        "instruction_en": "For this telephone follow-up encounter, document: interval events since last assessment, patient-reported changes in symptoms, response to treatment, and any new concerns raised. Use telegraphic format. This section replaces the full HPI — do not restate the original presentation. Reference the original diagnosis briefly and focus on evolution.",
+        "instruction_fr": "Pour cette rencontre de suivi téléphonique, documenter : les événements survenus depuis la dernière évaluation, les changements de symptômes rapportés par le patient, la réponse au traitement et toute nouvelle préoccupation soulevée. Utiliser un format télégraphique. Cette section remplace l'anamnèse complète — ne pas reprendre la présentation initiale. Référencer brièvement le diagnostic initial et se concentrer sur l'évolution.",
+        "example": ""
+      },
+      {
+        "en": "ASSESSMENT & PLAN",
+        "fr": "IMPRESSION ET CONDUITE",
+        "group": "ASSESSMENT & PLAN",
+        "condition": "",
+        "instruction_en": "Organize as a numbered problem list. Each item = one diagnosis or active clinical problem, followed immediately by its management actions. Use bold for the diagnosis name. Do NOT restate symptoms, history, or examination findings here — assessment only. Drug doses and new prescriptions belong clearly listed under the relevant problem's plan. Include differential diagnoses where clinically relevant, noting which are being ruled out (\"r/o\"). For multi-complaint notes, address each active problem.",
+        "instruction_fr": "Organiser sous forme de liste numérotée de problèmes. Chaque item = un diagnostic ou problème clinique actif, suivi immédiatement de ses actions de prise en charge. Mettre le nom du diagnostic en gras. Ne PAS reprendre ici les symptômes, l'histoire ou les résultats d'examen — impression seulement. Les doses de médicaments et nouvelles prescriptions sont clairement listées sous le plan du problème pertinent. Inclure les diagnostics différentiels lorsque cliniquement pertinent, en notant ceux à éliminer (\"r/o\"). Pour les notes à plaintes multiples, aborder chaque problème actif.",
+        "example": "1) **Diabète de type 2 — contrôle sous-optimal**\n   - HbA1c dans bilan sanguin prochain\n   - Ajuster Metformin (Glucophage) si toléré\n   - Autosurveillance glycémique à jeun et 2 h postprandial\n\n2) **HTA — non contrôlée**\n   - Augmenter Ramipril (Altace)\n   - Mesures de TA à domicile bid × 2 semaines\n   r/o HTA secondaire si non réponse au traitement"
       },
       {
         "en": "Patient Education",
@@ -1897,6 +2059,15 @@
         "instruction_en": "Report all investigation results mentioned. Include date of each result. If prior comparative values are available, include them in parentheses. Organize under sub-headings: Laboratoire, Imagerie, Autres (ECG, EMG, spirométrie, etc.). Report exhaustively — do not summarize or omit mentioned values. List laboratory results with date. Organize by panel (e.g., FSC, électrolytes, bilan hépatique, coagulation, marqueurs cardiaques). Include prior values in parentheses for trending. Flag abnormal values if clinician does so in transcript. Report imaging results with modality, body region, date, and key findings. If no date is mentioned, assume it is the most recent study of that type. Report all findings mentioned exhaustively.",
         "instruction_fr": "Rapporter tous les résultats d'examens mentionnés. Inclure la date de chaque résultat. Si des valeurs comparatives antérieures sont disponibles, les inclure entre parenthèses. Organiser sous des sous-titres : Laboratoire, Imagerie, Autres (ECG, EMG, spirométrie, etc.). Rapporter de manière exhaustive — ne pas résumer ni omettre les valeurs mentionnées. Lister les résultats de laboratoire avec la date. Organiser par panel (ex. : FSC, électrolytes, bilan hépatique, coagulation, marqueurs cardiaques). Inclure les valeurs antérieures entre parenthèses pour le suivi de tendance. Signaler les valeurs anormales si le clinicien le fait dans la transcription. Rapporter les résultats d'imagerie avec la modalité, la région corporelle, la date et les constatations principales. Si aucune date n'est mentionnée, supposer qu'il s'agit du dernier examen de ce type. Rapporter toutes les constatations mentionnées de manière exhaustive.",
         "example": ""
+      },
+      {
+        "en": "ASSESSMENT & PLAN",
+        "fr": "IMPRESSION ET CONDUITE",
+        "group": "ASSESSMENT & PLAN",
+        "condition": "",
+        "instruction_en": "Organize as a numbered problem list. Each item = one diagnosis or active clinical problem, followed immediately by its management actions. Use bold for the diagnosis name. Do NOT restate symptoms, history, or examination findings here — assessment only. Drug doses and new prescriptions belong clearly listed under the relevant problem's plan. Include differential diagnoses where clinically relevant, noting which are being ruled out (\"r/o\"). For psychiatric notes, include safety plan elements when relevant.",
+        "instruction_fr": "Organiser sous forme de liste numérotée de problèmes. Chaque item = un diagnostic ou problème clinique actif, suivi immédiatement de ses actions de prise en charge. Mettre le nom du diagnostic en gras. Ne PAS reprendre ici les symptômes, l'histoire ou les résultats d'examen — impression seulement. Les doses de médicaments et nouvelles prescriptions sont clairement listées sous le plan du problème pertinent. Inclure les diagnostics différentiels lorsque cliniquement pertinent, en notant ceux à éliminer (\"r/o\"). Pour les notes psychiatriques, inclure les éléments du plan de sécurité si pertinent.",
+        "example": "1) **Trouble dépressif majeur — épisode en cours**\n   - Augmenter Sertraline (Zoloft) 100 mg → 150 mg po die\n   - Référence en psychologie / psychothérapie\n   - Plan de sécurité : ressources rappelées (CAP, 1-866-APPELLE)\n   - Consignes de retour si idéation suicidaire active\n   r/o composante bipolaire si virage hypomaniaque sous antidépresseur\n\n2) **Insomnie — associée à l'épisode dépressif**\n   - Hygiène du sommeil renforcée\n   - Maintenir Quétiapine (Séroquel) 25 mg po hs"
       },
       {
         "en": "Patient Education",
@@ -2069,6 +2240,15 @@
         "example": ""
       },
       {
+        "en": "ASSESSMENT & PLAN",
+        "fr": "IMPRESSION ET CONDUITE",
+        "group": "ASSESSMENT & PLAN",
+        "condition": "",
+        "instruction_en": "Organize as a numbered problem list. Each item = one diagnosis or active clinical problem, followed immediately by its management actions. Use bold for the diagnosis name. Do NOT restate symptoms, history, or examination findings here — assessment only. Drug doses and new prescriptions belong clearly listed under the relevant problem's plan. Include differential diagnoses where clinically relevant, noting which are being ruled out (\"r/o\"). For psychiatric notes, include safety plan elements when relevant.",
+        "instruction_fr": "Organiser sous forme de liste numérotée de problèmes. Chaque item = un diagnostic ou problème clinique actif, suivi immédiatement de ses actions de prise en charge. Mettre le nom du diagnostic en gras. Ne PAS reprendre ici les symptômes, l'histoire ou les résultats d'examen — impression seulement. Les doses de médicaments et nouvelles prescriptions sont clairement listées sous le plan du problème pertinent. Inclure les diagnostics différentiels lorsque cliniquement pertinent, en notant ceux à éliminer (\"r/o\"). Pour les notes psychiatriques, inclure les éléments du plan de sécurité si pertinent.",
+        "example": "1) **Trouble dépressif majeur — épisode modéré à sévère**\n   - Augmenter Sertraline (Zoloft) 100 mg → 150 mg po die\n   - Référence en psychologie / psychothérapie\n   - Arrêt de travail prolongé — formulaire complété\n   - Suivi dans 3 semaines pour réévaluation\n   r/o trouble bipolaire — anamnèse et évolution à surveiller\n\n2) **Idéation suicidaire passive — risque faible à modéré**\n   - Plan de sécurité établi : personnes ressources identifiées, numéro de crise remis\n   - Accès aux moyens létaux évalué et sécurisé\n   - Consignes de retour aux urgences si aggravation\n   - Consentement à contact avec proche de soutien obtenu\n\n3) **Insomnie — associée à l'épisode dépressif**\n   - Hygiène du sommeil renforcée\n   - Quétiapine (Seroquel) 50 mg po hs maintenue"
+      },
+      {
         "en": "Patient Education",
         "fr": "Enseignement au patient",
         "group": "ASSESSMENT & PLAN",
@@ -2165,6 +2345,15 @@
         "instruction_en": "Report all investigation results mentioned. Include date of each result. If prior comparative values are available, include them in parentheses. Organize under sub-headings: Laboratoire, Imagerie, Autres (ECG, spirométrie, etc.). Report exhaustively — do not summarize or omit mentioned values. List laboratory results with date. Organize by panel (e.g., FSC, électrolytes, bilan hépatique, coagulation, marqueurs cardiaques). Include prior values in parentheses for trending. Flag abnormal values if clinician does so in transcript. Report imaging results with modality, body region, date, and key findings. If no date is mentioned, assume it is the most recent study of that type. Report all findings mentioned exhaustively.",
         "instruction_fr": "Rapporter tous les résultats d'examens mentionnés. Inclure la date de chaque résultat. Si des valeurs comparatives antérieures sont disponibles, les inclure entre parenthèses. Organiser sous des sous-titres : Laboratoire, Imagerie, Autres (ECG, spirométrie, etc.). Rapporter de manière exhaustive — ne pas résumer ni omettre les valeurs mentionnées. Lister les résultats de laboratoire avec la date. Organiser par panel (ex. : FSC, électrolytes, bilan hépatique, coagulation, marqueurs cardiaques). Inclure les valeurs antérieures entre parenthèses pour le suivi de tendance. Signaler les valeurs anormales si le clinicien le fait dans la transcription. Rapporter les résultats d'imagerie avec la modalité, la région corporelle, la date et les constatations principales. Si aucune date n'est mentionnée, supposer qu'il s'agit du dernier examen de ce type. Rapporter toutes les constatations mentionnées de manière exhaustive.",
         "example": ""
+      },
+      {
+        "en": "ASSESSMENT & PLAN",
+        "fr": "IMPRESSION ET CONDUITE",
+        "group": "ASSESSMENT & PLAN",
+        "condition": "",
+        "instruction_en": "Organize as a numbered problem list. Each item = one diagnosis or active clinical problem, followed immediately by its management actions. Use bold for the diagnosis name. Do NOT restate symptoms, history, or examination findings here — assessment only. Drug doses and new prescriptions belong clearly listed under the relevant problem's plan. Include differential diagnoses where clinically relevant, noting which are being ruled out (\"r/o\"). For this note type, address the single active problem.",
+        "instruction_fr": "Organiser sous forme de liste numérotée de problèmes. Chaque item = un diagnostic ou problème clinique actif, suivi immédiatement de ses actions de prise en charge. Mettre le nom du diagnostic en gras. Ne PAS reprendre ici les symptômes, l'histoire ou les résultats d'examen — impression seulement. Les doses de médicaments et nouvelles prescriptions sont clairement listées sous le plan du problème pertinent. Inclure les diagnostics différentiels lorsque cliniquement pertinent, en notant ceux à éliminer (\"r/o\"). Pour ce type de note, aborder le problème actif unique.",
+        "example": "1) **Pharyngite bactérienne présumée**\n   - Test rapide streptocoque réalisé en clinique\n   - Amoxicilline (Amoxil) 500 mg po tid × 10 jours\n   - Analgésie : Acétaminophène (Tylenol) 500–1000 mg po q4–6h au besoin\n   - Retour si aggravation, dysphagie sévère, stridor, fièvre persistante > 48 h sous antibiotiques\n   r/o mononucléose infectieuse si non réponse au traitement"
       },
       {
         "en": "Patient Education",
@@ -2272,6 +2461,15 @@
         "instruction_en": "Report all investigation results mentioned. Include date of each result. If prior comparative values are available, include them in parentheses. Organize under sub-headings: Laboratoire, Imagerie, Autres (ECG, EMG, spirométrie, etc.). Report exhaustively — do not summarize or omit mentioned values. List laboratory results with date. Organize by panel (e.g., FSC, électrolytes, bilan hépatique, coagulation, marqueurs cardiaques). Include prior values in parentheses for trending. Flag abnormal values if clinician does so in transcript. Report imaging results with modality, body region, date, and key findings. If no date is mentioned, assume it is the most recent study of that type. Report all findings mentioned exhaustively.",
         "instruction_fr": "Rapporter tous les résultats d'examens mentionnés. Inclure la date de chaque résultat. Si des valeurs comparatives antérieures sont disponibles, les inclure entre parenthèses. Organiser sous des sous-titres : Laboratoire, Imagerie, Autres (ECG, EMG, spirométrie, etc.). Rapporter de manière exhaustive — ne pas résumer ni omettre les valeurs mentionnées. Lister les résultats de laboratoire avec la date. Organiser par panel (ex. : FSC, électrolytes, bilan hépatique, coagulation, marqueurs cardiaques). Inclure les valeurs antérieures entre parenthèses pour le suivi de tendance. Signaler les valeurs anormales si le clinicien le fait dans la transcription. Rapporter les résultats d'imagerie avec la modalité, la région corporelle, la date et les constatations principales. Si aucune date n'est mentionnée, supposer qu'il s'agit du dernier examen de ce type. Rapporter toutes les constatations mentionnées de manière exhaustive.",
         "example": ""
+      },
+      {
+        "en": "ASSESSMENT & PLAN",
+        "fr": "IMPRESSION ET CONDUITE",
+        "group": "ASSESSMENT & PLAN",
+        "condition": "",
+        "instruction_en": "Organize as a numbered problem list. Each item = one diagnosis or active clinical problem, followed immediately by its management actions. Use bold for the diagnosis name. Do NOT restate symptoms, history, or examination findings here — assessment only. Drug doses and new prescriptions belong in the Medications section or clearly listed under the relevant problem's plan. Include differential diagnoses where clinically relevant, noting which are being ruled out (\"r/o\"). For multi-complaint or multimorbidity notes, address each active problem. For geriatric evaluations, include functional goals in the plan where applicable. For psychiatric notes, include safety plan elements when relevant.",
+        "instruction_fr": "Organiser sous forme de liste numérotée de problèmes. Chaque item = un diagnostic ou problème clinique actif, suivi immédiatement de ses actions de prise en charge. Mettre le nom du diagnostic en gras. Ne PAS reprendre ici les symptômes, l'histoire ou les résultats d'examen — impression seulement. Les doses de médicaments et nouvelles prescriptions appartiennent à la section Médication ou clairement listées sous le plan du problème pertinent. Inclure les diagnostics différentiels lorsque cliniquement pertinent, en notant ceux à éliminer (\"r/o\"). Pour les notes à plaintes multiples ou de multimorbidité, aborder chaque problème actif. Pour les évaluations gériatriques, inclure les objectifs fonctionnels dans le plan si applicable. Pour les notes psychiatriques, inclure les éléments du plan de sécurité si pertinent.",
+        "example": "1) **Fibrillation auriculaire paroxystique — nouveau diagnostic**\n   - ECG 12 dérivations\n   - Bilan thyroïdien, FSC, électrolytes\n   - Anticoagulation : discuter bénéfice/risque, initier Apixaban (Eliquis) selon score CHA₂DS₂-VASc\n   - Référence cardiologie en semi-urgence\n   - Monitoring Holter 48 h\n\n2) **Diabète de type 2 — contrôle sous-optimal**\n   - HbA1c dans bilan sanguin prochain\n   - Ajuster Metformin (Glucophage) si toléré\n   - Référence en éducation diabète\n   - Autosurveillance glycémique à jeun et 2 h postprandial\n\n3) **HTA — non contrôlée**\n   - Augmenter Ramipril (Altace)\n   - Mesures de TA à domicile bid × 2 semaines\n   r/o HTA secondaire si non réponse au traitement"
       },
       {
         "en": "Patient Education",
@@ -2435,6 +2633,15 @@
         "example": ""
       },
       {
+        "en": "ASSESSMENT & PLAN",
+        "fr": "IMPRESSION ET CONDUITE",
+        "group": "ASSESSMENT & PLAN",
+        "condition": "",
+        "instruction_en": "Organize as a numbered problem list. Each item = one diagnosis or active clinical problem, followed immediately by its management actions. Use bold for the diagnosis name. Do NOT restate symptoms, history, or examination findings here — assessment only. Drug doses and new prescriptions belong in the Medications section or clearly listed under the relevant problem's plan. Include differential diagnoses where clinically relevant, noting which are being ruled out (\"r/o\"). For multi-complaint or multimorbidity notes, address each active problem.",
+        "instruction_fr": "Organiser sous forme de liste numérotée de problèmes. Chaque item = un diagnostic ou problème clinique actif, suivi immédiatement de ses actions de prise en charge. Mettre le nom du diagnostic en gras. Ne PAS reprendre ici les symptômes, l'histoire ou les résultats d'examen — impression seulement. Les doses de médicaments et nouvelles prescriptions appartiennent à la section Médication ou clairement listées sous le plan du problème pertinent. Inclure les diagnostics différentiels lorsque cliniquement pertinent, en notant ceux à éliminer (\"r/o\"). Pour les notes à plaintes multiples ou de multimorbidité, aborder chaque problème actif.",
+        "example": "1) **Fibrillation auriculaire paroxystique — nouveau diagnostic**\n   - ECG 12 dérivations\n   - Bilan thyroïdien, FSC, électrolytes\n   - Anticoagulation : discuter bénéfice/risque, initier Apixaban (Eliquis) selon score CHA₂DS₂-VASc\n   - Référence cardiologie en semi-urgence\n   - Monitoring Holter 48 h\n\n2) **Diabète de type 2 — contrôle sous-optimal**\n   - HbA1c dans bilan sanguin prochain\n   - Ajuster Metformin (Glucophage) si toléré\n   - Référence en éducation diabète\n   - Autosurveillance glycémique à jeun et 2 h postprandial\n\n3) **HTA — non contrôlée**\n   - Augmenter Ramipril (Altace)\n   - Mesures de TA à domicile bid × 2 semaines\n   r/o HTA secondaire si non réponse au traitement"
+      },
+      {
         "en": "Patient Education",
         "fr": "Enseignement au patient",
         "group": "ASSESSMENT & PLAN",
@@ -2461,6 +2668,15 @@
     "title_fr": "Hôpital - Suivi de consultation",
     "sections": [
       {
+        "en": "FOLLOW-UP NOTE",
+        "fr": "NOTE DE SUIVI",
+        "group": "ASSESSMENT & PLAN",
+        "condition": "",
+        "instruction_en": "For inpatient or outpatient follow-up encounters, document: interval events since last assessment, patient-reported changes in symptoms, response to treatment, and any new concerns raised. Use telegraphic format. This section replaces the full HPI for follow-up notes — do not restate the original presentation. Reference the original diagnosis briefly and focus on evolution.",
+        "instruction_fr": "Pour les rencontres de suivi hospitalisé ou en clinique externe, documenter : les événements survenus depuis la dernière évaluation, les changements de symptômes rapportés par le patient, la réponse au traitement et toute nouvelle préoccupation soulevée. Utiliser un format télégraphique. Cette section remplace l'anamnèse complète pour les notes de suivi — ne pas reprendre la présentation initiale. Référencer brièvement le diagnostic initial et se concentrer sur l'évolution.",
+        "example": ""
+      },
+      {
         "en": "Vital Signs",
         "fr": "Signes vitaux",
         "group": "OBJECTIVE",
@@ -2486,6 +2702,15 @@
         "instruction_en": "Report all investigation results mentioned. Include date of each result. If prior comparative values are available, include them in parentheses. Organize under sub-headings: Laboratoire, Imagerie, Autres (ECG, EMG, spirométrie, etc.). Report exhaustively — do not summarize or omit mentioned values. List laboratory results with date. Organize by panel (e.g., FSC, électrolytes, bilan hépatique, coagulation, marqueurs cardiaques). Include prior values in parentheses for trending. Flag abnormal values if clinician does so in transcript. Report imaging results with modality, body region, date, and key findings. If no date is mentioned, assume it is the most recent study of that type. Report all findings mentioned exhaustively.",
         "instruction_fr": "Rapporter tous les résultats d'examens mentionnés. Inclure la date de chaque résultat. Si des valeurs comparatives antérieures sont disponibles, les inclure entre parenthèses. Organiser sous des sous-titres : Laboratoire, Imagerie, Autres (ECG, EMG, spirométrie, etc.). Rapporter de manière exhaustive — ne pas résumer ni omettre les valeurs mentionnées. Lister les résultats de laboratoire avec la date. Organiser par panel (ex. : FSC, électrolytes, bilan hépatique, coagulation, marqueurs cardiaques). Inclure les valeurs antérieures entre parenthèses pour le suivi de tendance. Signaler les valeurs anormales si le clinicien le fait dans la transcription. Rapporter les résultats d'imagerie avec la modalité, la région corporelle, la date et les constatations principales. Si aucune date n'est mentionnée, supposer qu'il s'agit du dernier examen de ce type. Rapporter toutes les constatations mentionnées de manière exhaustive.",
         "example": ""
+      },
+      {
+        "en": "ASSESSMENT & PLAN",
+        "fr": "IMPRESSION ET CONDUITE",
+        "group": "ASSESSMENT & PLAN",
+        "condition": "",
+        "instruction_en": "Organize as a numbered problem list. Each item = one diagnosis or active clinical problem, followed immediately by its management actions. Use bold for the diagnosis name. Do NOT restate symptoms, history, or examination findings here — assessment only. Drug doses and new prescriptions belong in the Medications section or clearly listed under the relevant problem's plan. Include differential diagnoses where clinically relevant, noting which are being ruled out (\"r/o\"). For multi-complaint or multimorbidity notes, address each active problem.",
+        "instruction_fr": "Organiser sous forme de liste numérotée de problèmes. Chaque item = un diagnostic ou problème clinique actif, suivi immédiatement de ses actions de prise en charge. Mettre le nom du diagnostic en gras. Ne PAS reprendre ici les symptômes, l'histoire ou les résultats d'examen — impression seulement. Les doses de médicaments et nouvelles prescriptions appartiennent à la section Médication ou clairement listées sous le plan du problème pertinent. Inclure les diagnostics différentiels lorsque cliniquement pertinent, en notant ceux à éliminer (\"r/o\"). Pour les notes à plaintes multiples ou de multimorbidité, aborder chaque problème actif.",
+        "example": "1) **Fibrillation auriculaire paroxystique — évolution sous traitement**\n   - Rythme sinusal rétabli à l'ECG de contrôle\n   - Poursuivre Apixaban (Eliquis) dose actuelle\n   - Vérifier bilan rénal et hépatique avant prochain ajustement\n   - Suivi cardiologie maintenu\n\n2) **Diabète de type 2 — contrôle en amélioration**\n   - Glycémies capillaires en baisse selon carnet\n   - Maintenir Metformin (Glucophage) dose actuelle\n   - HbA1c à recontrôler dans 3 mois\n\n3) **HTA — partiellement contrôlée**\n   - TA en diminution par rapport à la valeur antérieure\n   - Poursuivre Ramipril (Altace) dose augmentée\n   r/o HTA secondaire si non réponse au traitement"
       },
       {
         "en": "Medications",
@@ -2676,6 +2901,15 @@
         "example": ""
       },
       {
+        "en": "ASSESSMENT & PLAN",
+        "fr": "IMPRESSION ET CONDUITE",
+        "group": "ASSESSMENT & PLAN",
+        "condition": "",
+        "instruction_en": "Organize as a numbered problem list. Each item = one diagnosis or active clinical problem, followed immediately by its management actions. Use bold for the diagnosis name. Do NOT restate symptoms, history, or examination findings here — assessment only. Drug doses and new prescriptions belong in the Medications section or clearly listed under the relevant problem's plan. Include differential diagnoses where clinically relevant, noting which are being ruled out (\"r/o\"). For multi-complaint or multimorbidity notes, address each active problem.",
+        "instruction_fr": "Organiser sous forme de liste numérotée de problèmes. Chaque item = un diagnostic ou problème clinique actif, suivi immédiatement de ses actions de prise en charge. Mettre le nom du diagnostic en gras. Ne PAS reprendre ici les symptômes, l'histoire ou les résultats d'examen — impression seulement. Les doses de médicaments et nouvelles prescriptions appartiennent à la section Médication ou clairement listées sous le plan du problème pertinent. Inclure les diagnostics différentiels lorsque cliniquement pertinent, en notant ceux à éliminer (\"r/o\"). Pour les notes à plaintes multiples ou de multimorbidité, aborder chaque problème actif.",
+        "example": "1) **Fibrillation auriculaire paroxystique — nouveau diagnostic**\n   - ECG 12 dérivations\n   - Bilan thyroïdien, FSC, électrolytes\n   - Anticoagulation : discuter bénéfice/risque, initier Apixaban (Eliquis) selon score CHA₂DS₂-VASc\n   - Référence cardiologie en semi-urgence\n   - Monitoring Holter 48 h\n\n2) **Diabète de type 2 — contrôle sous-optimal**\n   - HbA1c dans bilan sanguin prochain\n   - Ajuster Metformin (Glucophage) si toléré\n   - Référence en éducation diabète\n   - Autosurveillance glycémique à jeun et 2 h postprandial\n\n3) **HTA — non contrôlée**\n   - Augmenter Ramipril (Altace)\n   - Mesures de TA à domicile bid × 2 semaines\n   r/o HTA secondaire si non réponse au traitement"
+      },
+      {
         "en": "Patient Education",
         "fr": "Enseignement au patient",
         "group": "ASSESSMENT & PLAN",
@@ -2756,6 +2990,15 @@
         "example": ""
       },
       {
+        "en": "FOLLOW-UP NOTE",
+        "fr": "NOTE DE SUIVI",
+        "group": "ASSESSMENT & PLAN",
+        "condition": "",
+        "instruction_en": "For outpatient follow-up encounters, document: interval events since last assessment, patient-reported changes in symptoms, response to treatment, and any new concerns raised. Use telegraphic format. This section replaces the full HPI for follow-up notes — do not restate the original presentation. Reference the original diagnosis briefly and focus on evolution.",
+        "instruction_fr": "Pour les rencontres de suivi en clinique externe, documenter : les événements survenus depuis la dernière évaluation, les changements de symptômes rapportés par le patient, la réponse au traitement et toute nouvelle préoccupation soulevée. Utiliser un format télégraphique. Cette section remplace l'anamnèse complète pour les notes de suivi — ne pas reprendre la présentation initiale. Référencer brièvement le diagnostic initial et se concentrer sur l'évolution.",
+        "example": ""
+      },
+      {
         "en": "Vital Signs",
         "fr": "Signes vitaux",
         "group": "OBJECTIVE",
@@ -2781,6 +3024,15 @@
         "instruction_en": "Report all investigation results mentioned. Include date of each result. If prior comparative values are available, include them in parentheses. Organize under sub-headings: Laboratoire, Imagerie, Autres (ECG, EMG, spirométrie, etc.). Report exhaustively — do not summarize or omit mentioned values. List laboratory results with date. Organize by panel (e.g., FSC, électrolytes, bilan hépatique, coagulation, marqueurs cardiaques). Include prior values in parentheses for trending. Flag abnormal values if clinician does so in transcript. Report imaging results with modality, body region, date, and key findings. If no date is mentioned, assume it is the most recent study of that type. Report all findings mentioned exhaustively.",
         "instruction_fr": "Rapporter tous les résultats d'examens mentionnés. Inclure la date de chaque résultat. Si des valeurs comparatives antérieures sont disponibles, les inclure entre parenthèses. Organiser sous des sous-titres : Laboratoire, Imagerie, Autres (ECG, EMG, spirométrie, etc.). Rapporter de manière exhaustive — ne pas résumer ni omettre les valeurs mentionnées. Lister les résultats de laboratoire avec la date. Organiser par panel (ex. : FSC, électrolytes, bilan hépatique, coagulation, marqueurs cardiaques). Inclure les valeurs antérieures entre parenthèses pour le suivi de tendance. Signaler les valeurs anormales si le clinicien le fait dans la transcription. Rapporter les résultats d'imagerie avec la modalité, la région corporelle, la date et les constatations principales. Si aucune date n'est mentionnée, supposer qu'il s'agit du dernier examen de ce type. Rapporter toutes les constatations mentionnées de manière exhaustive.",
         "example": ""
+      },
+      {
+        "en": "ASSESSMENT & PLAN",
+        "fr": "IMPRESSION ET CONDUITE",
+        "group": "ASSESSMENT & PLAN",
+        "condition": "",
+        "instruction_en": "Organize as a numbered problem list. Each item = one diagnosis or active clinical problem, followed immediately by its management actions. Use bold for the diagnosis name. Do NOT restate symptoms, history, or examination findings here — assessment only. Drug doses and new prescriptions belong in the Medications section or clearly listed under the relevant problem's plan. Include differential diagnoses where clinically relevant, noting which are being ruled out (\"r/o\"). For multi-complaint or multimorbidity notes, address each active problem.",
+        "instruction_fr": "Organiser sous forme de liste numérotée de problèmes. Chaque item = un diagnostic ou problème clinique actif, suivi immédiatement de ses actions de prise en charge. Mettre le nom du diagnostic en gras. Ne PAS reprendre ici les symptômes, l'histoire ou les résultats d'examen — impression seulement. Les doses de médicaments et nouvelles prescriptions appartiennent à la section Médication ou clairement listées sous le plan du problème pertinent. Inclure les diagnostics différentiels lorsque cliniquement pertinent, en notant ceux à éliminer (\"r/o\"). Pour les notes à plaintes multiples ou de multimorbidité, aborder chaque problème actif.",
+        "example": "1) **Fibrillation auriculaire paroxystique — nouveau diagnostic**\n   - ECG 12 dérivations\n   - Bilan thyroïdien, FSC, électrolytes\n   - Anticoagulation : discuter bénéfice/risque, initier Apixaban (Eliquis) selon score CHA₂DS₂-VASc\n   - Référence cardiologie en semi-urgence\n   - Monitoring Holter 48 h\n\n2) **Diabète de type 2 — contrôle sous-optimal**\n   - HbA1c dans bilan sanguin prochain\n   - Ajuster Metformin (Glucophage) si toléré\n   - Référence en éducation diabète\n   - Autosurveillance glycémique à jeun et 2 h postprandial\n\n3) **HTA — non contrôlée**\n   - Augmenter Ramipril (Altace)\n   - Mesures de TA à domicile bid × 2 semaines\n   r/o HTA secondaire si non réponse au traitement"
       },
       {
         "en": "Patient Education",
@@ -2980,6 +3232,15 @@
         "example": ""
       },
       {
+        "en": "ASSESSMENT & PLAN",
+        "fr": "IMPRESSION ET CONDUITE",
+        "group": "ASSESSMENT & PLAN",
+        "condition": "",
+        "instruction_en": "Organize as a numbered problem list. Each item = one diagnosis or active clinical problem, followed immediately by its management actions. Use bold for the diagnosis name. Do NOT restate symptoms, history, or examination findings here — assessment only. Drug doses and new prescriptions belong in the Medications section or clearly listed under the relevant problem's plan. Include differential diagnoses where clinically relevant, noting which are being ruled out (\"r/o\"). For multi-complaint or multimorbidity notes, address each active problem. For geriatric evaluations, include functional goals in the plan where applicable.",
+        "instruction_fr": "Organiser sous forme de liste numérotée de problèmes. Chaque item = un diagnostic ou problème clinique actif, suivi immédiatement de ses actions de prise en charge. Mettre le nom du diagnostic en gras. Ne PAS reprendre ici les symptômes, l'histoire ou les résultats d'examen — impression seulement. Les doses de médicaments et nouvelles prescriptions appartiennent à la section Médication ou clairement listées sous le plan du problème pertinent. Inclure les diagnostics différentiels lorsque cliniquement pertinent, en notant ceux à éliminer (\"r/o\"). Pour les notes à plaintes multiples ou de multimorbidité, aborder chaque problème actif. Pour les évaluations gériatriques, inclure les objectifs fonctionnels dans le plan si applicable.",
+        "example": "1) **Trouble neurocognitif majeur — probable maladie d'Alzheimer**\n   - Bilan biologique : FSC, électrolytes, TSH, B12, folates, glycémie, bilan hépatique, créatinine\n   - Imagerie : TDM cérébral sans contraste si non récent\n   - Référence en neuropsychologie pour évaluation formelle\n   - Discuter traitement inhibiteur de la cholinestérase selon résultats\n   - r/o cause réversible (hypothyroïdie, carence B12, hydrocéphalie à pression normale)\n   - Objectif fonctionnel : maintien à domicile avec soutien CLSC\n\n2) **Chutes à répétition — risque élevé**\n   - Révision médicamenteuse : déprescription si médicaments à risque de chutes identifiés\n   - Référence en physiothérapie pour programme d'équilibre et renforcement\n   - Évaluation de l'environnement domiciliaire (ergothérapie)\n   - Supplémentation vitamine D si non en cours\n   - Discuter port de protège-hanches\n\n3) **Niveau de soins — à clarifier**\n   - Discussion à planifier avec patient et famille concernant directives anticipées\n   - Vérifier statut du mandat en cas d'inaptitude"
+      },
+      {
         "en": "Patient Education",
         "fr": "Enseignement au patient",
         "group": "ASSESSMENT & PLAN",
@@ -3159,6 +3420,15 @@
         "example": ""
       },
       {
+        "en": "ASSESSMENT & PLAN",
+        "fr": "IMPRESSION ET CONDUITE",
+        "group": "ASSESSMENT & PLAN",
+        "condition": "",
+        "instruction_en": "Organize as a numbered problem list. Each item = one diagnosis or active clinical problem, followed immediately by its management actions. Use bold for the diagnosis name. Do NOT restate symptoms, history, or examination findings here — assessment only. Drug doses and new prescriptions belong in the Medications section or clearly listed under the relevant problem's plan. Include differential diagnoses where clinically relevant, noting which are being ruled out (\"r/o\"). For multi-complaint or multimorbidity notes, address each active problem.",
+        "instruction_fr": "Organiser sous forme de liste numérotée de problèmes. Chaque item = un diagnostic ou problème clinique actif, suivi immédiatement de ses actions de prise en charge. Mettre le nom du diagnostic en gras. Ne PAS reprendre ici les symptômes, l'histoire ou les résultats d'examen — impression seulement. Les doses de médicaments et nouvelles prescriptions appartiennent à la section Médication ou clairement listées sous le plan du problème pertinent. Inclure les diagnostics différentiels lorsque cliniquement pertinent, en notant ceux à éliminer (\"r/o\"). Pour les notes à plaintes multiples ou de multimorbidité, aborder chaque problème actif.",
+        "example": "1) **Fibrillation auriculaire paroxystique — nouveau diagnostic**\n   - ECG 12 dérivations\n   - Bilan thyroïdien, FSC, électrolytes\n   - Anticoagulation : discuter bénéfice/risque, initier Apixaban (Eliquis) selon score CHA₂DS₂-VASc\n   - Référence cardiologie en semi-urgence\n   - Monitoring Holter 48 h\n\n2) **Diabète de type 2 — contrôle sous-optimal**\n   - HbA1c dans bilan sanguin prochain\n   - Ajuster Metformin (Glucophage) si toléré\n   - Référence en éducation diabète\n   - Autosurveillance glycémique à jeun et 2 h postprandial\n\n3) **HTA — non contrôlée**\n   - Augmenter Ramipril (Altace)\n   - Mesures de TA à domicile bid × 2 semaines\n   r/o HTA secondaire si non réponse au traitement"
+      },
+      {
         "en": "Patient Education",
         "fr": "Enseignement au patient",
         "group": "ASSESSMENT & PLAN",
@@ -3212,6 +3482,15 @@
         "example": "Usuel : Metformin (Glucophage) 500 mg po bid, Ramipril (Altace) 5 mg po die, Atorvastatine (Lipitor) 40 mg po die (augmenté)\nHospitalisation : Héparine 5000 UI SC tid, Pantoprazole (Pantoloc) 40 mg IV die (nouveau)"
       },
       {
+        "en": "FOLLOW-UP NOTE",
+        "fr": "NOTE DE SUIVI",
+        "group": "ASSESSMENT & PLAN",
+        "condition": "",
+        "instruction_en": "For inpatient or outpatient follow-up encounters, document: interval events since last assessment, patient-reported changes in symptoms, response to treatment, and any new concerns raised. Use telegraphic format. This section replaces the full HPI for follow-up notes — do not restate the original presentation. Reference the original diagnosis briefly and focus on evolution.",
+        "instruction_fr": "Pour les rencontres de suivi hospitalisé ou en clinique externe, documenter : les événements survenus depuis la dernière évaluation, les changements de symptômes rapportés par le patient, la réponse au traitement et toute nouvelle préoccupation soulevée. Utiliser un format télégraphique. Cette section remplace l'anamnèse complète pour les notes de suivi — ne pas reprendre la présentation initiale. Référencer brièvement le diagnostic initial et se concentrer sur l'évolution.",
+        "example": ""
+      },
+      {
         "en": "Vital Signs",
         "fr": "Signes vitaux",
         "group": "OBJECTIVE",
@@ -3237,6 +3516,15 @@
         "instruction_en": "Report all investigation results mentioned. Include date of each result. If prior comparative values are available, include them in parentheses. Organize under sub-headings: Laboratoire, Imagerie, Autres (ECG, EMG, spirométrie, etc.). Report exhaustively — do not summarize or omit mentioned values. List laboratory results with date. Organize by panel (e.g., FSC, électrolytes, bilan hépatique, coagulation, marqueurs cardiaques). Include prior values in parentheses for trending. Flag abnormal values if clinician does so in transcript. Report imaging results with modality, body region, date, and key findings. If no date is mentioned, assume it is the most recent study of that type. Report all findings mentioned exhaustively.",
         "instruction_fr": "Rapporter tous les résultats d'examens mentionnés. Inclure la date de chaque résultat. Si des valeurs comparatives antérieures sont disponibles, les inclure entre parenthèses. Organiser sous des sous-titres : Laboratoire, Imagerie, Autres (ECG, EMG, spirométrie, etc.). Rapporter de manière exhaustive — ne pas résumer ni omettre les valeurs mentionnées. Lister les résultats de laboratoire avec la date. Organiser par panel (ex. : FSC, électrolytes, bilan hépatique, coagulation, marqueurs cardiaques). Inclure les valeurs antérieures entre parenthèses pour le suivi de tendance. Signaler les valeurs anormales si le clinicien le fait dans la transcription. Rapporter les résultats d'imagerie avec la modalité, la région corporelle, la date et les constatations principales. Si aucune date n'est mentionnée, supposer qu'il s'agit du dernier examen de ce type. Rapporter toutes les constatations mentionnées de manière exhaustive.",
         "example": ""
+      },
+      {
+        "en": "ASSESSMENT & PLAN",
+        "fr": "IMPRESSION ET CONDUITE",
+        "group": "ASSESSMENT & PLAN",
+        "condition": "",
+        "instruction_en": "Organize as a numbered problem list. Each item = one diagnosis or active clinical problem, followed immediately by its management actions. Use bold for the diagnosis name. Do NOT restate symptoms, history, or examination findings here — assessment only. Drug doses and new prescriptions belong in the Medications section or clearly listed under the relevant problem's plan. Include differential diagnoses where clinically relevant, noting which are being ruled out (\"r/o\"). For multi-complaint or multimorbidity notes, address each active problem.",
+        "instruction_fr": "Organiser sous forme de liste numérotée de problèmes. Chaque item = un diagnostic ou problème clinique actif, suivi immédiatement de ses actions de prise en charge. Mettre le nom du diagnostic en gras. Ne PAS reprendre ici les symptômes, l'histoire ou les résultats d'examen — impression seulement. Les doses de médicaments et nouvelles prescriptions appartiennent à la section Médication ou clairement listées sous le plan du problème pertinent. Inclure les diagnostics différentiels lorsque cliniquement pertinent, en notant ceux à éliminer (\"r/o\"). Pour les notes à plaintes multiples ou de multimorbidité, aborder chaque problème actif.",
+        "example": "1) **Fibrillation auriculaire paroxystique — nouveau diagnostic**\n   - ECG 12 dérivations\n   - Bilan thyroïdien, FSC, électrolytes\n   - Anticoagulation : discuter bénéfice/risque, initier Apixaban (Eliquis) selon score CHA₂DS₂-VASc\n   - Référence cardiologie en semi-urgence\n   - Monitoring Holter 48 h\n\n2) **Diabète de type 2 — contrôle sous-optimal**\n   - HbA1c dans bilan sanguin prochain\n   - Ajuster Metformin (Glucophage) si toléré\n   - Référence en éducation diabète\n   - Autosurveillance glycémique à jeun et 2 h postprandial\n\n3) **HTA — non contrôlée**\n   - Augmenter Ramipril (Altace)\n   - Mesures de TA à domicile bid × 2 semaines\n   r/o HTA secondaire si non réponse au traitement"
       },
       {
         "en": "Patient Education",
@@ -3418,6 +3706,15 @@
         "example": ""
       },
       {
+        "en": "ASSESSMENT & PLAN",
+        "fr": "IMPRESSION ET CONDUITE",
+        "group": "ASSESSMENT & PLAN",
+        "condition": "",
+        "instruction_en": "Organize as a numbered problem list. Each item = one diagnosis or active clinical problem, followed immediately by its management actions. Use bold for the diagnosis name. Do NOT restate symptoms, history, or examination findings here — assessment only. Drug doses and new prescriptions belong in the Medications section or clearly listed under the relevant problem's plan. Include differential diagnoses where clinically relevant, noting which are being ruled out (\"r/o\"). For multi-complaint or multimorbidity notes, address each active problem. For geriatric evaluations, include functional goals in the plan where applicable.",
+        "instruction_fr": "Organiser sous forme de liste numérotée de problèmes. Chaque item = un diagnostic ou problème clinique actif, suivi immédiatement de ses actions de prise en charge. Mettre le nom du diagnostic en gras. Ne PAS reprendre ici les symptômes, l'histoire ou les résultats d'examen — impression seulement. Les doses de médicaments et nouvelles prescriptions appartiennent à la section Médication ou clairement listées sous le plan du problème pertinent. Inclure les diagnostics différentiels lorsque cliniquement pertinent, en notant ceux à éliminer (\"r/o\"). Pour les notes à plaintes multiples ou de multimorbidité, aborder chaque problème actif. Pour les évaluations gériatriques, inclure les objectifs fonctionnels dans le plan si applicable.",
+        "example": "1) **AVC ischémique sylvien gauche — présumé**\n   - Activation protocole AVC\n   - TDM cérébral sans contraste en urgence; IRM cérébrale + angio-IRM si disponible\n   - Évaluation éligibilité thrombolyse IV (Alteplase) selon critères d'inclusion/exclusion\n   - Monitoring cardiaque continu, TA q1h\n   - NPO jusqu'à évaluation dysphagie par orthophonie\n   - Admission unité neurovasculaire\n   r/o AVC hémorragique (TDM en attente)\n   r/o AIT avec lésion ischémique constituée\n\n2) **FA — facteur étiologique à préciser**\n   - ECG 12 dérivations\n   - Holter cardiaque ou monitoring prolongé\n   - Anticoagulation différée en attente neuroimagerie\n\n3) **HTA — non contrôlée en contexte aigu**\n   - Objectif tensionnel selon protocole AVC (ne pas traiter si TA < 220/120 mmHg avant thrombolyse)\n   - Réévaluation antihypertenseurs après phase aiguë"
+      },
+      {
         "en": "Patient Education",
         "fr": "Enseignement au patient",
         "group": "ASSESSMENT & PLAN",
@@ -3516,6 +3813,15 @@
         "example": ""
       },
       {
+        "en": "ASSESSMENT & PLAN",
+        "fr": "IMPRESSION ET CONDUITE",
+        "group": "ASSESSMENT & PLAN",
+        "condition": "",
+        "instruction_en": "Organize as a numbered problem list. Each item = one diagnosis or active clinical problem, followed immediately by its management actions. Use bold for the diagnosis name. Do NOT restate symptoms, history, or examination findings here — assessment only. Drug doses and new prescriptions belong in the Medications section or clearly listed under the relevant problem's plan. Include differential diagnoses where clinically relevant, noting which are being ruled out (\"r/o\"). For multi-complaint or multimorbidity notes, address each active problem.",
+        "instruction_fr": "Organiser sous forme de liste numérotée de problèmes. Chaque item = un diagnostic ou problème clinique actif, suivi immédiatement de ses actions de prise en charge. Mettre le nom du diagnostic en gras. Ne PAS reprendre ici les symptômes, l'histoire ou les résultats d'examen — impression seulement. Les doses de médicaments et nouvelles prescriptions appartiennent à la section Médication ou clairement listées sous le plan du problème pertinent. Inclure les diagnostics différentiels lorsque cliniquement pertinent, en notant ceux à éliminer (\"r/o\"). Pour les notes à plaintes multiples ou de multimorbidité, aborder chaque problème actif.",
+        "example": "1) **Polyneuropathie sensitivo-motrice axonale — compatible avec neuropathie diabétique**\n   - Corrélation électrophysiologique et clinique cohérente\n   - Optimisation contrôle glycémique recommandée\n   - Référence en endocrinologie si HbA1c non contrôlée\n   - Initier Duloxétine (Cymbalta) pour douleurs neuropathiques si indiqué\n   r/o neuropathie carencielle (B12) — dosage à demander\n\n2) **Syndrome du canal carpien bilatéral — à confirmer**\n   - Latences distales médianes prolongées bilatéralement\n   - Attelles nocturnes bilatérales suggérées\n   - Référence en chirurgie de la main si échec traitement conservateur"
+      },
+      {
         "en": "Patient Education",
         "fr": "Enseignement au patient",
         "group": "ASSESSMENT & PLAN",
@@ -3542,9 +3848,18 @@
     "title_fr": "Hôpital - Suivi de consultation",
     "sections": [
       {
+        "en": "FOLLOW-UP NOTE",
+        "fr": "NOTE DE SUIVI",
+        "group": "ASSESSMENT & PLAN",
+        "condition": "",
+        "instruction_en": "For inpatient or outpatient follow-up encounters, document: interval events since last assessment, patient-reported changes in symptoms, response to treatment, and any new concerns raised. Use telegraphic format. This section replaces the full HPI for follow-up notes — do not restate the original presentation. Reference the original diagnosis briefly and focus on evolution.",
+        "instruction_fr": "Pour les rencontres de suivi hospitalisé ou en clinique externe, documenter : les événements survenus depuis la dernière évaluation, les changements de symptômes rapportés par le patient, la réponse au traitement et toute nouvelle préoccupation soulevée. Utiliser un format télégraphique. Cette section remplace l'anamnèse complète pour les notes de suivi — ne pas reprendre la présentation initiale. Référencer brièvement le diagnostic initial et se concentrer sur l'évolution.",
+        "example": ""
+      },
+      {
         "en": "Level of Care",
         "fr": "Niveau de soins",
-        "group": "FOLLOW-UP NOTE",
+        "group": "ASSESSMENT & PLAN",
         "condition": "ONLY IF MENTIONED",
         "instruction_en": "Document the patient's known or established level of care directive (e.g., RCR oui/non, niveaux de soins 1–4, code status). Include the date established and who was involved in the discussion if mentioned.",
         "instruction_fr": "Documenter la directive de niveau de soins connue ou établie (ex. : RCR oui/non, niveaux de soins 1 à 4, code de réanimation). Inclure la date d'établissement et les personnes impliquées dans la discussion si mentionnées.",
@@ -3553,7 +3868,7 @@
       {
         "en": "Medications",
         "fr": "Médication",
-        "group": "FOLLOW-UP NOTE",
+        "group": "ASSESSMENT & PLAN",
         "condition": "ONLY IF MENTIONED",
         "instruction_en": "List all current medications with Canadian trade name, dose, route, and frequency when stated. Note recent changes in parentheses: (diminué), (augmenté), (cessé), (nouveau). For hospitalized patients, separate home medications from in-hospital medications under distinct sub-headings. If dose or frequency is not mentioned, include only the drug name — do not use placeholders.",
         "instruction_fr": "Lister tous les médicaments en cours avec le nom de marque canadien, la dose, la voie d'administration et la fréquence lorsque mentionnés. Indiquer les modifications récentes entre parenthèses : (diminué), (augmenté), (cessé), (nouveau). Pour les patients hospitalisés, séparer les médicaments domiciliaires des médicaments hospitaliers sous deux sous-titres distincts. Si la dose ou la fréquence n'est pas mentionnée, inscrire uniquement le nom du médicament — ne pas utiliser de variables fictives.",
@@ -3594,6 +3909,15 @@
         "instruction_en": "Report all investigation results mentioned. Include date of each result. If prior comparative values are available, include them in parentheses. Organize under sub-headings: Laboratoire, Imagerie, Autres (ECG, EMG, spirométrie, etc.). Report exhaustively — do not summarize or omit mentioned values. List laboratory results with date. Organize by panel (e.g., FSC, électrolytes, bilan hépatique, coagulation, marqueurs cardiaques). Include prior values in parentheses for trending. Flag abnormal values if clinician does so in transcript. Report imaging results with modality, body region, date, and key findings. If no date is mentioned, assume it is the most recent study of that type. Report all findings mentioned exhaustively. Document nerve conduction study and electromyography findings in structured format. Include: nerves tested, conduction velocities, latencies, amplitudes, and EMG findings per muscle. State the electrophysiological conclusion and clinical correlation.",
         "instruction_fr": "Rapporter tous les résultats d'examens mentionnés. Inclure la date de chaque résultat. Si des valeurs comparatives antérieures sont disponibles, les inclure entre parenthèses. Organiser sous des sous-titres : Laboratoire, Imagerie, Autres (ECG, EMG, spirométrie, etc.). Rapporter de manière exhaustive — ne pas résumer ni omettre les valeurs mentionnées. Lister les résultats de laboratoire avec la date. Organiser par panel (ex. : FSC, électrolytes, bilan hépatique, coagulation, marqueurs cardiaques). Inclure les valeurs antérieures entre parenthèses pour le suivi de tendance. Signaler les valeurs anormales si le clinicien le fait dans la transcription. Rapporter les résultats d'imagerie avec la modalité, la région corporelle, la date et les constatations principales. Si aucune date n'est mentionnée, supposer qu'il s'agit du dernier examen de ce type. Rapporter toutes les constatations mentionnées de manière exhaustive. Documenter les résultats des études de conduction nerveuse et de l'électromyographie dans un format structuré. Inclure : nerfs testés, vitesses de conduction, latences, amplitudes et résultats EMG par muscle. Énoncer la conclusion électrophysiologique et la corrélation clinique.",
         "example": ""
+      },
+      {
+        "en": "ASSESSMENT & PLAN",
+        "fr": "IMPRESSION ET CONDUITE",
+        "group": "ASSESSMENT & PLAN",
+        "condition": "",
+        "instruction_en": "Organize as a numbered problem list. Each item = one diagnosis or active clinical problem, followed immediately by its management actions. Use bold for the diagnosis name. Do NOT restate symptoms, history, or examination findings here — assessment only. Drug doses and new prescriptions belong in the Medications section or clearly listed under the relevant problem's plan. Include differential diagnoses where clinically relevant, noting which are being ruled out (\"r/o\"). For multi-complaint or multimorbidity notes, address each active problem. For geriatric evaluations, include functional goals in the plan where applicable. For psychiatric notes, include safety plan elements when relevant.",
+        "instruction_fr": "Organiser sous forme de liste numérotée de problèmes. Chaque item = un diagnostic ou problème clinique actif, suivi immédiatement de ses actions de prise en charge. Mettre le nom du diagnostic en gras. Ne PAS reprendre ici les symptômes, l'histoire ou les résultats d'examen — impression seulement. Les doses de médicaments et nouvelles prescriptions appartiennent à la section Médication ou clairement listées sous le plan du problème pertinent. Inclure les diagnostics différentiels lorsque cliniquement pertinent, en notant ceux à éliminer (\"r/o\"). Pour les notes à plaintes multiples ou de multimorbidité, aborder chaque problème actif. Pour les évaluations gériatriques, inclure les objectifs fonctionnels dans le plan si applicable. Pour les notes psychiatriques, inclure les éléments du plan de sécurité si pertinent.",
+        "example": "1) **Fibrillation auriculaire paroxystique — nouveau diagnostic**\n   - ECG 12 dérivations\n   - Bilan thyroïdien, FSC, électrolytes\n   - Anticoagulation : discuter bénéfice/risque, initier Apixaban (Eliquis) selon score CHA₂DS₂-VASc\n   - Référence cardiologie en semi-urgence\n   - Monitoring Holter 48 h\n\n2) **Diabète de type 2 — contrôle sous-optimal**\n   - HbA1c dans bilan sanguin prochain\n   - Ajuster Metformin (Glucophage) si toléré\n   - Référence en éducation diabète\n   - Autosurveillance glycémique à jeun et 2 h postprandial\n\n3) **HTA — non contrôlée**\n   - Augmenter Ramipril (Altace)\n   - Mesures de TA à domicile bid × 2 semaines\n   r/o HTA secondaire si non réponse au traitement"
       },
       {
         "en": "Patient Education",
@@ -3748,6 +4072,15 @@
         "example": ""
       },
       {
+        "en": "ASSESSMENT & PLAN",
+        "fr": "IMPRESSION ET CONDUITE",
+        "group": "ASSESSMENT & PLAN",
+        "condition": "",
+        "instruction_en": "Organize as a numbered problem list. Each item = one diagnosis or active clinical problem, followed immediately by its management actions. Use bold for the diagnosis name. Do NOT restate symptoms, history, or examination findings here — assessment only. Drug doses and new prescriptions belong in the Medications section or clearly listed under the relevant problem's plan. Include differential diagnoses where clinically relevant, noting which are being ruled out (\"r/o\"). For multi-complaint or multimorbidity notes, address each active problem.",
+        "instruction_fr": "Organiser sous forme de liste numérotée de problèmes. Chaque item = un diagnostic ou problème clinique actif, suivi immédiatement de ses actions de prise en charge. Mettre le nom du diagnostic en gras. Ne PAS reprendre ici les symptômes, l'histoire ou les résultats d'examen — impression seulement. Les doses de médicaments et nouvelles prescriptions appartiennent à la section Médication ou clairement listées sous le plan du problème pertinent. Inclure les diagnostics différentiels lorsque cliniquement pertinent, en notant ceux à éliminer (\"r/o\"). Pour les notes à plaintes multiples ou de multimorbidité, aborder chaque problème actif.",
+        "example": "1) **Migraines sans aura — fréquence élevée**\n   - Critères diagnostiques ICHD-3 satisfaits\n   - Initier traitement de fond : Topiramate (Topamax) 25 mg po die × 2 semaines, puis 25 mg po bid\n   - Traitement aigu : Sumatriptan (Imitrex) 50 mg po à la demande, max 2 cp/épisode\n   - Journal des céphalées remis\n   - Retour en clinique dans 3 mois pour réévaluation\n\n2) **Engourdissements des membres inférieurs — à préciser**\n   - EMG/études de conduction nerveuse à demander\n   - Bilan sanguin : glycémie à jeun, HbA1c, B12, TSH\n   r/o polyneuropathie périphérique, r/o lésion médullaire"
+      },
+      {
         "en": "Patient Education",
         "fr": "Enseignement au patient",
         "group": "ASSESSMENT & PLAN",
@@ -3837,6 +4170,15 @@
         "example": ""
       },
       {
+        "en": "FOLLOW-UP NOTE",
+        "fr": "NOTE DE SUIVI",
+        "group": "ASSESSMENT & PLAN",
+        "condition": "",
+        "instruction_en": "For outpatient follow-up encounters, document: interval events since last assessment, patient-reported changes in symptoms, response to treatment, and any new concerns raised. Use telegraphic format. This section replaces the full HPI for follow-up notes — do not restate the original presentation. Reference the original diagnosis briefly and focus on evolution.",
+        "instruction_fr": "Pour les rencontres de suivi en clinique externe, documenter : les événements survenus depuis la dernière évaluation, les changements de symptômes rapportés par le patient, la réponse au traitement et toute nouvelle préoccupation soulevée. Utiliser un format télégraphique. Cette section remplace l'anamnèse complète pour les notes de suivi — ne pas reprendre la présentation initiale. Référencer brièvement le diagnostic initial et se concentrer sur l'évolution.",
+        "example": ""
+      },
+      {
         "en": "Vital Signs",
         "fr": "Signes vitaux",
         "group": "OBJECTIVE",
@@ -3871,6 +4213,15 @@
         "instruction_en": "Report all investigation results mentioned. Include date of each result. If prior comparative values are available, include them in parentheses. Organize under sub-headings: Laboratoire, Imagerie, Autres (ECG, EMG, spirométrie, etc.). Report exhaustively — do not summarize or omit mentioned values. List laboratory results with date. Organize by panel (e.g., FSC, électrolytes, bilan hépatique, coagulation, marqueurs cardiaques). Include prior values in parentheses for trending. Flag abnormal values if clinician does so in transcript. Report imaging results with modality, body region, date, and key findings. If no date is mentioned, assume it is the most recent study of that type. Report all findings mentioned exhaustively. Document nerve conduction study and electromyography findings in structured format. Include: nerves tested, conduction velocities, latencies, amplitudes, and EMG findings per muscle. State the electrophysiological conclusion and clinical correlation.",
         "instruction_fr": "Rapporter tous les résultats d'examens mentionnés. Inclure la date de chaque résultat. Si des valeurs comparatives antérieures sont disponibles, les inclure entre parenthèses. Organiser sous des sous-titres : Laboratoire, Imagerie, Autres (ECG, EMG, spirométrie, etc.). Rapporter de manière exhaustive — ne pas résumer ni omettre les valeurs mentionnées. Lister les résultats de laboratoire avec la date. Organiser par panel (ex. : FSC, électrolytes, bilan hépatique, coagulation, marqueurs cardiaques). Inclure les valeurs antérieures entre parenthèses pour le suivi de tendance. Signaler les valeurs anormales si le clinicien le fait dans la transcription. Rapporter les résultats d'imagerie avec la modalité, la région corporelle, la date et les constatations principales. Si aucune date n'est mentionnée, supposer qu'il s'agit du dernier examen de ce type. Rapporter toutes les constatations mentionnées de manière exhaustive. Documenter les résultats des études de conduction nerveuse et de l'électromyographie dans un format structuré. Inclure : nerfs testés, vitesses de conduction, latences, amplitudes et résultats EMG par muscle. Énoncer la conclusion électrophysiologique et la corrélation clinique.",
         "example": ""
+      },
+      {
+        "en": "ASSESSMENT & PLAN",
+        "fr": "IMPRESSION ET CONDUITE",
+        "group": "ASSESSMENT & PLAN",
+        "condition": "",
+        "instruction_en": "Organize as a numbered problem list. Each item = one diagnosis or active clinical problem, followed immediately by its management actions. Use bold for the diagnosis name. Do NOT restate symptoms, history, or examination findings here — assessment only. Drug doses and new prescriptions belong in the Medications section or clearly listed under the relevant problem's plan. Include differential diagnoses where clinically relevant, noting which are being ruled out (\"r/o\"). For multi-complaint notes, address each active problem.",
+        "instruction_fr": "Organiser sous forme de liste numérotée de problèmes. Chaque item = un diagnostic ou problème clinique actif, suivi immédiatement de ses actions de prise en charge. Mettre le nom du diagnostic en gras. Ne PAS reprendre ici les symptômes, l'histoire ou les résultats d'examen — impression seulement. Les doses de médicaments et nouvelles prescriptions appartiennent à la section Médication ou clairement listées sous le plan du problème pertinent. Inclure les diagnostics différentiels lorsque cliniquement pertinent, en notant ceux à éliminer (\"r/o\"). Pour les notes à plaintes multiples, aborder chaque problème actif.",
+        "example": "1) **Sclérose en plaques rémittente-récurrente — poussée sensitivo-motrice suspectée**\n   - IRM cérébrale et médullaire avec gadolinium — à demander\n   - Méthylprednisolone (Solu-Medrol) IV × 3 jours si nouvelle lésion active confirmée\n   - Réviser tolérance Tecfidera : bilan FSC + bilan hépatique\n   r/o pseudo-poussée secondaire à infection/fièvre\n\n2) **Spasticité — contrôle insuffisant**\n   - Augmenter Baclofen (Lioresal) graduellement\n   - Référence physiothérapie pour programme d'étirements\n   - Réévaluer dans 6 semaines\n\n3) **Fatigue neurologique**\n   - Hygiène du sommeil renforcée\n   - Évaluer indication Amantadine (Symmetrel) si fatigue persistante au prochain suivi"
       },
       {
         "en": "Patient Education",
@@ -3953,6 +4304,15 @@
         "example": ""
       },
       {
+        "en": "FOLLOW-UP NOTE",
+        "fr": "NOTE DE SUIVI",
+        "group": "ASSESSMENT & PLAN",
+        "condition": "",
+        "instruction_en": "For inpatient or outpatient follow-up encounters, document: interval events since last assessment, patient-reported changes in symptoms, response to treatment, and any new concerns raised. Use telegraphic format. This section replaces the full HPI for follow-up notes — do not restate the original presentation. Reference the original diagnosis briefly and focus on evolution.",
+        "instruction_fr": "Pour les rencontres de suivi hospitalisé ou en clinique externe, documenter : les événements survenus depuis la dernière évaluation, les changements de symptômes rapportés par le patient, la réponse au traitement et toute nouvelle préoccupation soulevée. Utiliser un format télégraphique. Cette section remplace l'anamnèse complète pour les notes de suivi — ne pas reprendre la présentation initiale. Référencer brièvement le diagnostic initial et se concentrer sur l'évolution.",
+        "example": ""
+      },
+      {
         "en": "Vital Signs",
         "fr": "Signes vitaux",
         "group": "OBJECTIVE",
@@ -3978,6 +4338,15 @@
         "instruction_en": "Report all investigation results mentioned. Include date of each result. If prior comparative values are available, include them in parentheses. Organize under sub-headings: Laboratoire, Imagerie, Autres (ECG, EMG, spirométrie, etc.). Report exhaustively — do not summarize or omit mentioned values. List laboratory results with date. Organize by panel (e.g., FSC, électrolytes, bilan hépatique, coagulation, marqueurs cardiaques). Include prior values in parentheses for trending. Flag abnormal values if clinician does so in transcript. Report imaging results with modality, body region, date, and key findings. If no date is mentioned, assume it is the most recent study of that type. Report all findings mentioned exhaustively.",
         "instruction_fr": "Rapporter tous les résultats d'examens mentionnés. Inclure la date de chaque résultat. Si des valeurs comparatives antérieures sont disponibles, les inclure entre parenthèses. Organiser sous des sous-titres : Laboratoire, Imagerie, Autres (ECG, EMG, spirométrie, etc.). Rapporter de manière exhaustive — ne pas résumer ni omettre les valeurs mentionnées. Lister les résultats de laboratoire avec la date. Organiser par panel (ex. : FSC, électrolytes, bilan hépatique, coagulation, marqueurs cardiaques). Inclure les valeurs antérieures entre parenthèses pour le suivi de tendance. Signaler les valeurs anormales si le clinicien le fait dans la transcription. Rapporter les résultats d'imagerie avec la modalité, la région corporelle, la date et les constatations principales. Si aucune date n'est mentionnée, supposer qu'il s'agit du dernier examen de ce type. Rapporter toutes les constatations mentionnées de manière exhaustive.",
         "example": ""
+      },
+      {
+        "en": "ASSESSMENT & PLAN",
+        "fr": "IMPRESSION ET CONDUITE",
+        "group": "ASSESSMENT & PLAN",
+        "condition": "",
+        "instruction_en": "Organize as a numbered problem list. Each item = one diagnosis or active clinical problem, followed immediately by its management actions. Use bold for the diagnosis name. Do NOT restate symptoms, history, or examination findings here — assessment only. Drug doses and new prescriptions belong in the Medications section or clearly listed under the relevant problem's plan. Include differential diagnoses where clinically relevant, noting which are being ruled out (\"r/o\"). For psychiatric notes, include safety plan elements when relevant.",
+        "instruction_fr": "Organiser sous forme de liste numérotée de problèmes. Chaque item = un diagnostic ou problème clinique actif, suivi immédiatement de ses actions de prise en charge. Mettre le nom du diagnostic en gras. Ne PAS reprendre ici les symptômes, l'histoire ou les résultats d'examen — impression seulement. Les doses de médicaments et nouvelles prescriptions appartiennent à la section Médication ou clairement listées sous le plan du problème pertinent. Inclure les diagnostics différentiels lorsque cliniquement pertinent, en notant ceux à éliminer (\"r/o\"). Pour les notes psychiatriques, inclure les éléments du plan de sécurité si pertinent.",
+        "example": "1) **Trouble dépressif majeur — évolution partiellement favorable**\n   - Réponse partielle à la sertraline (Zoloft) — augmentation de dose discutée\n   - Maintien psychothérapie en cours\n   - Plan de sécurité révisé : ressources connues, réseau de soutien identifié, pas d'accès aux moyens létaux\n   - Pas d'hospitalisation requise à ce stade\n\n2) **Insomnie — persistante**\n   - Recommandations d'hygiène du sommeil renforcées\n   - Réévaluation à la prochaine visite\n   r/o composante anxieuse contributrice"
       },
       {
         "en": "Patient Education",
@@ -4141,6 +4510,15 @@
         "example": ""
       },
       {
+        "en": "ASSESSMENT & PLAN",
+        "fr": "IMPRESSION ET CONDUITE",
+        "group": "ASSESSMENT & PLAN",
+        "condition": "",
+        "instruction_en": "Organize as a numbered problem list. Each item = one diagnosis or active clinical problem, followed immediately by its management actions. Use bold for the diagnosis name. Do NOT restate symptoms, history, or examination findings here — assessment only. Drug doses and new prescriptions belong clearly listed under the relevant problem's plan. Include differential diagnoses where clinically relevant, noting which are being ruled out (\"r/o\"). Address each active problem. For psychiatric notes, include safety plan elements when relevant.",
+        "instruction_fr": "Organiser sous forme de liste numérotée de problèmes. Chaque item = un diagnostic ou problème clinique actif, suivi immédiatement de ses actions de prise en charge. Mettre le nom du diagnostic en gras. Ne PAS reprendre ici les symptômes, l'histoire ou les résultats d'examen — impression seulement. Les doses de médicaments et nouvelles prescriptions sont clairement listées sous le plan du problème pertinent. Inclure les diagnostics différentiels lorsque cliniquement pertinent, en notant ceux à éliminer (\"r/o\"). Aborder chaque problème actif. Pour les notes psychiatriques, inclure les éléments du plan de sécurité si pertinent.",
+        "example": "1) **Trouble dépressif majeur — épisode modéré à sévère, sans caractéristiques psychotiques**\n   - Initier Sertraline (Zoloft) 25 mg po die × 1 semaine, puis 50 mg po die\n   - Psychothérapie : référence en TCC\n   - Suivi psychiatrique dans 3–4 semaines\n   - Plan de sécurité : numéros de crise remis; consigne de consulter à l'urgence si aggravation de l'IS ou apparition d'un plan\n   r/o trouble bipolaire de type II — surveillance des symptômes hypomaniaques sous antidépresseur\n\n2) **Idéation suicidaire passive — risque faible à modéré**\n   - Pas d'hospitalisation requise à ce stade\n   - Contrat de sécurité discuté; réseau de soutien identifié\n   - Restriction d'accès aux moyens létaux discutée avec l'entourage\n   - Réévaluation au prochain suivi\n\n3) **Bilan biologique initial — à compléter**\n   - FSC, électrolytes, glycémie à jeun, bilan hépatique, TSH, B12, folates\n   - ECG si initiation d'un antidépresseur avec effet QTc potentiel"
+      },
+      {
         "en": "Patient Education",
         "fr": "Enseignement au patient",
         "group": "ASSESSMENT & PLAN",
@@ -4221,6 +4599,15 @@
         "example": ""
       },
       {
+        "en": "FOLLOW-UP NOTE",
+        "fr": "NOTE DE SUIVI",
+        "group": "ASSESSMENT & PLAN",
+        "condition": "",
+        "instruction_en": "For outpatient follow-up encounters, document: interval events since last assessment, patient-reported changes in symptoms, response to treatment, and any new concerns raised. Use telegraphic format. This section replaces the full HPI for follow-up notes — do not restate the original presentation. Reference the original diagnosis briefly and focus on evolution. For psychiatric encounters, include mood, behaviour, sleep, appetite, suicidality, and psychotic symptoms.",
+        "instruction_fr": "Pour les rencontres de suivi en clinique externe, documenter : les événements survenus depuis la dernière évaluation, les changements de symptômes rapportés par le patient, la réponse au traitement et toute nouvelle préoccupation soulevée. Utiliser un format télégraphique. Cette section remplace l'anamnèse complète pour les notes de suivi — ne pas reprendre la présentation initiale. Référencer brièvement le diagnostic initial et se concentrer sur l'évolution. Pour les rencontres psychiatriques, inclure l'humeur, le comportement, le sommeil, l'appétit, l'idéation suicidaire et les symptômes psychotiques.",
+        "example": ""
+      },
+      {
         "en": "Vital Signs",
         "fr": "Signes vitaux",
         "group": "OBJECTIVE",
@@ -4246,6 +4633,15 @@
         "instruction_en": "Report all investigation results mentioned. Include date of each result. If prior comparative values are available, include them in parentheses. Organize under sub-headings: Laboratoire, Imagerie, Autres. Report exhaustively — do not summarize or omit mentioned values. List laboratory results with date. Organize by panel (e.g., FSC, électrolytes, bilan hépatique, coagulation, marqueurs cardiaques). Include prior values in parentheses for trending. Flag abnormal values if clinician does so in transcript. Report imaging results with modality, body region, date, and key findings. If no date is mentioned, assume it is the most recent study of that type. Report all findings mentioned exhaustively.",
         "instruction_fr": "Rapporter tous les résultats d'examens mentionnés. Inclure la date de chaque résultat. Si des valeurs comparatives antérieures sont disponibles, les inclure entre parenthèses. Organiser sous des sous-titres : Laboratoire, Imagerie, Autres. Rapporter de manière exhaustive — ne pas résumer ni omettre les valeurs mentionnées. Lister les résultats de laboratoire avec la date. Organiser par panel (ex. : FSC, électrolytes, bilan hépatique, coagulation, marqueurs cardiaques). Inclure les valeurs antérieures entre parenthèses pour le suivi de tendance. Signaler les valeurs anormales si le clinicien le fait dans la transcription. Rapporter les résultats d'imagerie avec la modalité, la région corporelle, la date et les constatations principales. Si aucune date n'est mentionnée, supposer qu'il s'agit du dernier examen de ce type. Rapporter toutes les constatations mentionnées de manière exhaustive.",
         "example": ""
+      },
+      {
+        "en": "ASSESSMENT & PLAN",
+        "fr": "IMPRESSION ET CONDUITE",
+        "group": "ASSESSMENT & PLAN",
+        "condition": "",
+        "instruction_en": "Organize as a numbered problem list. Each item = one diagnosis or active clinical problem, followed immediately by its management actions. Use bold for the diagnosis name. Do NOT restate symptoms, history, or examination findings here — assessment only. Drug doses and new prescriptions belong in the Medications section or clearly listed under the relevant problem's plan. Include differential diagnoses where clinically relevant, noting which are being ruled out (\"r/o\"). For multi-complaint or multimorbidity notes, address each active problem. For psychiatric notes, include safety plan elements when relevant.",
+        "instruction_fr": "Organiser sous forme de liste numérotée de problèmes. Chaque item = un diagnostic ou problème clinique actif, suivi immédiatement de ses actions de prise en charge. Mettre le nom du diagnostic en gras. Ne PAS reprendre ici les symptômes, l'histoire ou les résultats d'examen — impression seulement. Les doses de médicaments et nouvelles prescriptions appartiennent à la section Médication ou clairement listées sous le plan du problème pertinent. Inclure les diagnostics différentiels lorsque cliniquement pertinent, en notant ceux à éliminer (\"r/o\"). Pour les notes à plaintes multiples ou de multimorbidité, aborder chaque problème actif. Pour les notes psychiatriques, inclure les éléments du plan de sécurité si pertinent.",
+        "example": "1) **TDAH — suivi sous traitement pharmacologique**\n   - Réponse partielle au traitement; augmentation de dose discutée\n   - Méthylphénidate (Biphentin) augmenté\n   - Coordination avec milieu scolaire à assurer\n   - Bilan de croissance (poids/taille) à la prochaine visite\n\n2) **Trouble anxieux généralisé — stable**\n   - Poursuite du suivi psychothérapeutique en cours\n   - Pas de modification pharmacologique requise à ce jour\n\n3) **Sécurité**\n   - Pas d'idéation suicidaire ni hétéro-agressive\n   - Plan de sécurité en place; ressources rappelées à la famille\n   r/o épisode dépressif comorbide si aggravation de l'humeur"
       },
       {
         "en": "Patient Education",
@@ -4445,6 +4841,15 @@
         "example": ""
       },
       {
+        "en": "ASSESSMENT & PLAN",
+        "fr": "IMPRESSION ET CONDUITE",
+        "group": "ASSESSMENT & PLAN",
+        "condition": "",
+        "instruction_en": "Organize as a numbered problem list. Each item = one diagnosis or active clinical problem, followed immediately by its management actions. Use bold for the diagnosis name. Do NOT restate symptoms, history, or examination findings here — assessment only. Drug doses and new prescriptions belong in the Medications section or clearly listed under the relevant problem's plan. Include differential diagnoses where clinically relevant, noting which are being ruled out (\"r/o\"). For multi-complaint or multimorbidity notes, address each active problem. For psychiatric notes, include safety plan elements when relevant.",
+        "instruction_fr": "Organiser sous forme de liste numérotée de problèmes. Chaque item = un diagnostic ou problème clinique actif, suivi immédiatement de ses actions de prise en charge. Mettre le nom du diagnostic en gras. Ne PAS reprendre ici les symptômes, l'histoire ou les résultats d'examen — impression seulement. Les doses de médicaments et nouvelles prescriptions appartiennent à la section Médication ou clairement listées sous le plan du problème pertinent. Inclure les diagnostics différentiels lorsque cliniquement pertinent, en notant ceux à éliminer (\"r/o\"). Pour les notes à plaintes multiples ou de multimorbidité, aborder chaque problème actif. Pour les notes psychiatriques, inclure les éléments du plan de sécurité si pertinent.",
+        "example": "1) **TDAH — présentation combinée, contrôle sous-optimal**\n   - Ajustement posologique envisagé selon réponse et tolérance\n   - Questionnaires comportementaux à compléter par les parents et l'école (Conners)\n   - Suivi du poids et de la croissance staturo-pondérale\n   r/o trouble oppositionnel avec provocation associé\n\n2) **Troubles du sommeil — à préciser**\n   - Hygiène du sommeil à optimiser — consignes remises\n   - Maintien de la mélatonine à réévaluer au prochain suivi\n\n3) **Évaluation diagnostique — en cours**\n   - Bilan neuropsychologique recommandé\n   - Liaison avec l'école pour observations en milieu scolaire\n   - Prochaine rencontre avec les deux parents pour compléter l'histoire longitudinale\n\n4) **Sécurité**\n   - Pas d'idéation suicidaire active au moment de l'évaluation\n   - Consignes de sécurité remises à l'accompagnatrice\n   - Conduite à tenir en cas de crise expliquée"
+      },
+      {
         "en": "Patient Education",
         "fr": "Enseignement au patient",
         "group": "ASSESSMENT & PLAN",
@@ -4592,7 +4997,7 @@
         "en": "SUBJECTIVE",
         "fr": "SUBJECTIVE",
         "group": "",
-        "condition": "",
+        "condition": "ALWAYS INCLUDE this group header, with the sub-sections below as ### headers under it",
         "instruction_en": "",
         "instruction_fr": "",
         "example": ""
@@ -4664,7 +5069,7 @@
         "en": "OBJECTIVE",
         "fr": "OBJECTIF",
         "group": "",
-        "condition": "",
+        "condition": "ALWAYS INCLUDE this group header, with the sub-sections below as ### headers under it",
         "instruction_en": "",
         "instruction_fr": "",
         "example": ""
@@ -4701,8 +5106,8 @@
         "fr": "IMPRESSION ET CONDUITE",
         "group": "",
         "condition": "",
-        "instruction_en": "Organize by numbered list. Each item: diagnosis + actions ONLY. ZERO restatement from HPI, Objective, or Rx. Drug doses belong in Rx, not here.",
-        "instruction_fr": "Organize by numbered list. Each item: diagnosis + actions ONLY. ZERO restatement from HPI, Objective, or Rx. Drug doses belong in Rx, not here.",
+        "instruction_en": "Organize by numbered list. Each item: diagnosis + actions ONLY. ZERO restatement from HPI, Objective, or Rx except decisive values tied directly to an action. Baseline active drug doses belong in Rx. New, stopped, held, or changed medication actions belong here with exact stated dose, frequency, timing, and action.",
+        "instruction_fr": "Organize by numbered list. Each item: diagnosis + actions ONLY. ZERO restatement from HPI, Objective, or Rx except decisive values tied directly to an action. Baseline active drug doses belong in Rx. New, stopped, held, or changed medication actions belong here with exact stated dose, frequency, timing, and action.",
         "example": ""
       },
       {
@@ -4935,8 +5340,8 @@
         "fr": "EXAMENS PERTINENTS",
         "group": "",
         "condition": "ONLY IF RESULTS AVAILABLE",
-        "instruction_en": "<Labs from today with values>\n<Historical labs from ADDITIONAL_CONTEXT with dates>\n<Imaging results>\n<NEVER list \"Non disponible\" - OMIT section if no results>",
-        "instruction_fr": "<Labs from today with values>\n<Historical labs from ADDITIONAL_CONTEXT with dates>\n<Imaging results>\n<NEVER list \"Non disponible\" - OMIT section if no results>",
+        "instruction_en": "<Serial labs: most recent value per analyte as the anchor, per-line layout>\n<Trend arrow prev->current ONLY for abnormal or moving values: \"Creat 49 (50->49)\", \"K 3.8 (4.3->3.8)\">\n<Stable normals: state once on first mention, then \"reste sans particularite\" or omit>\n<One-off workups (bilan martial, TSH...) date-stamped once - do NOT repeat daily>\n<Never chain values across analytes - an arrow stays within one analyte's series>\n<Imaging/test results with their own dates>\n<NEVER list \"Non disponible\" - OMIT section if no results>",
+        "instruction_fr": "<Serial labs: most recent value per analyte as the anchor, per-line layout>\n<Trend arrow prev->current ONLY for abnormal or moving values: \"Creat 49 (50->49)\", \"K 3.8 (4.3->3.8)\">\n<Stable normals: state once on first mention, then \"reste sans particularite\" or omit>\n<One-off workups (bilan martial, TSH...) date-stamped once - do NOT repeat daily>\n<Never chain values across analytes - an arrow stays within one analyte's series>\n<Imaging/test results with their own dates>\n<NEVER list \"Non disponible\" - OMIT section if no results>",
         "example": ""
       },
       {
@@ -5061,24 +5466,51 @@
         "fr": "HMA",
         "group": "",
         "condition": "",
-        "instruction_en": "<Rédiger tous les problèmes/plaintes par paragraphes distincts à chaque raison de consultation et chaque élément de l'histoire par points>\n<Inclure pour chaque problème associé :>\n• <La description du problème (intensité, durée, chronologie, caractéristiques)>\n• <Les symptômes négatifs questionnés ou mentionnés (revue des systèmes)>\n• <La durée et l'évolution des symptômes>\n• <Les facteurs déclencheurs/aggravants/atténuants>\n• <Les limitations fonctionnelles qui en découlent ou l'impact sur la vie du patient>\n• <Les traitements tentés par le patient ou prescrits antérieurement et leur efficacité>\n• <Les habitudes sociales :>\n  o <Situation de vie : marié, en couple, vit seul ou avec d'autres personnes, enfants>\n  o <Occupation/emploi>\n  o <Diète>\n  o <Alcool, drogues, tabagisme>\n  o <Système de support>\n• <L'historique d'hospitalisation>\n• <Les antécédents personnels ou familiaux pertinents (inclure lien avec le patient et l'âge du diagnostic)>\n• <Mentionner les allergies ou la vaccination>\n• <Inclure aussi le diagnostic proposé par le patient en citation>",
-        "instruction_fr": "<Rédiger tous les problèmes/plaintes par paragraphes distincts à chaque raison de consultation et chaque élément de l'histoire par points>\n<Inclure pour chaque problème associé :>\n• <La description du problème (intensité, durée, chronologie, caractéristiques)>\n• <Les symptômes négatifs questionnés ou mentionnés (revue des systèmes)>\n• <La durée et l'évolution des symptômes>\n• <Les facteurs déclencheurs/aggravants/atténuants>\n• <Les limitations fonctionnelles qui en découlent ou l'impact sur la vie du patient>\n• <Les traitements tentés par le patient ou prescrits antérieurement et leur efficacité>\n• <Les habitudes sociales :>\n  o <Situation de vie : marié, en couple, vit seul ou avec d'autres personnes, enfants>\n  o <Occupation/emploi>\n  o <Diète>\n  o <Alcool, drogues, tabagisme>\n  o <Système de support>\n• <L'historique d'hospitalisation>\n• <Les antécédents personnels ou familiaux pertinents (inclure lien avec le patient et l'âge du diagnostic)>\n• <Mentionner les allergies ou la vaccination>\n• <Inclure aussi le diagnostic proposé par le patient en citation>",
+        "instruction_en": "<Rédiger tous les problèmes/plaintes par paragraphes distincts à chaque raison de consultation et chaque élément de l'histoire par points>\n<Inclure pour chaque problème associé :>\n• <La description du problème (intensité, durée, chronologie, caractéristiques)>\n• <Les symptômes négatifs questionnés ou mentionnés (revue des systèmes)>\n• <La durée et l'évolution des symptômes>\n• <Les facteurs déclencheurs/aggravants/atténuants>\n• <Les limitations fonctionnelles qui en découlent ou l'impact sur la vie du patient>\n• <Les traitements tentés par le patient ou prescrits antérieurement et leur efficacité>\n• <Les habitudes sociales :>\n  o <Situation de vie : marié, en couple, vit seul ou avec d'autres personnes, enfants>\n  o <Occupation/emploi>\n  o <Diète>\n  o <Alcool, drogues, tabagisme>\n  o <Système de support>\n• <L'historique d'hospitalisation>\n• <Les antécédents personnels ou familiaux pertinents (inclure lien avec le patient et l'âge du diagnostic)>\n• <Mentionner la vaccination si discutée>\n• <Inclure aussi le diagnostic proposé par le patient en citation>",
+        "instruction_fr": "<Rédiger tous les problèmes/plaintes par paragraphes distincts à chaque raison de consultation et chaque élément de l'histoire par points>\n<Inclure pour chaque problème associé :>\n• <La description du problème (intensité, durée, chronologie, caractéristiques)>\n• <Les symptômes négatifs questionnés ou mentionnés (revue des systèmes)>\n• <La durée et l'évolution des symptômes>\n• <Les facteurs déclencheurs/aggravants/atténuants>\n• <Les limitations fonctionnelles qui en découlent ou l'impact sur la vie du patient>\n• <Les traitements tentés par le patient ou prescrits antérieurement et leur efficacité>\n• <Les habitudes sociales :>\n  o <Situation de vie : marié, en couple, vit seul ou avec d'autres personnes, enfants>\n  o <Occupation/emploi>\n  o <Diète>\n  o <Alcool, drogues, tabagisme>\n  o <Système de support>\n• <L'historique d'hospitalisation>\n• <Les antécédents personnels ou familiaux pertinents (inclure lien avec le patient et l'âge du diagnostic)>\n• <Mentionner la vaccination si discutée>\n• <Inclure aussi le diagnostic proposé par le patient en citation>",
+        "example": ""
+      },
+      {
+        "en": "ALLERGIES",
+        "fr": "ALL",
+        "group": "",
+        "condition": "ONLY IF MENTIONED",
+        "instruction_en": "<Si aucune allergie est explicitement mentionnée : Aucune allergie connue>\n<Si allergies spécifiques : copier exactement allergène et réaction si disponibles>\n<Omettre entièrement si non discuté>",
+        "instruction_fr": "<Si aucune allergie est explicitement mentionnée : Aucune allergie connue>\n<Si allergies spécifiques : copier exactement allergène et réaction si disponibles>\n<Omettre entièrement si non discuté>",
+        "example": ""
+      },
+      {
+        "en": "MEDICATIONS",
+        "fr": "Rx",
+        "group": "",
+        "condition": "ONLY IF MENTIONED",
+        "instruction_en": "<Médicaments actifs seulement : nom exact, dose, voie, fréquence si mentionnés>\n<Médicaments nouveaux, cessés, suspendus ou modifiés : mettre dans IMPRESSION ET CONDUITE>",
+        "instruction_fr": "<Médicaments actifs seulement : nom exact, dose, voie, fréquence si mentionnés>\n<Médicaments nouveaux, cessés, suspendus ou modifiés : mettre dans IMPRESSION ET CONDUITE>",
+        "example": ""
+      },
+      {
+        "en": "RELEVANT INVESTIGATIONS",
+        "fr": "EXAMENS PERTINENTS",
+        "group": "",
+        "condition": "ONLY IF RESULTS AVAILABLE",
+        "instruction_en": "<Résultats avec dates et valeurs exactes>\n<Ne pas inclure les examens demandés sans résultat>",
+        "instruction_fr": "<Résultats avec dates et valeurs exactes>\n<Ne pas inclure les examens demandés sans résultat>",
         "example": ""
       },
       {
         "en": "PHYSICAL EXAMINATION",
         "fr": "E/P",
         "group": "",
-        "condition": "IN ALL CASES INCLUDE MOST RELEVANT PHYSICAL EXAMINATION BASED ON HMA",
-        "instruction_en": "<Inclure état général, si eupnéique.>\n<Si le patient a moins de 10 ans, inclure : Refill cap N, souriant(e), collaborant(e)>\n<Utiliser abbréviations : N=normal, D=droite, G=gauche>\n<Inclure signes vitaux>",
-        "instruction_fr": "<Inclure état général, si eupnéique.>\n<Si le patient a moins de 10 ans, inclure : Refill cap N, souriant(e), collaborant(e)>\n<Utiliser abbréviations : N=normal, D=droite, G=gauche>\n<Inclure signes vitaux>",
+        "condition": "ONLY IF EXAMINED",
+        "instruction_en": "<Inclure seulement l'examen réellement décrit pendant la consultation>\n<Utiliser abbréviations : N=normal, D=droite, G=gauche>\n<Inclure signes vitaux seulement s'ils sont mentionnés pour la consultation actuelle>",
+        "instruction_fr": "<Inclure seulement l'examen réellement décrit pendant la consultation>\n<Utiliser abbréviations : N=normal, D=droite, G=gauche>\n<Inclure signes vitaux seulement s'ils sont mentionnés pour la consultation actuelle>",
         "example": ""
       },
       {
         "en": "BASE PHYSICAL EXAM TEMPLATE",
         "fr": "BASE PHYSICAL EXAM TEMPLATE",
         "group": "",
-        "condition": "ONLY IF EXAM TYPE IS BASE OR NO EXAM DISCUSSED",
+        "condition": "ONLY IF BASE EXAM DESCRIBED",
         "instruction_en": "E/P BEG\nEupnéique\nORL : CAEN, tympans N bilat, nez muqueuse et cornets N, pharynx N, amygdales N  \nPas d'ADNP  \nCoeur : RCR, B1B2n, pas de souffle  \nPms : BEAB. Clairs, pas de sibilances, ronchis ou crépitants  \nAbdo : Bi+, souple, pas de sensibilité, pas d'hépatomégalie, pas de splénomégalie  \nPas d'OMI",
         "instruction_fr": "E/P BEG\nEupnéique\nORL : CAEN, tympans N bilat, nez muqueuse et cornets N, pharynx N, amygdales N  \nPas d'ADNP  \nCoeur : RCR, B1B2n, pas de souffle  \nPms : BEAB. Clairs, pas de sibilances, ronchis ou crépitants  \nAbdo : Bi+, souple, pas de sensibilité, pas d'hépatomégalie, pas de splénomégalie  \nPas d'OMI",
         "example": ""
