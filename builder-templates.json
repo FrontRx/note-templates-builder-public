@@ -132,8 +132,8 @@
         "example": ""
       },
       {
-        "en": "ASSESSMENT & PLAN",
-        "fr": "IMPRESSION ET CONDUITE",
+        "en": "Assessment & Plan",
+        "fr": "Impression et conduite",
         "group": "ASSESSMENT & PLAN",
         "condition": "",
         "instruction_en": "Organize as a numbered problem list. Each item = one diagnosis or active clinical problem, followed immediately by its management actions. Use bold for the diagnosis name. Do NOT restate symptoms, history, or examination findings here — assessment only. Drug doses and new prescriptions belong clearly listed under the relevant problem's plan. Include differential diagnoses where clinically relevant, noting which are being ruled out (\"r/o\"). For multi-complaint or multimorbidity notes, address each active problem.",
@@ -275,8 +275,8 @@
         "example": ""
       },
       {
-        "en": "ASSESSMENT & PLAN",
-        "fr": "IMPRESSION ET CONDUITE",
+        "en": "Assessment & Plan",
+        "fr": "Impression et conduite",
         "group": "ASSESSMENT & PLAN",
         "condition": "",
         "instruction_en": "Organize as a numbered problem list. Each item = one diagnosis or active clinical problem, followed immediately by its management actions. Use bold for the diagnosis name. Do NOT restate symptoms, history, or examination findings here — assessment only. Drug doses and new prescriptions belong in the Medications section or clearly listed under the relevant problem's plan. Include differential diagnoses where clinically relevant, noting which are being ruled out (\"r/o\"). For multi-complaint or multimorbidity notes, address each active problem.",
@@ -381,8 +381,8 @@
         "example": ""
       },
       {
-        "en": "ASSESSMENT & PLAN",
-        "fr": "IMPRESSION ET CONDUITE",
+        "en": "Assessment & Plan",
+        "fr": "Impression et conduite",
         "group": "ASSESSMENT & PLAN",
         "condition": "",
         "instruction_en": "Organize as a numbered problem list. Each item = one diagnosis or active clinical problem, followed immediately by its management actions. Use bold for the diagnosis name. Do NOT restate symptoms, history, or examination findings here — assessment only. Drug doses and new prescriptions belong in the Medications section or clearly listed under the relevant problem's plan. Include differential diagnoses where clinically relevant, noting which are being ruled out (\"r/o\"). For multi-complaint or multimorbidity notes, address each active problem. For geriatric evaluations, include functional goals in the plan where applicable. For psychiatric notes, include safety plan elements when relevant.",
@@ -592,8 +592,8 @@
         "example": ""
       },
       {
-        "en": "ASSESSMENT & PLAN",
-        "fr": "IMPRESSION ET CONDUITE",
+        "en": "Assessment & Plan",
+        "fr": "Impression et conduite",
         "group": "ASSESSMENT & PLAN",
         "condition": "",
         "instruction_en": "Organize as a numbered problem list. Each item = one diagnosis or active clinical problem, followed immediately by its management actions. Use bold for the diagnosis name. Do NOT restate symptoms, history, or examination findings here — assessment only. Drug doses and new prescriptions belong in the Medications section or clearly listed under the relevant problem's plan. Include differential diagnoses where clinically relevant, noting which are being ruled out (\"r/o\"). For multi-complaint or multimorbidity notes, address each active problem. For geriatric evaluations, include functional goals in the plan where applicable. For psychiatric notes, include safety plan elements when relevant.",
@@ -725,8 +725,8 @@
         "example": ""
       },
       {
-        "en": "ASSESSMENT & PLAN",
-        "fr": "IMPRESSION ET CONDUITE",
+        "en": "Assessment & Plan",
+        "fr": "Impression et conduite",
         "group": "ASSESSMENT & PLAN",
         "condition": "",
         "instruction_en": "Organize as a numbered problem list. Each item = one diagnosis or active clinical problem, followed immediately by its management actions. Use bold for the diagnosis name. Do NOT restate symptoms, history, or examination findings here — assessment only. Drug doses and new prescriptions belong in the Medications section or clearly listed under the relevant problem's plan. Include differential diagnoses where clinically relevant, noting which are being ruled out (\"r/o\"). For multi-complaint or multimorbidity notes, address each active problem. For geriatric evaluations, include functional goals in the plan where applicable. For psychiatric notes, include safety plan elements when relevant.",
@@ -874,8 +874,8 @@
         "example": ""
       },
       {
-        "en": "ASSESSMENT & PLAN",
-        "fr": "IMPRESSION ET CONDUITE",
+        "en": "Assessment & Plan",
+        "fr": "Impression et conduite",
         "group": "ASSESSMENT & PLAN",
         "condition": "",
         "instruction_en": "Organize as a numbered problem list. Each item = one diagnosis or active clinical problem, followed immediately by its management actions. Use bold for the diagnosis name. Do NOT restate symptoms, history, or examination findings here — assessment only. Drug doses and new prescriptions belong in the Medications section or clearly listed under the relevant problem's plan. Include differential diagnoses where clinically relevant, noting which are being ruled out (\"r/o\"). For multi-complaint or multimorbidity notes, address each active problem.",
@@ -936,8 +936,8 @@
         "example": ""
       },
       {
-        "en": "FOLLOW-UP NOTE",
-        "fr": "NOTE DE SUIVI",
+        "en": "Follow-up Note",
+        "fr": "Note de suivi",
         "group": "ASSESSMENT & PLAN",
         "condition": "",
         "instruction_en": "For inpatient or outpatient follow-up encounters, document: interval events since last assessment, patient-reported changes in symptoms, response to treatment, and any new concerns raised. Use telegraphic format. This section replaces the full HPI for follow-up notes — do not restate the original presentation. Reference the original diagnosis briefly and focus on evolution.",
@@ -981,8 +981,8 @@
         "example": ""
       },
       {
-        "en": "ASSESSMENT & PLAN",
-        "fr": "IMPRESSION ET CONDUITE",
+        "en": "Assessment & Plan",
+        "fr": "Impression et conduite",
         "group": "ASSESSMENT & PLAN",
         "condition": "",
         "instruction_en": "Organize as a numbered problem list. Each item = one diagnosis or active clinical problem, followed immediately by its management actions. Use bold for the diagnosis name. Do NOT restate symptoms, history, or examination findings here — assessment only. Drug doses and new prescriptions belong in the Medications section or clearly listed under the relevant problem's plan. Include differential diagnoses where clinically relevant, noting which are being ruled out (\"r/o\"). For multi-complaint or multimorbidity notes, address each active problem. For geriatric evaluations, include functional goals in the plan where applicable. For psychiatric notes, include safety plan elements when relevant.",
@@ -1151,8 +1151,8 @@
         "example": ""
       },
       {
-        "en": "ASSESSMENT & PLAN",
-        "fr": "IMPRESSION ET CONDUITE",
+        "en": "Assessment & Plan",
+        "fr": "Impression et conduite",
         "group": "ASSESSMENT & PLAN",
         "condition": "",
         "instruction_en": "Organize as a numbered problem list. Each item = one diagnosis or active clinical problem, followed immediately by its management actions. Use bold for the diagnosis name. Do NOT restate symptoms, history, or examination findings here — assessment only. Drug doses and new prescriptions belong clearly listed under the relevant problem's plan. Include differential diagnoses where clinically relevant, noting which are being ruled out (\"r/o\"). For multi-complaint visits, address each active problem.",
@@ -1330,8 +1330,8 @@
         "example": ""
       },
       {
-        "en": "ASSESSMENT & PLAN",
-        "fr": "IMPRESSION ET CONDUITE",
+        "en": "Assessment & Plan",
+        "fr": "Impression et conduite",
         "group": "ASSESSMENT & PLAN",
         "condition": "",
         "instruction_en": "Organize as a numbered problem list. Each item = one diagnosis or active clinical problem, followed immediately by its management actions. Use bold for the diagnosis name. Do NOT restate symptoms, history, or examination findings here — assessment only. Drug doses and new prescriptions belong clearly listed under the relevant problem's plan. Include differential diagnoses where clinically relevant, noting which are being ruled out (\"r/o\"). For psychiatric notes, include safety plan elements when relevant.",
@@ -1455,8 +1455,8 @@
         "example": ""
       },
       {
-        "en": "ASSESSMENT & PLAN",
-        "fr": "IMPRESSION ET CONDUITE",
+        "en": "Assessment & Plan",
+        "fr": "Impression et conduite",
         "group": "ASSESSMENT & PLAN",
         "condition": "",
         "instruction_en": "Organize as a numbered problem list. Each item = one diagnosis or active clinical problem, followed immediately by its management actions. Use bold for the diagnosis name. Do NOT restate symptoms, history, or examination findings here — assessment only. Drug doses and new prescriptions belong in the Medications section or clearly listed under the relevant problem's plan. Include differential diagnoses where clinically relevant, noting which are being ruled out (\"r/o\"). For multi-complaint or multimorbidity notes, address each active problem.",
@@ -1517,8 +1517,8 @@
         "example": "GÉNÉRAL : Alerte, orienté ×3, pas de détresse aiguë\nCŒUR : Rythme régulier, B1 B2 normaux, pas de souffle ausculté\nPOUMONS : MV bilatéral, pas de crépitants ni sibilances\nSITE PROCÉDURAL : Pansement propre, sec, intact; pas de saignement actif; pas d'hématome\nMEMBRES INFÉRIEURS : Pas d'œdème, pouls pédieux présents bilatéralement"
       },
       {
-        "en": "ASSESSMENT & PLAN",
-        "fr": "IMPRESSION ET CONDUITE",
+        "en": "Assessment & Plan",
+        "fr": "Impression et conduite",
         "group": "ASSESSMENT & PLAN",
         "condition": "",
         "instruction_en": "Organize as a numbered problem list. Each item = one diagnosis or active clinical problem, followed immediately by its management actions. Use bold for the diagnosis name. Do NOT restate symptoms, history, or examination findings here — assessment only. Drug doses and new prescriptions belong in the Medications section or clearly listed under the relevant problem's plan. Include differential diagnoses where clinically relevant, noting which are being ruled out (\"r/o\"). For multi-complaint or multimorbidity notes, address each active problem.",
@@ -1624,8 +1624,8 @@
         "example": ""
       },
       {
-        "en": "ASSESSMENT & PLAN",
-        "fr": "IMPRESSION ET CONDUITE",
+        "en": "Assessment & Plan",
+        "fr": "Impression et conduite",
         "group": "ASSESSMENT & PLAN",
         "condition": "",
         "instruction_en": "Organize as a numbered problem list. Each item = one diagnosis or active clinical problem, followed immediately by its management actions. Use bold for the diagnosis name. Do NOT restate symptoms, history, or examination findings here — assessment only. Drug doses and new prescriptions belong clearly listed under the relevant problem's plan. Include differential diagnoses where clinically relevant, noting which are being ruled out (\"r/o\"). For multi-complaint or multimorbidity notes, address each active problem.",
@@ -1758,8 +1758,8 @@
         "example": ""
       },
       {
-        "en": "ASSESSMENT & PLAN",
-        "fr": "IMPRESSION ET CONDUITE",
+        "en": "Assessment & Plan",
+        "fr": "Impression et conduite",
         "group": "ASSESSMENT & PLAN",
         "condition": "",
         "instruction_en": "Organize as a numbered problem list. Each item = one diagnosis or active clinical problem, followed immediately by its management actions. Use bold for the diagnosis name. Do NOT restate symptoms, history, or examination findings here — assessment only. Drug doses and new prescriptions belong clearly listed under the relevant problem's plan. Include differential diagnoses where clinically relevant, noting which are being ruled out (\"r/o\"). For multi-complaint notes, address each active problem.",
@@ -1838,8 +1838,8 @@
         "example": ""
       },
       {
-        "en": "FOLLOW-UP NOTE",
-        "fr": "NOTE DE SUIVI",
+        "en": "Follow-up Note",
+        "fr": "Note de suivi",
         "group": "ASSESSMENT & PLAN",
         "condition": "",
         "instruction_en": "Document interval events since last assessment, patient-reported changes in symptoms, response to treatment, and any new concerns raised. Use telegraphic format. Do not restate the original presentation. Reference the original diagnosis briefly and focus on evolution. For multi-complaint calls, use a separate bold sub-heading for each complaint. Document pertinent negatives if explicitly stated.",
@@ -1856,8 +1856,8 @@
         "example": ""
       },
       {
-        "en": "ASSESSMENT & PLAN",
-        "fr": "IMPRESSION ET CONDUITE",
+        "en": "Assessment & Plan",
+        "fr": "Impression et conduite",
         "group": "ASSESSMENT & PLAN",
         "condition": "",
         "instruction_en": "Organize as a numbered problem list. Each item = one diagnosis or active clinical problem, followed immediately by its management actions. Use bold for the diagnosis name. Do NOT restate symptoms, history, or examination findings here — assessment only. Drug doses and new prescriptions belong clearly listed under the relevant problem's plan. Include differential diagnoses where clinically relevant, noting which are being ruled out (\"r/o\"). For multi-complaint calls, address each active problem. For psychiatric concerns, include safety plan elements when relevant.",
@@ -1936,8 +1936,8 @@
         "example": "Metformin (Glucophage) 500 mg po bid, Ramipril (Altace) 5 mg po die, Atorvastatine (Lipitor) 40 mg po die (augmenté)"
       },
       {
-        "en": "FOLLOW-UP NOTE",
-        "fr": "NOTE DE SUIVI",
+        "en": "Follow-up Note",
+        "fr": "Note de suivi",
         "group": "ASSESSMENT & PLAN",
         "condition": "",
         "instruction_en": "For this telephone follow-up encounter, document: interval events since last assessment, patient-reported changes in symptoms, response to treatment, and any new concerns raised. Use telegraphic format. This section replaces the full HPI — do not restate the original presentation. Reference the original diagnosis briefly and focus on evolution.",
@@ -1945,8 +1945,8 @@
         "example": ""
       },
       {
-        "en": "ASSESSMENT & PLAN",
-        "fr": "IMPRESSION ET CONDUITE",
+        "en": "Assessment & Plan",
+        "fr": "Impression et conduite",
         "group": "ASSESSMENT & PLAN",
         "condition": "",
         "instruction_en": "Organize as a numbered problem list. Each item = one diagnosis or active clinical problem, followed immediately by its management actions. Use bold for the diagnosis name. Do NOT restate symptoms, history, or examination findings here — assessment only. Drug doses and new prescriptions belong clearly listed under the relevant problem's plan. Include differential diagnoses where clinically relevant, noting which are being ruled out (\"r/o\"). For multi-complaint notes, address each active problem.",
@@ -2061,8 +2061,8 @@
         "example": ""
       },
       {
-        "en": "ASSESSMENT & PLAN",
-        "fr": "IMPRESSION ET CONDUITE",
+        "en": "Assessment & Plan",
+        "fr": "Impression et conduite",
         "group": "ASSESSMENT & PLAN",
         "condition": "",
         "instruction_en": "Organize as a numbered problem list. Each item = one diagnosis or active clinical problem, followed immediately by its management actions. Use bold for the diagnosis name. Do NOT restate symptoms, history, or examination findings here — assessment only. Drug doses and new prescriptions belong clearly listed under the relevant problem's plan. Include differential diagnoses where clinically relevant, noting which are being ruled out (\"r/o\"). For psychiatric notes, include safety plan elements when relevant.",
@@ -2240,8 +2240,8 @@
         "example": ""
       },
       {
-        "en": "ASSESSMENT & PLAN",
-        "fr": "IMPRESSION ET CONDUITE",
+        "en": "Assessment & Plan",
+        "fr": "Impression et conduite",
         "group": "ASSESSMENT & PLAN",
         "condition": "",
         "instruction_en": "Organize as a numbered problem list. Each item = one diagnosis or active clinical problem, followed immediately by its management actions. Use bold for the diagnosis name. Do NOT restate symptoms, history, or examination findings here — assessment only. Drug doses and new prescriptions belong clearly listed under the relevant problem's plan. Include differential diagnoses where clinically relevant, noting which are being ruled out (\"r/o\"). For psychiatric notes, include safety plan elements when relevant.",
@@ -2347,8 +2347,8 @@
         "example": ""
       },
       {
-        "en": "ASSESSMENT & PLAN",
-        "fr": "IMPRESSION ET CONDUITE",
+        "en": "Assessment & Plan",
+        "fr": "Impression et conduite",
         "group": "ASSESSMENT & PLAN",
         "condition": "",
         "instruction_en": "Organize as a numbered problem list. Each item = one diagnosis or active clinical problem, followed immediately by its management actions. Use bold for the diagnosis name. Do NOT restate symptoms, history, or examination findings here — assessment only. Drug doses and new prescriptions belong clearly listed under the relevant problem's plan. Include differential diagnoses where clinically relevant, noting which are being ruled out (\"r/o\"). For this note type, address the single active problem.",
@@ -2463,8 +2463,8 @@
         "example": ""
       },
       {
-        "en": "ASSESSMENT & PLAN",
-        "fr": "IMPRESSION ET CONDUITE",
+        "en": "Assessment & Plan",
+        "fr": "Impression et conduite",
         "group": "ASSESSMENT & PLAN",
         "condition": "",
         "instruction_en": "Organize as a numbered problem list. Each item = one diagnosis or active clinical problem, followed immediately by its management actions. Use bold for the diagnosis name. Do NOT restate symptoms, history, or examination findings here — assessment only. Drug doses and new prescriptions belong in the Medications section or clearly listed under the relevant problem's plan. Include differential diagnoses where clinically relevant, noting which are being ruled out (\"r/o\"). For multi-complaint or multimorbidity notes, address each active problem. For geriatric evaluations, include functional goals in the plan where applicable. For psychiatric notes, include safety plan elements when relevant.",
@@ -2633,8 +2633,8 @@
         "example": ""
       },
       {
-        "en": "ASSESSMENT & PLAN",
-        "fr": "IMPRESSION ET CONDUITE",
+        "en": "Assessment & Plan",
+        "fr": "Impression et conduite",
         "group": "ASSESSMENT & PLAN",
         "condition": "",
         "instruction_en": "Organize as a numbered problem list. Each item = one diagnosis or active clinical problem, followed immediately by its management actions. Use bold for the diagnosis name. Do NOT restate symptoms, history, or examination findings here — assessment only. Drug doses and new prescriptions belong in the Medications section or clearly listed under the relevant problem's plan. Include differential diagnoses where clinically relevant, noting which are being ruled out (\"r/o\"). For multi-complaint or multimorbidity notes, address each active problem.",
@@ -2668,8 +2668,8 @@
     "title_fr": "Hôpital - Suivi de consultation",
     "sections": [
       {
-        "en": "FOLLOW-UP NOTE",
-        "fr": "NOTE DE SUIVI",
+        "en": "Follow-up Note",
+        "fr": "Note de suivi",
         "group": "ASSESSMENT & PLAN",
         "condition": "",
         "instruction_en": "For inpatient or outpatient follow-up encounters, document: interval events since last assessment, patient-reported changes in symptoms, response to treatment, and any new concerns raised. Use telegraphic format. This section replaces the full HPI for follow-up notes — do not restate the original presentation. Reference the original diagnosis briefly and focus on evolution.",
@@ -2704,8 +2704,8 @@
         "example": ""
       },
       {
-        "en": "ASSESSMENT & PLAN",
-        "fr": "IMPRESSION ET CONDUITE",
+        "en": "Assessment & Plan",
+        "fr": "Impression et conduite",
         "group": "ASSESSMENT & PLAN",
         "condition": "",
         "instruction_en": "Organize as a numbered problem list. Each item = one diagnosis or active clinical problem, followed immediately by its management actions. Use bold for the diagnosis name. Do NOT restate symptoms, history, or examination findings here — assessment only. Drug doses and new prescriptions belong in the Medications section or clearly listed under the relevant problem's plan. Include differential diagnoses where clinically relevant, noting which are being ruled out (\"r/o\"). For multi-complaint or multimorbidity notes, address each active problem.",
@@ -2901,8 +2901,8 @@
         "example": ""
       },
       {
-        "en": "ASSESSMENT & PLAN",
-        "fr": "IMPRESSION ET CONDUITE",
+        "en": "Assessment & Plan",
+        "fr": "Impression et conduite",
         "group": "ASSESSMENT & PLAN",
         "condition": "",
         "instruction_en": "Organize as a numbered problem list. Each item = one diagnosis or active clinical problem, followed immediately by its management actions. Use bold for the diagnosis name. Do NOT restate symptoms, history, or examination findings here — assessment only. Drug doses and new prescriptions belong in the Medications section or clearly listed under the relevant problem's plan. Include differential diagnoses where clinically relevant, noting which are being ruled out (\"r/o\"). For multi-complaint or multimorbidity notes, address each active problem.",
@@ -2990,8 +2990,8 @@
         "example": ""
       },
       {
-        "en": "FOLLOW-UP NOTE",
-        "fr": "NOTE DE SUIVI",
+        "en": "Follow-up Note",
+        "fr": "Note de suivi",
         "group": "ASSESSMENT & PLAN",
         "condition": "",
         "instruction_en": "For outpatient follow-up encounters, document: interval events since last assessment, patient-reported changes in symptoms, response to treatment, and any new concerns raised. Use telegraphic format. This section replaces the full HPI for follow-up notes — do not restate the original presentation. Reference the original diagnosis briefly and focus on evolution.",
@@ -3026,8 +3026,8 @@
         "example": ""
       },
       {
-        "en": "ASSESSMENT & PLAN",
-        "fr": "IMPRESSION ET CONDUITE",
+        "en": "Assessment & Plan",
+        "fr": "Impression et conduite",
         "group": "ASSESSMENT & PLAN",
         "condition": "",
         "instruction_en": "Organize as a numbered problem list. Each item = one diagnosis or active clinical problem, followed immediately by its management actions. Use bold for the diagnosis name. Do NOT restate symptoms, history, or examination findings here — assessment only. Drug doses and new prescriptions belong in the Medications section or clearly listed under the relevant problem's plan. Include differential diagnoses where clinically relevant, noting which are being ruled out (\"r/o\"). For multi-complaint or multimorbidity notes, address each active problem.",
@@ -3232,8 +3232,8 @@
         "example": ""
       },
       {
-        "en": "ASSESSMENT & PLAN",
-        "fr": "IMPRESSION ET CONDUITE",
+        "en": "Assessment & Plan",
+        "fr": "Impression et conduite",
         "group": "ASSESSMENT & PLAN",
         "condition": "",
         "instruction_en": "Organize as a numbered problem list. Each item = one diagnosis or active clinical problem, followed immediately by its management actions. Use bold for the diagnosis name. Do NOT restate symptoms, history, or examination findings here — assessment only. Drug doses and new prescriptions belong in the Medications section or clearly listed under the relevant problem's plan. Include differential diagnoses where clinically relevant, noting which are being ruled out (\"r/o\"). For multi-complaint or multimorbidity notes, address each active problem. For geriatric evaluations, include functional goals in the plan where applicable.",
@@ -3420,8 +3420,8 @@
         "example": ""
       },
       {
-        "en": "ASSESSMENT & PLAN",
-        "fr": "IMPRESSION ET CONDUITE",
+        "en": "Assessment & Plan",
+        "fr": "Impression et conduite",
         "group": "ASSESSMENT & PLAN",
         "condition": "",
         "instruction_en": "Organize as a numbered problem list. Each item = one diagnosis or active clinical problem, followed immediately by its management actions. Use bold for the diagnosis name. Do NOT restate symptoms, history, or examination findings here — assessment only. Drug doses and new prescriptions belong in the Medications section or clearly listed under the relevant problem's plan. Include differential diagnoses where clinically relevant, noting which are being ruled out (\"r/o\"). For multi-complaint or multimorbidity notes, address each active problem.",
@@ -3482,8 +3482,8 @@
         "example": "Usuel : Metformin (Glucophage) 500 mg po bid, Ramipril (Altace) 5 mg po die, Atorvastatine (Lipitor) 40 mg po die (augmenté)\nHospitalisation : Héparine 5000 UI SC tid, Pantoprazole (Pantoloc) 40 mg IV die (nouveau)"
       },
       {
-        "en": "FOLLOW-UP NOTE",
-        "fr": "NOTE DE SUIVI",
+        "en": "Follow-up Note",
+        "fr": "Note de suivi",
         "group": "ASSESSMENT & PLAN",
         "condition": "",
         "instruction_en": "For inpatient or outpatient follow-up encounters, document: interval events since last assessment, patient-reported changes in symptoms, response to treatment, and any new concerns raised. Use telegraphic format. This section replaces the full HPI for follow-up notes — do not restate the original presentation. Reference the original diagnosis briefly and focus on evolution.",
@@ -3518,8 +3518,8 @@
         "example": ""
       },
       {
-        "en": "ASSESSMENT & PLAN",
-        "fr": "IMPRESSION ET CONDUITE",
+        "en": "Assessment & Plan",
+        "fr": "Impression et conduite",
         "group": "ASSESSMENT & PLAN",
         "condition": "",
         "instruction_en": "Organize as a numbered problem list. Each item = one diagnosis or active clinical problem, followed immediately by its management actions. Use bold for the diagnosis name. Do NOT restate symptoms, history, or examination findings here — assessment only. Drug doses and new prescriptions belong in the Medications section or clearly listed under the relevant problem's plan. Include differential diagnoses where clinically relevant, noting which are being ruled out (\"r/o\"). For multi-complaint or multimorbidity notes, address each active problem.",
@@ -3706,8 +3706,8 @@
         "example": ""
       },
       {
-        "en": "ASSESSMENT & PLAN",
-        "fr": "IMPRESSION ET CONDUITE",
+        "en": "Assessment & Plan",
+        "fr": "Impression et conduite",
         "group": "ASSESSMENT & PLAN",
         "condition": "",
         "instruction_en": "Organize as a numbered problem list. Each item = one diagnosis or active clinical problem, followed immediately by its management actions. Use bold for the diagnosis name. Do NOT restate symptoms, history, or examination findings here — assessment only. Drug doses and new prescriptions belong in the Medications section or clearly listed under the relevant problem's plan. Include differential diagnoses where clinically relevant, noting which are being ruled out (\"r/o\"). For multi-complaint or multimorbidity notes, address each active problem. For geriatric evaluations, include functional goals in the plan where applicable.",
@@ -3813,8 +3813,8 @@
         "example": ""
       },
       {
-        "en": "ASSESSMENT & PLAN",
-        "fr": "IMPRESSION ET CONDUITE",
+        "en": "Assessment & Plan",
+        "fr": "Impression et conduite",
         "group": "ASSESSMENT & PLAN",
         "condition": "",
         "instruction_en": "Organize as a numbered problem list. Each item = one diagnosis or active clinical problem, followed immediately by its management actions. Use bold for the diagnosis name. Do NOT restate symptoms, history, or examination findings here — assessment only. Drug doses and new prescriptions belong in the Medications section or clearly listed under the relevant problem's plan. Include differential diagnoses where clinically relevant, noting which are being ruled out (\"r/o\"). For multi-complaint or multimorbidity notes, address each active problem.",
@@ -3848,8 +3848,8 @@
     "title_fr": "Hôpital - Suivi de consultation",
     "sections": [
       {
-        "en": "FOLLOW-UP NOTE",
-        "fr": "NOTE DE SUIVI",
+        "en": "Follow-up Note",
+        "fr": "Note de suivi",
         "group": "ASSESSMENT & PLAN",
         "condition": "",
         "instruction_en": "For inpatient or outpatient follow-up encounters, document: interval events since last assessment, patient-reported changes in symptoms, response to treatment, and any new concerns raised. Use telegraphic format. This section replaces the full HPI for follow-up notes — do not restate the original presentation. Reference the original diagnosis briefly and focus on evolution.",
@@ -3911,8 +3911,8 @@
         "example": ""
       },
       {
-        "en": "ASSESSMENT & PLAN",
-        "fr": "IMPRESSION ET CONDUITE",
+        "en": "Assessment & Plan",
+        "fr": "Impression et conduite",
         "group": "ASSESSMENT & PLAN",
         "condition": "",
         "instruction_en": "Organize as a numbered problem list. Each item = one diagnosis or active clinical problem, followed immediately by its management actions. Use bold for the diagnosis name. Do NOT restate symptoms, history, or examination findings here — assessment only. Drug doses and new prescriptions belong in the Medications section or clearly listed under the relevant problem's plan. Include differential diagnoses where clinically relevant, noting which are being ruled out (\"r/o\"). For multi-complaint or multimorbidity notes, address each active problem. For geriatric evaluations, include functional goals in the plan where applicable. For psychiatric notes, include safety plan elements when relevant.",
@@ -4072,8 +4072,8 @@
         "example": ""
       },
       {
-        "en": "ASSESSMENT & PLAN",
-        "fr": "IMPRESSION ET CONDUITE",
+        "en": "Assessment & Plan",
+        "fr": "Impression et conduite",
         "group": "ASSESSMENT & PLAN",
         "condition": "",
         "instruction_en": "Organize as a numbered problem list. Each item = one diagnosis or active clinical problem, followed immediately by its management actions. Use bold for the diagnosis name. Do NOT restate symptoms, history, or examination findings here — assessment only. Drug doses and new prescriptions belong in the Medications section or clearly listed under the relevant problem's plan. Include differential diagnoses where clinically relevant, noting which are being ruled out (\"r/o\"). For multi-complaint or multimorbidity notes, address each active problem.",
@@ -4170,8 +4170,8 @@
         "example": ""
       },
       {
-        "en": "FOLLOW-UP NOTE",
-        "fr": "NOTE DE SUIVI",
+        "en": "Follow-up Note",
+        "fr": "Note de suivi",
         "group": "ASSESSMENT & PLAN",
         "condition": "",
         "instruction_en": "For outpatient follow-up encounters, document: interval events since last assessment, patient-reported changes in symptoms, response to treatment, and any new concerns raised. Use telegraphic format. This section replaces the full HPI for follow-up notes — do not restate the original presentation. Reference the original diagnosis briefly and focus on evolution.",
@@ -4215,8 +4215,8 @@
         "example": ""
       },
       {
-        "en": "ASSESSMENT & PLAN",
-        "fr": "IMPRESSION ET CONDUITE",
+        "en": "Assessment & Plan",
+        "fr": "Impression et conduite",
         "group": "ASSESSMENT & PLAN",
         "condition": "",
         "instruction_en": "Organize as a numbered problem list. Each item = one diagnosis or active clinical problem, followed immediately by its management actions. Use bold for the diagnosis name. Do NOT restate symptoms, history, or examination findings here — assessment only. Drug doses and new prescriptions belong in the Medications section or clearly listed under the relevant problem's plan. Include differential diagnoses where clinically relevant, noting which are being ruled out (\"r/o\"). For multi-complaint notes, address each active problem.",
@@ -4304,8 +4304,8 @@
         "example": ""
       },
       {
-        "en": "FOLLOW-UP NOTE",
-        "fr": "NOTE DE SUIVI",
+        "en": "Follow-up Note",
+        "fr": "Note de suivi",
         "group": "ASSESSMENT & PLAN",
         "condition": "",
         "instruction_en": "For inpatient or outpatient follow-up encounters, document: interval events since last assessment, patient-reported changes in symptoms, response to treatment, and any new concerns raised. Use telegraphic format. This section replaces the full HPI for follow-up notes — do not restate the original presentation. Reference the original diagnosis briefly and focus on evolution.",
@@ -4340,8 +4340,8 @@
         "example": ""
       },
       {
-        "en": "ASSESSMENT & PLAN",
-        "fr": "IMPRESSION ET CONDUITE",
+        "en": "Assessment & Plan",
+        "fr": "Impression et conduite",
         "group": "ASSESSMENT & PLAN",
         "condition": "",
         "instruction_en": "Organize as a numbered problem list. Each item = one diagnosis or active clinical problem, followed immediately by its management actions. Use bold for the diagnosis name. Do NOT restate symptoms, history, or examination findings here — assessment only. Drug doses and new prescriptions belong in the Medications section or clearly listed under the relevant problem's plan. Include differential diagnoses where clinically relevant, noting which are being ruled out (\"r/o\"). For psychiatric notes, include safety plan elements when relevant.",
@@ -4510,8 +4510,8 @@
         "example": ""
       },
       {
-        "en": "ASSESSMENT & PLAN",
-        "fr": "IMPRESSION ET CONDUITE",
+        "en": "Assessment & Plan",
+        "fr": "Impression et conduite",
         "group": "ASSESSMENT & PLAN",
         "condition": "",
         "instruction_en": "Organize as a numbered problem list. Each item = one diagnosis or active clinical problem, followed immediately by its management actions. Use bold for the diagnosis name. Do NOT restate symptoms, history, or examination findings here — assessment only. Drug doses and new prescriptions belong clearly listed under the relevant problem's plan. Include differential diagnoses where clinically relevant, noting which are being ruled out (\"r/o\"). Address each active problem. For psychiatric notes, include safety plan elements when relevant.",
@@ -4599,8 +4599,8 @@
         "example": ""
       },
       {
-        "en": "FOLLOW-UP NOTE",
-        "fr": "NOTE DE SUIVI",
+        "en": "Follow-up Note",
+        "fr": "Note de suivi",
         "group": "ASSESSMENT & PLAN",
         "condition": "",
         "instruction_en": "For outpatient follow-up encounters, document: interval events since last assessment, patient-reported changes in symptoms, response to treatment, and any new concerns raised. Use telegraphic format. This section replaces the full HPI for follow-up notes — do not restate the original presentation. Reference the original diagnosis briefly and focus on evolution. For psychiatric encounters, include mood, behaviour, sleep, appetite, suicidality, and psychotic symptoms.",
@@ -4635,8 +4635,8 @@
         "example": ""
       },
       {
-        "en": "ASSESSMENT & PLAN",
-        "fr": "IMPRESSION ET CONDUITE",
+        "en": "Assessment & Plan",
+        "fr": "Impression et conduite",
         "group": "ASSESSMENT & PLAN",
         "condition": "",
         "instruction_en": "Organize as a numbered problem list. Each item = one diagnosis or active clinical problem, followed immediately by its management actions. Use bold for the diagnosis name. Do NOT restate symptoms, history, or examination findings here — assessment only. Drug doses and new prescriptions belong in the Medications section or clearly listed under the relevant problem's plan. Include differential diagnoses where clinically relevant, noting which are being ruled out (\"r/o\"). For multi-complaint or multimorbidity notes, address each active problem. For psychiatric notes, include safety plan elements when relevant.",
@@ -4841,8 +4841,8 @@
         "example": ""
       },
       {
-        "en": "ASSESSMENT & PLAN",
-        "fr": "IMPRESSION ET CONDUITE",
+        "en": "Assessment & Plan",
+        "fr": "Impression et conduite",
         "group": "ASSESSMENT & PLAN",
         "condition": "",
         "instruction_en": "Organize as a numbered problem list. Each item = one diagnosis or active clinical problem, followed immediately by its management actions. Use bold for the diagnosis name. Do NOT restate symptoms, history, or examination findings here — assessment only. Drug doses and new prescriptions belong in the Medications section or clearly listed under the relevant problem's plan. Include differential diagnoses where clinically relevant, noting which are being ruled out (\"r/o\"). For multi-complaint or multimorbidity notes, address each active problem. For psychiatric notes, include safety plan elements when relevant.",
@@ -4877,7 +4877,7 @@
     "title_fr": "Cardiology Consult Note",
     "sections": [
       {
-        "en": "REASON FOR REFERRAL",
+        "en": "Reason for Referral",
         "fr": "RC",
         "group": "",
         "condition": "",
@@ -4886,7 +4886,7 @@
         "example": ""
       },
       {
-        "en": "HISTORY OF PRESENT ILLNESS",
+        "en": "History of Present Illness",
         "fr": "HMA",
         "group": "",
         "condition": "",
@@ -4895,8 +4895,8 @@
         "example": ""
       },
       {
-        "en": "CARDIOVASCULAR RISK FACTORS",
-        "fr": "FACTEURS DE RISQUE CV",
+        "en": "Cardiovascular Risk Factors",
+        "fr": "Facteurs de risque CV",
         "group": "",
         "condition": "",
         "instruction_en": "<Items listed here MUST NOT appear again in ATCD>\n[ ] Hypertension  [ ] Dyslipidemia  [ ] Diabetes  [ ] Smoking  [ ] Family history  [ ] Obesity  [ ] Inactivity",
@@ -4904,7 +4904,7 @@
         "example": ""
       },
       {
-        "en": "PAST MEDICAL HISTORY",
+        "en": "Past Medical History",
         "fr": "ATCD",
         "group": "",
         "condition": "",
@@ -4913,8 +4913,8 @@
         "example": ""
       },
       {
-        "en": "FAMILY HISTORY",
-        "fr": "HISTOIRE FAMILIALE",
+        "en": "Family History",
+        "fr": "Histoire familiale",
         "group": "",
         "condition": "ONLY IF MENTIONED",
         "instruction_en": "<Cardiovascular diseases>\n<Age of onset>\n<Sudden cardiac death>",
@@ -4922,7 +4922,7 @@
         "example": ""
       },
       {
-        "en": "ALLERGIES",
+        "en": "Allergies",
         "fr": "ALL",
         "group": "",
         "condition": "ONLY IF MENTIONED",
@@ -4931,7 +4931,7 @@
         "example": ""
       },
       {
-        "en": "MEDICATIONS",
+        "en": "Medications",
         "fr": "Rx",
         "group": "",
         "condition": "",
@@ -4940,7 +4940,7 @@
         "example": ""
       },
       {
-        "en": "SOCIAL HISTORY",
+        "en": "Social History",
         "fr": "HDV",
         "group": "",
         "condition": "ONLY IF MENTIONED",
@@ -4949,7 +4949,7 @@
         "example": ""
       },
       {
-        "en": "PHYSICAL EXAMINATION",
+        "en": "Physical Examination",
         "fr": "E/P",
         "group": "",
         "condition": "ONLY IF EXAMINED",
@@ -4958,8 +4958,8 @@
         "example": ""
       },
       {
-        "en": "RELEVANT INVESTIGATIONS",
-        "fr": "EXAMENS PERTINENTS",
+        "en": "Relevant Investigations",
+        "fr": "Examens pertinents",
         "group": "",
         "condition": "ONLY IF RESULTS AVAILABLE",
         "instruction_en": "<OMIT ENTIRE SECTION IF NO TEST RESULTS - NEVER USE PLACEHOLDERS OR \"Non disponible\">\n\n- ECG: <Date, findings - include FC, QRS, QT, QTc, rhythm, ST/T changes> <only if ECG results mentioned>\n- Echocardiogram: <Date, findings - include FEVG, valve function, dimensions> <only if echo results mentioned>\n- Blood work: <Date, relevant results with values> <only if lab results mentioned>\n<Other investigations with ACTUAL RESULTS - DO NOT MENTION FUTURE/ORDERED ONES>",
@@ -4967,8 +4967,8 @@
         "example": ""
       },
       {
-        "en": "ASSESSMENT AND PLAN",
-        "fr": "IMPRESSION ET CONDUITE",
+        "en": "Assessment and Plan",
+        "fr": "Impression et conduite",
         "group": "",
         "condition": "",
         "instruction_en": "1. <Primary cardiac diagnosis/problem>\n   - Investigations ordered\n   - Medication changes\n   - Lifestyle modifications\n2. <Secondary diagnoses with plan>\n3. <Non-cardiac issues if discussed>",
@@ -4976,8 +4976,8 @@
         "example": ""
       },
       {
-        "en": "FOLLOW-UP",
-        "fr": "SUIVI",
+        "en": "Follow-up",
+        "fr": "Suivi",
         "group": "",
         "condition": "ONLY IF EXPLICIT TIMING",
         "instruction_en": "<Include only if explicit date/timing stated>\n<\"Revoir pour résultats [test]\" if test ordered>",
@@ -4994,8 +4994,8 @@
     "title_fr": "Global Soap Consult Note",
     "sections": [
       {
-        "en": "SUBJECTIVE",
-        "fr": "SUBJECTIVE",
+        "en": "Subjective",
+        "fr": "Subjective",
         "group": "",
         "condition": "ALWAYS INCLUDE this group header, with the sub-sections below as ### headers under it",
         "instruction_en": "",
@@ -5066,8 +5066,8 @@
         "example": ""
       },
       {
-        "en": "OBJECTIVE",
-        "fr": "OBJECTIF",
+        "en": "Objective",
+        "fr": "Objectif",
         "group": "",
         "condition": "ALWAYS INCLUDE this group header, with the sub-sections below as ### headers under it",
         "instruction_en": "",
@@ -5094,7 +5094,7 @@
       },
       {
         "en": "Diagnostic Studies",
-        "fr": "EXAMENS PERTINENTS",
+        "fr": "Examens pertinents",
         "group": "",
         "condition": "ONLY IF RESULTS AVAILABLE",
         "instruction_en": "<Laboratory results (Date) - Trend if present>\n<Imaging findings>\n<Other test results>\n<Include dates and specific values>",
@@ -5102,8 +5102,8 @@
         "example": ""
       },
       {
-        "en": "ASSESSMENT & PLAN",
-        "fr": "IMPRESSION ET CONDUITE",
+        "en": "Assessment & Plan",
+        "fr": "Impression et conduite",
         "group": "",
         "condition": "",
         "instruction_en": "Organize by numbered list. Each item: diagnosis + actions ONLY. ZERO restatement from HPI, Objective, or Rx except decisive values tied directly to an action. Baseline active drug doses belong in Rx. New, stopped, held, or changed medication actions belong here with exact stated dose, frequency, timing, and action.",
@@ -5130,7 +5130,7 @@
       },
       {
         "en": "Follow-up",
-        "fr": "SUIVI",
+        "fr": "Suivi",
         "group": "",
         "condition": "ONLY IF TIMING STATED",
         "instruction_en": "<Next appointment: Timing and purpose>\n<Earlier return if: Warning signs>",
@@ -5147,8 +5147,8 @@
     "title_fr": "Global Problem Oriented Note",
     "sections": [
       {
-        "en": "SUBJECTIVE",
-        "fr": "SUBJECTIF",
+        "en": "Subjective",
+        "fr": "Subjectif",
         "group": "",
         "condition": "",
         "instruction_en": "",
@@ -5210,8 +5210,8 @@
         "example": ""
       },
       {
-        "en": "OBJECTIVE",
-        "fr": "OBJECTIF",
+        "en": "Objective",
+        "fr": "Objectif",
         "group": "",
         "condition": "",
         "instruction_en": "",
@@ -5238,7 +5238,7 @@
       },
       {
         "en": "Diagnostic Studies",
-        "fr": "EXAMENS PERTINENTS",
+        "fr": "Examens pertinents",
         "group": "",
         "condition": "ONLY IF RESULTS AVAILABLE",
         "instruction_en": "<Labs, imaging, or other tests reviewed - include dates and values>",
@@ -5246,8 +5246,8 @@
         "example": ""
       },
       {
-        "en": "ASSESSMENT & PLAN",
-        "fr": "IMPRESSION ET CONDUITE",
+        "en": "Assessment & Plan",
+        "fr": "Impression et conduite",
         "group": "",
         "condition": "",
         "instruction_en": "<List each problem separately - keep CONCISE>\n<Use labels in NOTE LANGUAGE - FR uses French, EN uses English>\n<Do NOT repeat \"Conduite:\" or \"Plan:\" multiple times - list all on ONE line>\n\n1. <Problem Name>\n   - Impression: <1-line assessment>\n   - Examens: <ALL tests on ONE line, comma-separated>\n   - Tx: <Medications/treatments> <ONLY IF PRESCRIBED>\n   - Enseignement: <Key education points> <ONLY IF DISCUSSED>\n   - Retour urgent si: <Warning signs> <ONLY IF DISCUSSED>\n\n2. <Secondary problem> <ONLY IF PRESENT>",
@@ -5255,8 +5255,8 @@
         "example": ""
       },
       {
-        "en": "FOLLOW-UP",
-        "fr": "SUIVI",
+        "en": "Follow-up",
+        "fr": "Suivi",
         "group": "",
         "condition": "ONLY IF EXPLICIT TIMING",
         "instruction_en": "<Timing and purpose of next appointment>",
@@ -5273,7 +5273,7 @@
     "title_fr": "Global Progress Note",
     "sections": [
       {
-        "en": "REASON FOR VISIT",
+        "en": "Reason for Visit",
         "fr": "RC",
         "group": "",
         "condition": "",
@@ -5282,7 +5282,7 @@
         "example": ""
       },
       {
-        "en": "MEDICATIONS",
+        "en": "Medications",
         "fr": "Rx",
         "group": "",
         "condition": "",
@@ -5291,7 +5291,7 @@
         "example": ""
       },
       {
-        "en": "HISTORY OF PRESENT ILLNESS",
+        "en": "History of Present Illness",
         "fr": "HMA",
         "group": "",
         "condition": "",
@@ -5300,7 +5300,7 @@
         "example": ""
       },
       {
-        "en": "REVIEW OF SYSTEMS",
+        "en": "Review of Systems",
         "fr": "RDS",
         "group": "",
         "condition": "ONLY IF MENTIONED",
@@ -5309,8 +5309,8 @@
         "example": ""
       },
       {
-        "en": "OBJECTIVE",
-        "fr": "OBJECTIF",
+        "en": "Objective",
+        "fr": "Objectif",
         "group": "",
         "condition": "",
         "instruction_en": "",
@@ -5327,7 +5327,7 @@
         "example": ""
       },
       {
-        "en": "PHYSICAL EXAMINATION",
+        "en": "Physical Examination",
         "fr": "E/P",
         "group": "",
         "condition": "ONLY IF EXAMINED",
@@ -5336,8 +5336,8 @@
         "example": ""
       },
       {
-        "en": "INVESTIGATIONS",
-        "fr": "EXAMENS PERTINENTS",
+        "en": "Investigations",
+        "fr": "Examens pertinents",
         "group": "",
         "condition": "ONLY IF RESULTS AVAILABLE",
         "instruction_en": "<Serial labs: most recent value per analyte as the anchor, per-line layout>\n<Trend arrow prev->current ONLY for abnormal or moving values: \"Creat 49 (50->49)\", \"K 3.8 (4.3->3.8)\">\n<Stable normals: state once on first mention, then \"reste sans particularite\" or omit>\n<One-off workups (bilan martial, TSH...) date-stamped once - do NOT repeat daily>\n<Never chain values across analytes - an arrow stays within one analyte's series>\n<Imaging/test results with their own dates>\n<NEVER list \"Non disponible\" - OMIT section if no results>",
@@ -5345,8 +5345,8 @@
         "example": ""
       },
       {
-        "en": "ASSESSMENT AND PLAN",
-        "fr": "IMPRESSION ET CONDUITE",
+        "en": "Assessment and Plan",
+        "fr": "Impression et conduite",
         "group": "",
         "condition": "",
         "instruction_en": "1. <Primary diagnosis/issue>\n   - Key findings\n   - Tests ordered\n   - Medication changes\n   - Patient education\n\n2. <Secondary issue> <ONLY IF SECOND ISSUE>\n   - Associated plan",
@@ -5354,8 +5354,8 @@
         "example": ""
       },
       {
-        "en": "FOLLOW-UP",
-        "fr": "SUIVI",
+        "en": "Follow-up",
+        "fr": "Suivi",
         "group": "",
         "condition": "ONLY IF EXPLICIT TIMING",
         "instruction_en": "<Only include if explicit date/timing stated>\n<\"Revoir pour résultats [test]\" if test ordered>",
@@ -5372,8 +5372,8 @@
     "title_fr": "Global Test Result",
     "sections": [
       {
-        "en": "TEST RESULT",
-        "fr": "RÉSULTAT D'EXAMEN",
+        "en": "Test Result",
+        "fr": "Résultat d'examen",
         "group": "",
         "condition": "",
         "instruction_en": "<INPUT PARAMETERS:>\n    • recording_transcript: <AUDIO_TRANSCRIPT>\n    • additional_context: <ADDITIONAL_CONTEXT>\n    • type: <\"doctor_dictation_ambient\" | \"doctor_dictation_patient_contact\">\n    • language: <\"EN\" | \"FR\">\n    • specialty: <user_specialty>\n    • template: <\"global_test_result\">\n    • date: <DATE OF NOTE>\n    • time: <TIME OF NOTE>\n\n\n\n⸻\n\n2. Note Structure Based on type\n\nA. Ambient Mode (No Patient Contact)\n\ntype: \"doctor_dictation_ambient\"\n\nPurpose: For situations where the physician is only reviewing a test without direct patient contact (phone, in-person, etc.).\n\n<Recommended Sections (Shortened: Subjective and Patient Communication are omitted):>\n\t1.\tDate\n\t•\t<Date of dictation/entry>\n\t2.\tObjective <FR: OBJECTIF>\n\t•\tRecent Tests: <Clearly list the tests reviewed and relevant findings>\n<Example:>\n\t•\tEchocardiogram: Normal LV function, EF 60%, no valvular abnormalities.\n\t•\tBlood Work: Cholesterol slightly elevated at 210 mg/dL.\n\t3.\tAssessment & Plan <FR: IMPRESSION ET CONDUITE>\n\t1.\tReview of Test Results\n\t•\t<Document the physician's exact assessment/interpretation of the test(s)>\n\t2.\tActions\n\t•\t<List only the specific actions/follow-up steps dictated>\n\t•\t<Include medication changes only if explicitly ordered>\n\t•\t<Include timing for follow-up only if specified>\n\t3.\tNext Steps / Follow-Up <FR: SUIVI> <ONLY IF EXPLICIT TIMING>\n\t•\t<Mention exact instructions if any are stated>\n\t•\t<Otherwise, omit or leave blank>\n\n(No “Subjective” or “Patient Communication” sections appear for ambient mode.)\n\n⸻\n\nB. Patient Contact (Phone Consult, etc.)\n\ntype: \"doctor_patient\"\n\nPurpose: For situations where the physician has direct contact with the patient (e.g., phone consult or message exchange).\n\n<Recommended Sections:>\n\t1.\tDate\n\t•\t<Date of dictation/entry>\n\t2.\tSubjective <FR: SUBJECTIF> <ONLY IF PATIENT CONTACT>\n\t•\tChief Complaint / Reason for Contact <FR: RC / Motif du contact>\n\t•\t<If the patient provided information, summarize it briefly>\n\t•\t<If no patient information was provided, omit this bullet>\n\t3.\tObjective <FR: OBJECTIF>\n\t•\tRecent Tests: <Clearly list the tests reviewed and relevant findings>\n\t4.\tAssessment & Plan <FR: IMPRESSION ET CONDUITE>\n\t1.\tReview of Test Results\n\t•\t<Document only the physician's exact interpretation>\n\t2.\tActions\n\t•\t<List only explicitly stated actions (med changes, follow-up timing, referrals)>\n\t3.\tPatient Communication <FR: Communication avec le patient> <ONLY IF CONTACT>\n\t•\t<Document the actual content of phone call or message exchange, verbatim if possible>\n\t•\t<If unsuccessful contact, note it exactly as dictated>\n\t4.\tNext Steps / Follow-Up <FR: SUIVI> <ONLY IF EXPLICIT TIMING>\n\t•\t<Include timeframe exactly if specified>\n\n⸻\n\n<General Style & Quality Guidelines:>\n\t<No additional interpretations not explicitly stated by the physician>\n\t<Use precise medical terminology and professional language in the selected language (EN or FR)>\n\t<Omit any sections not relevant or not dictated>\n\t<Adhere to physician's wording where possible for test interpretations, plans, and instructions>\n\t<Mark uncertainties as [INAUDIBLE], [UNCERTAIN], [DOSE UNCLEAR] as needed>\n\n⸻\n\nHere is an example of a TEST Follow-up Note:\n\n\nDATE: 2023-05-15\nTIME: 14:30\n\nSPECIALTY: Cardiology\n\nOBJECTIVE:\n• Recent Tests:\n    - Echocardiogram (performed on 2023-05-10):\n        • Left ventricular ejection fraction: 55%\n        • No significant valvular abnormalities\n        • Mild left atrial enlargement\n    - Blood Work (drawn on 2023-05-10):\n        • Lipid Panel:\n            - Total Cholesterol: 215 mg/dL (slightly elevated)\n            - LDL: 130 mg/dL\n            - HDL: 45 mg/dL\n            - Triglycerides: 150 mg/dL\n        • HbA1c: 5.8%\n\nASSESSMENT & PLAN:\n1. Review of Test Results:\n    • Echocardiogram shows preserved left ventricular function with mild left atrial enlargement.\n    • Lipid panel indicates borderline hypercholesterolemia.\n    • HbA1c suggests prediabetes.\n\n2. Actions:\n    • Initiate atorvastatin 20 mg daily for hypercholesterolemia.\n    • Recommend lifestyle modifications:\n        - Mediterranean diet\n        - 150 minutes of moderate-intensity aerobic exercise per week\n\n3. Next Steps / Follow-Up:\n    • Repeat lipid panel in 3 months\n    • Follow-up appointment in [FOLLOW-UP TIMING UNCLEAR]",
@@ -5390,8 +5390,8 @@
     "title_fr": "Operative Note",
     "sections": [
       {
-        "en": "PRE-OPERATIVE DIAGNOSIS",
-        "fr": "DIAGNOSTIC PRÉ-OPÉRATOIRE",
+        "en": "Pre-operative Diagnosis",
+        "fr": "Diagnostic pré-opératoire",
         "group": "",
         "condition": "",
         "instruction_en": "<1-3 words describing indication for surgery>",
@@ -5399,8 +5399,8 @@
         "example": ""
       },
       {
-        "en": "PROCEDURE PERFORMED",
-        "fr": "INTERVENTION RÉALISÉE",
+        "en": "Procedure Performed",
+        "fr": "Intervention réalisée",
         "group": "",
         "condition": "",
         "instruction_en": "<Detailed description of the surgical procedure>",
@@ -5408,8 +5408,8 @@
         "example": ""
       },
       {
-        "en": "INTRAOPERATIVE FINDINGS",
-        "fr": "CONSTATATIONS PEROPÉRATOIRES",
+        "en": "Intraoperative Findings",
+        "fr": "Constatations peropératoires",
         "group": "",
         "condition": "OMIT IF NONE",
         "instruction_en": "<Observations made during the surgery>",
@@ -5417,8 +5417,8 @@
         "example": ""
       },
       {
-        "en": "POST-OPERATIVE PLAN",
-        "fr": "PLAN POST-OPÉRATOIRE",
+        "en": "Post-operative Plan",
+        "fr": "Plan post-opératoire",
         "group": "",
         "condition": "",
         "instruction_en": "<Instructions and plan for care after the surgery>",
@@ -5435,7 +5435,7 @@
     "title_fr": "Suivi Mdf Frontrx V3",
     "sections": [
       {
-        "en": "DEMOGRAPHICS",
+        "en": "Demographics",
         "fr": "Sexe, âge",
         "group": "",
         "condition": "",
@@ -5444,7 +5444,7 @@
         "example": ""
       },
       {
-        "en": "CONSENT",
+        "en": "Consent",
         "fr": "Consentement du patient",
         "group": "",
         "condition": "",
@@ -5453,7 +5453,7 @@
         "example": ""
       },
       {
-        "en": "REASON FOR VISIT",
+        "en": "Reason for Visit",
         "fr": "RC",
         "group": "",
         "condition": "",
@@ -5462,7 +5462,7 @@
         "example": ""
       },
       {
-        "en": "HISTORY OF PRESENT ILLNESS",
+        "en": "History of Present Illness",
         "fr": "HMA",
         "group": "",
         "condition": "",
@@ -5471,7 +5471,7 @@
         "example": ""
       },
       {
-        "en": "ALLERGIES",
+        "en": "Allergies",
         "fr": "ALL",
         "group": "",
         "condition": "ONLY IF MENTIONED",
@@ -5480,7 +5480,7 @@
         "example": ""
       },
       {
-        "en": "MEDICATIONS",
+        "en": "Medications",
         "fr": "Rx",
         "group": "",
         "condition": "ONLY IF MENTIONED",
@@ -5489,8 +5489,8 @@
         "example": ""
       },
       {
-        "en": "RELEVANT INVESTIGATIONS",
-        "fr": "EXAMENS PERTINENTS",
+        "en": "Relevant Investigations",
+        "fr": "Examens pertinents",
         "group": "",
         "condition": "ONLY IF RESULTS AVAILABLE",
         "instruction_en": "<Résultats avec dates et valeurs exactes>\n<Ne pas inclure les examens demandés sans résultat>",
@@ -5498,7 +5498,7 @@
         "example": ""
       },
       {
-        "en": "PHYSICAL EXAMINATION",
+        "en": "Physical Examination",
         "fr": "E/P",
         "group": "",
         "condition": "ONLY IF EXAMINED",
@@ -5507,8 +5507,8 @@
         "example": ""
       },
       {
-        "en": "BASE PHYSICAL EXAM TEMPLATE",
-        "fr": "BASE PHYSICAL EXAM TEMPLATE",
+        "en": "Base Physical Exam Template",
+        "fr": "Base Physical Exam Template",
         "group": "",
         "condition": "ONLY IF BASE EXAM DESCRIBED",
         "instruction_en": "E/P BEG\nEupnéique\nORL : CAEN, tympans N bilat, nez muqueuse et cornets N, pharynx N, amygdales N  \nPas d'ADNP  \nCoeur : RCR, B1B2n, pas de souffle  \nPms : BEAB. Clairs, pas de sibilances, ronchis ou crépitants  \nAbdo : Bi+, souple, pas de sensibilité, pas d'hépatomégalie, pas de splénomégalie  \nPas d'OMI",
@@ -5516,8 +5516,8 @@
         "example": ""
       },
       {
-        "en": "NEUROLOGICAL EXAM TEMPLATE",
-        "fr": "NEUROLOGICAL EXAM TEMPLATE",
+        "en": "Neurological Exam Template",
+        "fr": "Neurological Exam Template",
         "group": "",
         "condition": "ONLY IF NEURO EXAM MENTIONNED OR NEURO PROBLEM",
         "instruction_en": "<Utiliser si examen neurologique est fait>\nE/P BEG\nEupnéique\nORL : CAEN, tympans N bilat, nez muqueuse et cornets N, pharynx N, amygdales N  \nPas d'ADNP  \nCou : Thyroïde s/p, pas de goitre  \nCoeur : TVC N, RCR, B1B2n, pas de souffle  \nPms : BEAB. Clairs, pas de sibilances, ronchis ou crépitants  \nAbdo : Bi+, souple, pas de sensibilité, pas d'hépatomégalie, pas de splénomégalie  \nMI : pas d'oedème  \nPeau : Absence de lésions  \nNeuro : NC 2 à 7 N  \nChamps visuels N Fundi N  \nBarré N Forces MS 5/5, Forces MI 5/5  \nSensibilité toucher symétrique, Sensibilité pic symétrique  \nProprioception N Pallesthésie N  \nROT symétriques  \nRéflexe cutané plantaire N  \nMouvements alternés-rapides N Doigt-nez N Tandem N  \nDémarche N Romberg N Pull test N",
@@ -5525,8 +5525,8 @@
         "example": ""
       },
       {
-        "en": "LOCOMOTOR EXAM TEMPLATE",
-        "fr": "LOCOMOTOR EXAM TEMPLATE",
+        "en": "Locomotor Exam Template",
+        "fr": "Locomotor Exam Template",
         "group": "",
         "condition": "ONLY IF MSK EXAM OR MSK PROBLEM",
         "instruction_en": "<Garder le système pertinent à l'HMA et mentionner articulation droite ou gauche si applicable>\n\nCervical : palpation N  \nROM Mouvements actifs : N  \nSpurling nég  \nNeuro : forces MS 5/5, sensibilité N, ROT symétriques  \n\nÉpaule : visualisation N, pas d'oedème, pas de rougeur  \nROM Mouvements actifs : N  \nROM Mouvements passifs : N  \nPalpation N  \nSpeed (biceps) nég  \nArc douloureux (général) : + entre XX et XX degrés  \nBras tombant nég  \nHawkins/Neer (accrochage) nég  \nRotation externe résistée nég  \nJobe (sus épineux) nég  \nGerber (sous scapulaire) nég  \nTest de la patte (sous épineux/petit rond) nég  \nTest du foulard nég  \n\nCoude : visualisation N, pas d'oedème, pas de rougeur, pas de chaleur  \nROM Mouvements actifs : N  \nROM Mouvements passifs : N  \nPalpation N  \nMise en tension des muscles épicondyliens latéraux nég  \nMise en tension des muscles épicondyliens médiaux nég  \nPercussion nerf ulnaire nég  \n\nPoignets : visualisation N, pas d'oedème, pas de rougeur, pas de chaleur  \nROM Mouvements actifs : N  \nROM Mouvements passifs : N  \nPalpation N, tabatière anatomique N  \nFinklestein N  \nTinel N  \nPhalen x 1 minute N  \nÉminence thénar N  \n\nMains et doigts : visualisation N, pas d'oedème, pas de rougeur, pas de chaleur  \nROM Mouvements actifs : N  \nROM Mouvements passifs : N  \nPalpation N, tabatière anatomique N  \nFléchisseurs superficiels et profonds N, pas de nodules  \nMCP N  \nIPP N  \nIPD N  \nDémarche N  \nTransferts N  \n\nDos : palpation apophyses épineuses et gouttières paravertébrales N  \nPalpation musculature paravertébrale N  \nROM Mouvements actifs : N  \nLasègue (sciatique / L4-L5-S1-S2) N  \nTripode N  \nEly (fémoral / L2-L3-L4) N  \nNeuro : forces MI 5/5, sensibilité N, ROT symétriques  \nRégion anale : sensibilité au pic préservé, sphincter anal ok  \n\nHanche : visualisation N, pas d'oedème, pas de rougeur, pas de chaleur  \nROM Mouvements actifs : N  \nROM Mouvements passifs : N  \nPalpation N  \nFABER N  \nMise en tension sacro-iliaques N  \nMesures MI : symétriques  \n\nGenou : visualisation N, pas d'oedème, pas de rougeur, pas de chaleur  \nROM Mouvements actifs : N  \nROM Mouvements passifs : N  \nPalpation N  \nSigne du glaçon nég, signe du flot nég  \nSigne du rabot nég  \nStress en valgus nég  \nStress en varus nég  \nTiroir antérieur nég  \nStep test pour LCP nég  \nLachman nég  \nMarche en squat ok  \nThesally N  \nManoeuvre résistée de la patte d'oie  \n\nCheville et pied : visualisation N, pas d'oedème, pas de rougeur, pas de chaleur  \nROM cheville Mouvements actifs : N  \nROM cheville Mouvements passifs : N  \nPalpation N, attache fascia plantaire N  \nRègle d'Ottawa : nég  \nManoeuvre du tiroir : nég  \nManoeuvre de Thompson N",
@@ -5534,8 +5534,8 @@
         "example": ""
       },
       {
-        "en": "GYNECOLOGICAL EXAM TEMPLATE",
-        "fr": "GYNECOLOGICAL EXAM TEMPLATE",
+        "en": "Gynecological Exam Template",
+        "fr": "Gynecological Exam Template",
         "group": "",
         "condition": "ONLY IF GYNECO EXAM OR GYNECO PROBLEM",
         "instruction_en": "E/P BEG  \nGynéco : Vulve N, vagin N, col visualisé N et mobilisation non douloureuse, utérus volume N, annexes s/p",
@@ -5543,7 +5543,7 @@
         "example": ""
       },
       {
-        "en": "MENTAL EXAMINATION",
+        "en": "Mental Examination",
         "fr": "E/M",
         "group": "",
         "condition": "ONLY IF MENTAL EXAM OR MENTAL PROBLEM",
@@ -5552,7 +5552,7 @@
         "example": ""
       },
       {
-        "en": "LABS & IMAGING",
+        "en": "Labs & Imaging",
         "fr": "Labos",
         "group": "",
         "condition": "ONLY IF MENTIONED",
@@ -5561,7 +5561,7 @@
         "example": ""
       },
       {
-        "en": "ASSESSMENT & PLAN",
+        "en": "Assessment & Plan",
         "fr": "IMP et CAT",
         "group": "",
         "condition": "",
@@ -5579,7 +5579,7 @@
     "title_fr": "Test Template",
     "sections": [
       {
-        "en": "REASON FOR ADMISSION",
+        "en": "Reason for Admission",
         "fr": "RC",
         "group": "",
         "condition": "",
@@ -5588,7 +5588,7 @@
         "example": ""
       },
       {
-        "en": "HISTORY OF PRESENT ILLNESS",
+        "en": "History of Present Illness",
         "fr": "HMA",
         "group": "",
         "condition": "",
@@ -5597,8 +5597,8 @@
         "example": ""
       },
       {
-        "en": "OBJECTIVE",
-        "fr": "OBJECTIF",
+        "en": "Objective",
+        "fr": "Objectif",
         "group": "",
         "condition": "",
         "instruction_en": "",
@@ -5615,7 +5615,7 @@
         "example": ""
       },
       {
-        "en": "PHYSICAL EXAMINATION",
+        "en": "Physical Examination",
         "fr": "E/P",
         "group": "",
         "condition": "ONLY IF EXAMINED",
@@ -5624,8 +5624,8 @@
         "example": ""
       },
       {
-        "en": "INVESTIGATIONS",
-        "fr": "EXAMENS PERTINENTS",
+        "en": "Investigations",
+        "fr": "Examens pertinents",
         "group": "",
         "condition": "ONLY IF RESULTS AVAILABLE",
         "instruction_en": "<Laboratory results from today with values>\n<Relevant imaging reports with date>\n<Historical lab data if available>",
@@ -5633,8 +5633,8 @@
         "example": ""
       },
       {
-        "en": "ASSESSMENT AND PLAN",
-        "fr": "IMPRESSION ET CONDUITE",
+        "en": "Assessment and Plan",
+        "fr": "Impression et conduite",
         "group": "",
         "condition": "",
         "instruction_en": "1) <Primary diagnosis>\n   - <Tests ordered>\n   - <Medication changes>\n   - <Monitoring parameters>\n   - <Patient education>\n\n2) <Secondary diagnosis>\n   - <Associated investigations>\n   - <Treatment adjustments>\n   - <Follow-up arrangements>",
