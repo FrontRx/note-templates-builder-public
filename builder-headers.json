@@ -243,8 +243,8 @@
     "category": "objective"
   },
   {
-    "en": "FOLLOW-UP NOTE",
-    "fr": "NOTE DE SUIVI",
+    "en": "Follow-up Note",
+    "fr": "Note de suivi",
     "condition": "ONLY IF — Suivi hospitalisé / Suivi clinique externe",
     "instruction_en": "For inpatient or outpatient follow-up encounters, document: interval events since last assessment, patient-reported changes in symptoms, response to treatment, and any new concerns raised. Use telegraphic format. This section replaces the full HPI for follow-up notes — do not restate the original presentation. Reference the original diagnosis briefly and focus on evolution.",
     "instruction_fr": "Pour les rencontres de suivi hospitalisé ou en clinique externe, documenter : les événements survenus depuis la dernière évaluation, les changements de symptômes rapportés par le patient, la réponse au traitement et toute nouvelle préoccupation soulevée. Utiliser un format télégraphique. Cette section remplace l'anamnèse complète pour les notes de suivi — ne pas reprendre la présentation initiale. Référencer brièvement le diagnostic initial et se concentrer sur l'évolution.",
@@ -252,8 +252,8 @@
     "category": "plan"
   },
   {
-    "en": "ASSESSMENT & PLAN",
-    "fr": "IMPRESSION ET CONDUITE",
+    "en": "Assessment & Plan",
+    "fr": "Impression et conduite",
     "condition": "",
     "instruction_en": "Organize as a numbered problem list. Each item = one diagnosis or active clinical problem, followed immediately by its management actions. Use bold for the diagnosis name. Do NOT restate symptoms, history, or examination findings here — assessment only. Drug doses and new prescriptions belong in the Medications section or clearly listed under the relevant problem's plan. Include differential diagnoses where clinically relevant, noting which are being ruled out (\"r/o\"). For multi-complaint or multimorbidity notes, address each active problem. For geriatric evaluations, include functional goals in the plan where applicable. For psychiatric notes, include safety plan elements when relevant.",
     "instruction_fr": "Organiser sous forme de liste numérotée de problèmes. Chaque item = un diagnostic ou problème clinique actif, suivi immédiatement de ses actions de prise en charge. Mettre le nom du diagnostic en gras. Ne PAS reprendre ici les symptômes, l'histoire ou les résultats d'examen — impression seulement. Les doses de médicaments et nouvelles prescriptions appartiennent à la section Médication ou clairement listées sous le plan du problème pertinent. Inclure les diagnostics différentiels lorsque cliniquement pertinent, en notant ceux à éliminer (\"r/o\"). Pour les notes à plaintes multiples ou de multimorbidité, aborder chaque problème actif. Pour les évaluations gériatriques, inclure les objectifs fonctionnels dans le plan si applicable. Pour les notes psychiatriques, inclure les éléments du plan de sécurité si pertinent.",
@@ -264,8 +264,8 @@
     "en": "Diagnoses / Problem List",
     "fr": "Diagnostics / Liste des problèmes",
     "condition": "",
-    "instruction_en": "Standalone numbered list of diagnoses or active clinical problems, without management actions — use when diagnoses are documented separately from the plan; otherwise prefer ASSESSMENT & PLAN. Each item = one diagnosis or active clinical problem. Use bold for the diagnosis name. Do NOT restate symptoms, history, or examination findings here — assessment only. Include differential diagnoses where clinically relevant, noting which are being ruled out (\"r/o\").",
-    "instruction_fr": "Liste numérotée autonome des diagnostics ou problèmes cliniques actifs, sans les actions de prise en charge — à utiliser lorsque les diagnostics sont documentés séparément du plan; sinon privilégier IMPRESSION ET CONDUITE. Chaque item = un diagnostic ou problème clinique actif. Mettre le nom du diagnostic en gras. Ne PAS reprendre ici les symptômes, l'histoire ou les résultats d'examen — impression seulement. Inclure les diagnostics différentiels lorsque cliniquement pertinent, en notant ceux à éliminer (\"r/o\").",
+    "instruction_en": "Standalone numbered list of diagnoses or active clinical problems, without management actions — use when diagnoses are documented separately from the plan; otherwise prefer Assessment & Plan. Each item = one diagnosis or active clinical problem. Use bold for the diagnosis name. Do NOT restate symptoms, history, or examination findings here — assessment only. Include differential diagnoses where clinically relevant, noting which are being ruled out (\"r/o\").",
+    "instruction_fr": "Liste numérotée autonome des diagnostics ou problèmes cliniques actifs, sans les actions de prise en charge — à utiliser lorsque les diagnostics sont documentés séparément du plan; sinon privilégier Impression et conduite. Chaque item = un diagnostic ou problème clinique actif. Mettre le nom du diagnostic en gras. Ne PAS reprendre ici les symptômes, l'histoire ou les résultats d'examen — impression seulement. Inclure les diagnostics différentiels lorsque cliniquement pertinent, en notant ceux à éliminer (\"r/o\").",
     "example": "1) **Fibrillation auriculaire paroxystique — nouveau diagnostic**\n2) **Diabète de type 2 — contrôle sous-optimal**\n3) **HTA — non contrôlée**\n   r/o HTA secondaire",
     "category": "plan"
   },
