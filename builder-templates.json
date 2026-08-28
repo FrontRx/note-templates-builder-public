@@ -4995,7 +4995,7 @@
     "sections": [
       {
         "en": "Subjective",
-        "fr": "Subjective",
+        "fr": "Subjectif",
         "group": "",
         "condition": "ALWAYS INCLUDE this group header, with the sub-sections below as ### headers under it",
         "instruction_en": "",
@@ -5004,7 +5004,7 @@
       },
       {
         "en": "Chief Complaint",
-        "fr": "Chief Complaint",
+        "fr": "Raison de consultation",
         "group": "",
         "condition": "",
         "instruction_en": "<MAX 1-3 words - e.g., \"Péricardite aiguë\", \"Infarctus\", \"Dyspnée\">",
@@ -5112,7 +5112,7 @@
       },
       {
         "en": "Example format",
-        "fr": "Example format",
+        "fr": "Exemple de format",
         "group": "",
         "condition": "",
         "instruction_en": "```\n1) Angine instable\n   - ECG serie q6h\n   - Troponines q8h x 3\n   - Heparine IV\n   - ASA\n\n2) HTA non controlee\n   - Ajuster amlodipine\n   - Ajouter ramipril\n   - Controle TA bid\n```",
@@ -5508,7 +5508,7 @@
       },
       {
         "en": "Base Physical Exam Template",
-        "fr": "Base Physical Exam Template",
+        "fr": "Modèle d'examen physique de base",
         "group": "",
         "condition": "ONLY IF BASE EXAM DESCRIBED",
         "instruction_en": "E/P BEG\nEupnéique\nORL : CAEN, tympans N bilat, nez muqueuse et cornets N, pharynx N, amygdales N  \nPas d'ADNP  \nCoeur : RCR, B1B2n, pas de souffle  \nPms : BEAB. Clairs, pas de sibilances, ronchis ou crépitants  \nAbdo : Bi+, souple, pas de sensibilité, pas d'hépatomégalie, pas de splénomégalie  \nPas d'OMI",
@@ -5517,7 +5517,7 @@
       },
       {
         "en": "Neurological Exam Template",
-        "fr": "Neurological Exam Template",
+        "fr": "Modèle d'examen neurologique",
         "group": "",
         "condition": "ONLY IF NEURO EXAM MENTIONNED OR NEURO PROBLEM",
         "instruction_en": "<Utiliser si examen neurologique est fait>\nE/P BEG\nEupnéique\nORL : CAEN, tympans N bilat, nez muqueuse et cornets N, pharynx N, amygdales N  \nPas d'ADNP  \nCou : Thyroïde s/p, pas de goitre  \nCoeur : TVC N, RCR, B1B2n, pas de souffle  \nPms : BEAB. Clairs, pas de sibilances, ronchis ou crépitants  \nAbdo : Bi+, souple, pas de sensibilité, pas d'hépatomégalie, pas de splénomégalie  \nMI : pas d'oedème  \nPeau : Absence de lésions  \nNeuro : NC 2 à 7 N  \nChamps visuels N Fundi N  \nBarré N Forces MS 5/5, Forces MI 5/5  \nSensibilité toucher symétrique, Sensibilité pic symétrique  \nProprioception N Pallesthésie N  \nROT symétriques  \nRéflexe cutané plantaire N  \nMouvements alternés-rapides N Doigt-nez N Tandem N  \nDémarche N Romberg N Pull test N",
@@ -5526,7 +5526,7 @@
       },
       {
         "en": "Locomotor Exam Template",
-        "fr": "Locomotor Exam Template",
+        "fr": "Modèle d'examen locomoteur",
         "group": "",
         "condition": "ONLY IF MSK EXAM OR MSK PROBLEM",
         "instruction_en": "<Garder le système pertinent à l'HMA et mentionner articulation droite ou gauche si applicable>\n\nCervical : palpation N  \nROM Mouvements actifs : N  \nSpurling nég  \nNeuro : forces MS 5/5, sensibilité N, ROT symétriques  \n\nÉpaule : visualisation N, pas d'oedème, pas de rougeur  \nROM Mouvements actifs : N  \nROM Mouvements passifs : N  \nPalpation N  \nSpeed (biceps) nég  \nArc douloureux (général) : + entre XX et XX degrés  \nBras tombant nég  \nHawkins/Neer (accrochage) nég  \nRotation externe résistée nég  \nJobe (sus épineux) nég  \nGerber (sous scapulaire) nég  \nTest de la patte (sous épineux/petit rond) nég  \nTest du foulard nég  \n\nCoude : visualisation N, pas d'oedème, pas de rougeur, pas de chaleur  \nROM Mouvements actifs : N  \nROM Mouvements passifs : N  \nPalpation N  \nMise en tension des muscles épicondyliens latéraux nég  \nMise en tension des muscles épicondyliens médiaux nég  \nPercussion nerf ulnaire nég  \n\nPoignets : visualisation N, pas d'oedème, pas de rougeur, pas de chaleur  \nROM Mouvements actifs : N  \nROM Mouvements passifs : N  \nPalpation N, tabatière anatomique N  \nFinklestein N  \nTinel N  \nPhalen x 1 minute N  \nÉminence thénar N  \n\nMains et doigts : visualisation N, pas d'oedème, pas de rougeur, pas de chaleur  \nROM Mouvements actifs : N  \nROM Mouvements passifs : N  \nPalpation N, tabatière anatomique N  \nFléchisseurs superficiels et profonds N, pas de nodules  \nMCP N  \nIPP N  \nIPD N  \nDémarche N  \nTransferts N  \n\nDos : palpation apophyses épineuses et gouttières paravertébrales N  \nPalpation musculature paravertébrale N  \nROM Mouvements actifs : N  \nLasègue (sciatique / L4-L5-S1-S2) N  \nTripode N  \nEly (fémoral / L2-L3-L4) N  \nNeuro : forces MI 5/5, sensibilité N, ROT symétriques  \nRégion anale : sensibilité au pic préservé, sphincter anal ok  \n\nHanche : visualisation N, pas d'oedème, pas de rougeur, pas de chaleur  \nROM Mouvements actifs : N  \nROM Mouvements passifs : N  \nPalpation N  \nFABER N  \nMise en tension sacro-iliaques N  \nMesures MI : symétriques  \n\nGenou : visualisation N, pas d'oedème, pas de rougeur, pas de chaleur  \nROM Mouvements actifs : N  \nROM Mouvements passifs : N  \nPalpation N  \nSigne du glaçon nég, signe du flot nég  \nSigne du rabot nég  \nStress en valgus nég  \nStress en varus nég  \nTiroir antérieur nég  \nStep test pour LCP nég  \nLachman nég  \nMarche en squat ok  \nThesally N  \nManoeuvre résistée de la patte d'oie  \n\nCheville et pied : visualisation N, pas d'oedème, pas de rougeur, pas de chaleur  \nROM cheville Mouvements actifs : N  \nROM cheville Mouvements passifs : N  \nPalpation N, attache fascia plantaire N  \nRègle d'Ottawa : nég  \nManoeuvre du tiroir : nég  \nManoeuvre de Thompson N",
@@ -5535,7 +5535,7 @@
       },
       {
         "en": "Gynecological Exam Template",
-        "fr": "Gynecological Exam Template",
+        "fr": "Modèle d'examen gynécologique",
         "group": "",
         "condition": "ONLY IF GYNECO EXAM OR GYNECO PROBLEM",
         "instruction_en": "E/P BEG  \nGynéco : Vulve N, vagin N, col visualisé N et mobilisation non douloureuse, utérus volume N, annexes s/p",
