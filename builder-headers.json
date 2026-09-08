@@ -6,7 +6,10 @@
     "instruction_en": "Document demographic descriptors relevant to the clinical encounter (age, sex, language, significant living situation). Do NOT include full name, date of birth, health insurance number, or any direct identifier. For geriatric or psychiatric contexts, include functional/social baseline if available. For pediatric contexts, include age in years and months and the identity of the accompanying person.",
     "instruction_fr": "Documenter les descripteurs démographiques pertinents à la rencontre clinique (âge, sexe, langue, situation de vie significative). Ne PAS inclure le nom complet, la date de naissance, le numéro d'assurance maladie, ni tout identifiant direct. En contexte gériatrique ou psychiatrique, inclure le niveau fonctionnel et social de base si disponible. En contexte pédiatrique, inclure l'âge en années et en mois ainsi que l'identité de la personne accompagnatrice.",
     "example": "",
-    "category": "subjective"
+    "category": "subjective",
+    "abbr_en": "",
+    "abbr_fr": "",
+    "format": ""
   },
   {
     "en": "Chief Complaint",
@@ -15,7 +18,10 @@
     "instruction_en": "State the primary reason for consultation in 1–5 words. For multi-complaint visits, list each complaint on a separate numbered line. For resuscitation notes, state the presenting emergency briefly.",
     "instruction_fr": "Énoncer la raison principale de consultation en 1 à 5 mots. Pour les visites à plaintes multiples, inscrire chaque plainte sur une ligne numérotée distincte. Pour les notes de réanimation, énoncer brièvement l'urgence présentée.",
     "example": "1. Douleur thoracique atypique\n2. Suivi diabète de type 2 — contrôle glycémique\n3. Renouvellement ordonnances",
-    "category": "subjective"
+    "category": "subjective",
+    "abbr_en": "CC",
+    "abbr_fr": "RC",
+    "format": ""
   },
   {
     "en": "Level of Care",
@@ -24,7 +30,10 @@
     "instruction_en": "Document the patient's known or established level of care directive (e.g., RCR oui/non, niveaux de soins 1–4, code status). Include the date established and who was involved in the discussion if mentioned.",
     "instruction_fr": "Documenter la directive de niveau de soins connue ou établie (ex. : RCR oui/non, niveaux de soins 1 à 4, code de réanimation). Inclure la date d'établissement et les personnes impliquées dans la discussion si mentionnées.",
     "example": "",
-    "category": "subjective"
+    "category": "subjective",
+    "abbr_en": "",
+    "abbr_fr": "",
+    "format": ""
   },
   {
     "en": "Psychosocial Status",
@@ -33,7 +42,10 @@
     "instruction_en": "Document relevant psychosocial context: living situation, support network, housing stability, occupation, financial situation, significant life events (bereavement, separation, relocation). Include protective factors and stressors. Omit if not discussed.",
     "instruction_fr": "Documenter le contexte psychosocial pertinent : situation de vie, réseau de soutien, stabilité du logement, occupation, situation financière, événements de vie significatifs (deuil, séparation, déménagement). Inclure les facteurs protecteurs et les stresseurs. Omettre si non abordé.",
     "example": "",
-    "category": "subjective"
+    "category": "subjective",
+    "abbr_en": "",
+    "abbr_fr": "",
+    "format": ""
   },
   {
     "en": "Allergies",
@@ -42,7 +54,10 @@
     "instruction_en": "List all known drug, food, and environmental allergies with the type of reaction when specified. Write \"NKDA\" / \"Aucune allergie connue\" if explicitly stated as none.",
     "instruction_fr": "Lister toutes les allergies médicamenteuses, alimentaires et environnementales connues, avec le type de réaction si précisé. Inscrire \"Aucune allergie connue\" si explicitement mentionné.",
     "example": "",
-    "category": "subjective"
+    "category": "subjective",
+    "abbr_en": "",
+    "abbr_fr": "ALL",
+    "format": ""
   },
   {
     "en": "Medications",
@@ -51,25 +66,34 @@
     "instruction_en": "List all current medications with Canadian trade name, dose, route, and frequency when stated. Note recent changes in parentheses: (diminué), (augmenté), (cessé), (nouveau). For hospitalized patients, separate home medications from in-hospital medications under distinct sub-headings. If dose or frequency is not mentioned, include only the drug name — do not use placeholders.",
     "instruction_fr": "Lister tous les médicaments en cours avec le nom de marque canadien, la dose, la voie d'administration et la fréquence lorsque mentionnés. Indiquer les modifications récentes entre parenthèses : (diminué), (augmenté), (cessé), (nouveau). Pour les patients hospitalisés, séparer les médicaments domiciliaires des médicaments hospitaliers sous deux sous-titres distincts. Si la dose ou la fréquence n'est pas mentionnée, inscrire uniquement le nom du médicament — ne pas utiliser de variables fictives.",
     "example": "Usuel : Metformin (Glucophage) 500 mg po bid, Ramipril (Altace) 5 mg po die, Atorvastatine (Lipitor) 40 mg po die (augmenté)\nHospitalisation : Héparine 5000 UI SC tid, Pantoprazole (Pantoloc) 40 mg IV die (nouveau)",
-    "category": "subjective"
+    "category": "subjective",
+    "abbr_en": "Meds",
+    "abbr_fr": "Rx",
+    "format": ""
   },
   {
-    "en": "Personal Medical History",
+    "en": "Past Medical History",
     "fr": "Antécédents médicaux personnels",
     "condition": "ONLY IF MENTIONED",
     "instruction_en": "Numbered list, ICD-10 style. Order: cardiometabolic → other organ systems → surgical → trauma → mental health. Include year or month when mentioned. For specialty/hospital consults, document exhaustively. For follow-up and EMR-integrated notes, include only if not already present in the chart or if newly updated. Include hospitalization history with dates, diagnosis, and outcome when available.",
     "instruction_fr": "Liste numérotée, style CIM-10. Ordre : cardiométabolique → autres systèmes → chirurgical → traumatisme → santé mentale. Inclure l'année ou le mois lorsque mentionné. Pour les consultations en spécialité ou hospitalières, documenter de manière exhaustive. Pour les notes de suivi et les notes intégrées au DME, inclure uniquement si absent du dossier ou si mis à jour récemment. Inclure l'historique d'hospitalisation avec dates, diagnostic et issue si disponibles.",
     "example": "1. Diabète de type 2 (2015)\n2. HTA\n3. Fibrillation auriculaire paroxystique (2021)\n4. Appendicectomie (2003)\n5. Trouble dépressif majeur",
-    "category": "subjective"
+    "category": "subjective",
+    "abbr_en": "PMHx",
+    "abbr_fr": "ATCD",
+    "format": ""
   },
   {
     "en": "Personal Surgical History",
     "fr": "Antécédents chirurgicaux personnels",
     "condition": "ONLY IF MENTIONED",
-    "instruction_en": "List surgical procedures with year when available. Include type of surgery, indication if mentioned, and any relevant complications. Can be incorporated into Personal Medical History for brevity in follow-up notes.",
+    "instruction_en": "List surgical procedures with year when available. Include type of surgery, indication if mentioned, and any relevant complications. Can be incorporated into Past Medical History for brevity in follow-up notes.",
     "instruction_fr": "Lister les interventions chirurgicales avec l'année si disponible. Inclure le type d'intervention, l'indication si mentionnée, et toute complication pertinente. Peut être intégré aux antécédents médicaux personnels pour les notes de suivi.",
     "example": "",
-    "category": "subjective"
+    "category": "subjective",
+    "abbr_en": "PSHx",
+    "abbr_fr": "ATCD chir.",
+    "format": ""
   },
   {
     "en": "Personal Psychiatric History",
@@ -78,16 +102,22 @@
     "instruction_en": "List psychiatric diagnoses and prior hospitalizations. For each hospitalization include: start and end dates, duration, reason for admission, diagnosis, treatments initiated, and condition at discharge. Use a concise structured format.",
     "instruction_fr": "Lister les diagnostics psychiatriques et les hospitalisations antérieures. Pour chaque hospitalisation inclure : dates de début et de fin, durée, motif d'admission, diagnostic, traitements initiés et état au congé. Utiliser un format structuré et concis.",
     "example": "- Trouble bipolaire de type I\n- Hospitalisation [date] au [date], durée : 3 semaines\n  Motif : épisode maniaque avec éléments psychotiques\n  Traitement : Lithium initié, Olanzapine (Zyprexa)\n  Issue : stabilisation, retour domicile avec suivi psychiatrique",
-    "category": "subjective"
+    "category": "subjective",
+    "abbr_en": "PPHx",
+    "abbr_fr": "ATCD psy.",
+    "format": ""
   },
   {
     "en": "Family History",
-    "fr": "Antécédents familiaux",
+    "fr": "Histoire familiale",
     "condition": "ONLY IF MENTIONED",
     "instruction_en": "Document relevant medical and psychiatric conditions in first-degree relatives. Include age of onset and outcomes when mentioned. Specify the family relationship (mère, père, fratrie, etc.).",
     "instruction_fr": "Documenter les conditions médicales et psychiatriques pertinentes chez les membres de la famille au premier degré. Inclure l'âge d'apparition et les issues lorsque mentionnés. Préciser le lien de parenté (mère, père, fratrie, etc.).",
     "example": "",
-    "category": "subjective"
+    "category": "subjective",
+    "abbr_en": "FHx",
+    "abbr_fr": "ATCD fam.",
+    "format": ""
   },
   {
     "en": "Vaccination Status",
@@ -96,7 +126,10 @@
     "instruction_en": "Document vaccination status for relevant vaccines when discussed. Include vaccine name, date of last dose, and whether up to date. Omit if not discussed.",
     "instruction_fr": "Documenter le statut vaccinal pour les vaccins pertinents lorsqu'abordé. Inclure le nom du vaccin, la date de la dernière dose et si le statut est à jour. Omettre si non abordé.",
     "example": "",
-    "category": "subjective"
+    "category": "subjective",
+    "abbr_en": "",
+    "abbr_fr": "",
+    "format": ""
   },
   {
     "en": "Lifestyle Habits",
@@ -105,7 +138,10 @@
     "instruction_en": "Document tobacco (pack-years, current status), alcohol (drinks/week), recreational drugs, physical activity, diet, sleep, occupation, and living situation. Use concise shorthand. Include pertinent negatives if explicitly stated.",
     "instruction_fr": "Documenter le tabac (paquets-années, statut actuel), l'alcool (consommations/semaine), les drogues récréatives, l'activité physique, l'alimentation, le sommeil, l'occupation et la situation de logement. Utiliser des abréviations concises. Inclure les négatifs pertinents si explicitement mentionnés.",
     "example": "",
-    "category": "subjective"
+    "category": "subjective",
+    "abbr_en": "",
+    "abbr_fr": "HDV",
+    "format": ""
   },
   {
     "en": "Functional History",
@@ -114,7 +150,10 @@
     "instruction_en": "Document Activities of Daily Living (ADLs) and Instrumental Activities of Daily Living (IADLs) systematically. Include use of assistive devices, home care services (CLSC), and legal/financial arrangements (procuration, mandate in case of incapacity).",
     "instruction_fr": "Documenter les activités de base de la vie quotidienne (AVQ) et les activités instrumentales de la vie quotidienne (AVD) de manière systématique. Inclure l'utilisation d'aides techniques, les services à domicile (CLSC) et les arrangements légaux/financiers (procuration, mandat en cas d'inaptitude).",
     "example": "AVQ — Alimentation : autonome; Hygiène : aide partielle; Habillage : autonome; Continence : continence urinaire préservée; Aide technique : canne\nAVD — Préparation repas : aidant naturel; Gestion médicaments : dosette préparée par CLSC; Conduite : cessée; Mandat inaptitude : en place",
-    "category": "subjective"
+    "category": "subjective",
+    "abbr_en": "",
+    "abbr_fr": "",
+    "format": ""
   },
   {
     "en": "Developmental History",
@@ -123,7 +162,10 @@
     "instruction_en": "Document prenatal history, birth complications, developmental milestones (motor, language, social), school trajectory, attachment, and significant early life events. Pertinent to child and adolescent psychiatry encounters.",
     "instruction_fr": "Documenter l'histoire prénatale, les complications à la naissance, les étapes développementales (motrice, langagière, sociale), le parcours scolaire, l'attachement et les événements de vie précoces significatifs. Pertinent pour les rencontres en pédopsychiatrie.",
     "example": "",
-    "category": "subjective"
+    "category": "subjective",
+    "abbr_en": "",
+    "abbr_fr": "",
+    "format": ""
   },
   {
     "en": "Family Functioning",
@@ -132,7 +174,10 @@
     "instruction_en": "Document family structure, parental roles and dynamics, sibling relationships, communication patterns, and any known family conflict or protective factors relevant to the child's presentation.",
     "instruction_fr": "Documenter la structure familiale, les rôles et dynamiques parentaux, les relations fraternelles, les modes de communication et tout conflit familial connu ou facteur protecteur pertinent à la présentation de l'enfant.",
     "example": "",
-    "category": "subjective"
+    "category": "subjective",
+    "abbr_en": "",
+    "abbr_fr": "",
+    "format": ""
   },
   {
     "en": "Legal History",
@@ -141,7 +186,10 @@
     "instruction_en": "Document any known legal history, active charges, involvement with youth protection (DPJ), probation, or custodial sentences. Include relevance to clinical presentation when stated.",
     "instruction_fr": "Documenter tout antécédent judiciaire connu, accusations en cours, implication avec la protection de la jeunesse (DPJ), probation ou peine d'emprisonnement. Inclure la pertinence clinique si mentionnée.",
     "example": "",
-    "category": "subjective"
+    "category": "subjective",
+    "abbr_en": "",
+    "abbr_fr": "",
+    "format": ""
   },
   {
     "en": "History of Present Illness",
@@ -150,7 +198,10 @@
     "instruction_en": "Structure by problem: one block per complaint or reason for consultation, introduced by a bold sub-heading when there is more than one. Within each block, document each element of the history on its own line, in chronological order. Cover for every problem: symptom description (onset, character, location, radiation, intensity, duration), timing and evolution, triggering/aggravating/alleviating factors, associated symptoms, pertinent negatives questioned or mentioned (review of systems), functional limitations and impact on daily life, treatments tried (self-administered or previously prescribed) and their effect, prior similar episodes, the patient's concerns and expectations, and the patient's own proposed diagnosis in quotes when stated. Include specific dates when mentioned. Be complete: capture every detail of the encounter relevant to the current illness rather than compressing. Unless the template has a dedicated section for them, also capture here: relevant social habits (living situation, occupation, diet, alcohol/drugs/tobacco, support system), hospitalization history, pertinent personal or family history (with relationship to the patient and age at diagnosis), and vaccination if discussed. For psychiatric encounters, include mood, behaviour, sleep, appetite, suicidality, and psychotic symptoms. For resuscitation notes, include a strict chronological timeline with specific times when available (e.g., \"15h15 — choc délivré\"). For transfer/coordinator notes, summarize the entire care episode and its evolution. Do NOT repeat items covered by the template's PMH, medications, or exam sections. Reference known conditions briefly (\"connu pour X\") without restating their history.",
     "instruction_fr": "Structurer par problème : un bloc par plainte ou raison de consultation, introduit par un sous-titre en gras s'il y en a plusieurs. Dans chaque bloc, documenter chaque élément de l'histoire sur sa propre ligne, en ordre chronologique. Couvrir pour chaque problème : la description des symptômes (début, caractère, localisation, irradiation, intensité, durée), la temporalité et l'évolution, les facteurs déclencheurs/aggravants/soulageants, les symptômes associés, les négatifs pertinents questionnés ou mentionnés (revue des systèmes), les limitations fonctionnelles et l'impact sur la vie quotidienne, les traitements tentés (par le patient ou prescrits antérieurement) et leur efficacité, les épisodes similaires antérieurs, les préoccupations et attentes du patient, ainsi que le diagnostic proposé par le patient en citation lorsqu'énoncé. Inclure les dates précises si mentionnées. Être complet : capturer chaque détail de la rencontre pertinent à la maladie actuelle plutôt que de résumer. Sauf si le modèle comporte une section dédiée, capturer aussi ici : les habitudes sociales pertinentes (situation de vie, occupation, diète, alcool/drogues/tabagisme, système de support), l'historique d'hospitalisation, les antécédents personnels ou familiaux pertinents (avec le lien avec le patient et l'âge au diagnostic) et la vaccination si discutée. Pour les rencontres psychiatriques, inclure l'humeur, le comportement, le sommeil, l'appétit, l'idéation suicidaire et les symptômes psychotiques. Pour les notes de réanimation, inclure une chronologie stricte avec les heures précises si disponibles (ex. : \"15h15 — choc délivré\"). Pour les notes de transfert/coordination, résumer l'ensemble de l'épisode de soins et son évolution. Ne PAS répéter les éléments couverts par les sections ATCD, médicaments ou examen du modèle. Référencer les conditions connues brièvement (\"connu pour X\") sans reprendre leur historique.",
     "example": "**Douleur thoracique**\n- Connu pour coronaropathie\n- Douleur rétrosternale irradiant au bras gauche depuis 2 h\n- Intensité 7/10, oppressive, constante depuis le début\n- Associée à diaphorèse et dyspnée\n- Pas de fièvre, pas de toux, pas de syncope\n- Pas de voyage récent, pas de chirurgie récente\n- Tylenol pris ce matin sans soulagement\n- Épisode similaire il y a 1 an, résolu spontanément\n- Limité dans ses activités depuis 2 jours\n- Inquiet \"de faire un infarctus comme mon frère\"\n\n**Suivi diabète de type 2**\n- Glycémies à domicile entre 8–12 mmol/L depuis 3 semaines\n- Adhérence médicamenteuse bonne selon le patient\n- Diète peu suivie depuis 1 mois, marche 20 min par jour\n- Pas de symptômes hypoglycémiques",
-    "category": "subjective"
+    "category": "subjective",
+    "abbr_en": "HPI",
+    "abbr_fr": "HMA",
+    "format": ""
   },
   {
     "en": "Short History of Present Illness",
@@ -159,7 +210,10 @@
     "instruction_en": "Interval history only: telegraphic, one concept per line, in chronological order. Document changes since the last visit: current status of each known symptom (improved, stable, worse), response to treatment and adherence, new symptoms or concerns, relevant interval events (ER visits, consultations, tests done, without restating results), and change in functional status. Include specific dates when mentioned. Do NOT restate the initial presentation, the full history, PMH, medications, or exam findings. Reference known conditions briefly (\"connu pour X\"). Use instead of the full History of Present Illness for follow-up or focused visits; a template should include one or the other, not both.",
     "instruction_fr": "Histoire d'intervalle uniquement : télégraphique, un concept par ligne, en ordre chronologique. Documenter les changements depuis la dernière visite : état actuel de chaque symptôme connu (amélioration, stabilité, aggravation), réponse au traitement et adhérence, nouveaux symptômes ou préoccupations, événements pertinents de l'intervalle (visites à l'urgence, consultations, examens réalisés, sans reprendre les résultats) et changement du statut fonctionnel. Inclure les dates précises si mentionnées. Ne PAS reprendre la présentation initiale, l'histoire complète, les ATCD, la médication ni les résultats d'examen. Référencer les conditions connues brièvement (\"connu pour X\"). Utiliser à la place de l'Anamnèse complète pour les visites de suivi ou ciblées; un modèle devrait inclure l'une ou l'autre, pas les deux.",
     "example": "- Suivi HTA : TA à domicile 130-135/80 depuis ajustement\n- Bonne tolérance au Ramipril augmenté, pas de toux\n- Pas de nouveau symptôme depuis la dernière visite\n- Consultation à l'urgence 12/07 pour lombalgie, résolue",
-    "category": "subjective"
+    "category": "subjective",
+    "abbr_en": "Short HPI",
+    "abbr_fr": "HMA courte",
+    "format": ""
   },
   {
     "en": "Recent Medical Follow-up Summary",
@@ -168,7 +222,10 @@
     "instruction_en": "Document relevant prior consultations with dates, diagnosis discussed, and plan decided. List recent diagnostic investigations performed between consultations without their results. Note consultations with other health professionals (specialists, social work, hospitalizations) if pertinent. Omit if not applicable.",
     "instruction_fr": "Documenter les consultations antérieures pertinentes avec dates, diagnostic discuté et plan décidé. Lister les examens diagnostiques récents réalisés entre les consultations sans leurs résultats. Mentionner les consultations avec d'autres professionnels de santé (spécialistes, travail social, hospitalisations) si pertinentes. Omettre si non applicable.",
     "example": "",
-    "category": "subjective"
+    "category": "subjective",
+    "abbr_en": "",
+    "abbr_fr": "",
+    "format": ""
   },
   {
     "en": "Review of Systems",
@@ -177,7 +234,10 @@
     "instruction_en": "Systematic review of symptoms by organ system, including pertinent positives and negatives. Cover at minimum: constitutional (fever, weight loss, fatigue), cardiorespiratory, gastrointestinal, genitourinary, neurological, musculoskeletal, and integumentary systems. Document only systems explicitly discussed.",
     "instruction_fr": "Revue systématique des symptômes par système, incluant les positifs et négatifs pertinents. Couvrir au minimum : constitutionnel (fièvre, perte de poids, fatigue), cardiorespiratoire, gastro-intestinal, génito-urinaire, neurologique, musculo-squelettique et cutané. Documenter uniquement les systèmes explicitement abordés.",
     "example": "",
-    "category": "subjective"
+    "category": "subjective",
+    "abbr_en": "ROS",
+    "abbr_fr": "RDS",
+    "format": ""
   },
   {
     "en": "Periodic Medical Examination",
@@ -186,7 +246,10 @@
     "instruction_en": "Include only if periodic health screening was explicitly discussed during the visit. Document relevant systems reviewed and screening status: cardiovascular, gastrointestinal, genitourinary, skin, B symptoms (fever, weight loss, anorexia, night sweats). Note completed and outstanding screening (mammography, colonoscopy, Pap smear, PSA, etc.) with dates when available.",
     "instruction_fr": "Inclure uniquement si le dépistage périodique a été explicitement abordé lors de la visite. Documenter les systèmes revus et le statut de dépistage : cardiovasculaire, gastro-intestinal, génito-urinaire, cutané, symptômes B (fièvre, perte de poids, anorexie, sueurs nocturnes). Noter les dépistages complétés et en attente (mammographie, coloscopie, Pap, PSA, etc.) avec dates si disponibles.",
     "example": "Cardio-respiratoire : pas de douleur rétrosternale, pas de dyspnée au repos\nGastro-intestinal : transit normal, pas de rectorragie\nGénito-urinaire : pas de saignements utérins anormaux\nSx B : pas de fièvre, pas de perte de poids\nMammographie : [date] — à jour\nColoscopie : non réalisée — à planifier",
-    "category": "subjective"
+    "category": "subjective",
+    "abbr_en": "",
+    "abbr_fr": "EMP",
+    "format": ""
   },
   {
     "en": "Vital Signs",
@@ -195,7 +258,10 @@
     "instruction_en": "Document only vital signs explicitly stated. Present on a single line or structured format. Include: heart rate (bpm), blood pressure (mmHg, with prior value in parentheses if available), temperature (°C), SpO2 (%), respiratory rate (/min), weight (kg), height (m), BMI when calculable. For procedural notes, record pre- and post-intervention vital signs in separate sub-sections.",
     "instruction_fr": "Documenter uniquement les signes vitaux explicitement mentionnés. Présenter sur une seule ligne ou en format structuré. Inclure : fréquence cardiaque (bpm), tension artérielle (mmHg, avec valeur antérieure entre parenthèses si disponible), température (°C), SpO2 (%), fréquence respiratoire (/min), poids (kg), taille (m), IMC si calculable. Pour les notes procédurales, inscrire les signes vitaux pré- et post-intervention dans des sous-sections distinctes.",
     "example": "FC : 88 bpm, TA : 148/92 mmHg (antérieure : 162/98 mmHg), T° : 37.1°C, SpO2 : 97%, FR : 16/min, Poids : 84 kg, Taille : 1.72 m",
-    "category": "objective"
+    "category": "objective",
+    "abbr_en": "VS",
+    "abbr_fr": "",
+    "format": ""
   },
   {
     "en": "Physical Examination",
@@ -204,7 +270,10 @@
     "instruction_en": "Document only systems explicitly examined. Use head-to-toe order. Use standardized medical terminology. Each system on its own line with findings — do not write \"normal\" globally; specify what was examined and what was found. For urgent/resuscitation contexts, prioritize relevant systems and document concisely. For psychiatric notes, include mental status examination as a dedicated sub-section (see below).",
     "instruction_fr": "Documenter uniquement les systèmes explicitement examinés. Utiliser l'ordre céphalo-caudal. Utiliser la terminologie médicale standardisée. Chaque système sur sa propre ligne avec les constatations — ne pas écrire \"normal\" de façon globale; préciser ce qui a été examiné et ce qui a été trouvé. En contexte urgent/réanimation, prioriser les systèmes pertinents et documenter de manière concise. Pour les notes psychiatriques, inclure l'examen de l'état mental comme sous-section dédiée (voir ci-dessous).",
     "example": "GÉNÉRAL : Alerte, orienté ×3, pas de détresse aiguë\nCOU : Pas de JVD, pas d'adénopathie, thyroïde non palpable\nCŒUR : Rythme régulier, B1 B2 normaux, pas de souffle ausculté\nPOUMONS : MV bilatéral, pas de crépitants ni sibilances\nABDOMEN : Souple, non douloureux, pas d'organomégalie, bruits intestinaux présents\nMEMBRES INFÉRIEURS : Pas d'œdème, pouls pédieux présents bilatéralement",
-    "category": "objective"
+    "category": "objective",
+    "abbr_en": "PE",
+    "abbr_fr": "E/P",
+    "format": ""
   },
   {
     "en": "Mental Status Examination",
@@ -213,7 +282,10 @@
     "instruction_en": "Document the mental status examination in a structured format covering: appearance, behaviour, psychomotor activity, speech, affect, mood (in patient's words when possible), thought process, thought content (including suicidal/homicidal ideation, delusions), perceptual disturbances (hallucinations), cognition/orientation, insight, and judgment. If globally normal, state each domain explicitly rather than writing \"normal\" globally. Modify each domain individually based on what is described.",
     "instruction_fr": "Documenter l'examen de l'état mental dans un format structuré couvrant : apparence, comportement, activité psychomotrice, discours, affect, humeur (en mots du patient si possible), cours de la pensée, contenu de la pensée (incluant idéation suicidaire/homicidaire, délires), perturbations perceptuelles (hallucinations), cognition/orientation, insight et jugement. Si globalement normal, préciser chaque domaine explicitement plutôt qu'écrire \"normal\" de façon globale. Modifier chaque domaine individuellement selon ce qui est décrit.",
     "example": "Apparence : soignée, contact visuel maintenu\nPsychomotricité : pas d'agitation ni ralentissement\nDiscours : débit et volume normaux, cohérent\nAffect : euthymique, réactif\nHumeur : \"ça va bien\"\nPensée : cours logique, pas de tangentialité\nContenu : pas d'idées suicidaires, pas d'idées délirantes\nPerception : pas d'hallucinations rapportées\nCognition : orienté ×3, mémoire immédiate intacte\nInsight : bon; Jugement : adéquat",
-    "category": "objective"
+    "category": "objective",
+    "abbr_en": "MSE",
+    "abbr_fr": "E/M",
+    "format": ""
   },
   {
     "en": "Cognitive Examination",
@@ -222,7 +294,10 @@
     "instruction_en": "Document cognitive screening tools used (e.g., MoCA, MMSE, AMT) with scores and date. Note specific domain deficits identified (memory, attention, language, visuospatial, executive function). Include comparison to prior scores if available.",
     "instruction_fr": "Documenter les outils de dépistage cognitif utilisés (ex. : MoCA, MMSE, AMT) avec les scores et la date. Noter les déficits de domaine spécifiques identifiés (mémoire, attention, langage, visuospatial, fonctions exécutives). Inclure la comparaison aux scores antérieurs si disponible.",
     "example": "",
-    "category": "objective"
+    "category": "objective",
+    "abbr_en": "",
+    "abbr_fr": "",
+    "format": ""
   },
   {
     "en": "Technical / Procedural Note",
@@ -231,16 +306,22 @@
     "instruction_en": "Document procedural notes in chronological order. Include: indication, patient consent, technique used, materials/equipment, findings during procedure, complications, and immediate post-procedure status. For resuscitation notes, include a precise timestamped chronology of interventions (e.g., \"15h15 — choc délivré 200 J\").",
     "instruction_fr": "Documenter les notes procédurales en ordre chronologique. Inclure : indication, consentement du patient, technique utilisée, matériel/équipement, constatations peropératoires, complications et état immédiat post-procédure. Pour les notes de réanimation, inclure une chronologie horodatée précise des interventions (ex. : \"15h15 — choc délivré 200 J\").",
     "example": "",
-    "category": "objective"
+    "category": "objective",
+    "abbr_en": "",
+    "abbr_fr": "",
+    "format": ""
   },
   {
-    "en": "Diagnostic Investigations",
-    "fr": "Examens paracliniques",
+    "en": "Relevant Investigations",
+    "fr": "Examens pertinents",
     "condition": "ONLY IF RESULTS AVAILABLE",
     "instruction_en": "Report all investigation results mentioned. Include date of each result. If prior comparative values are available, include them in parentheses. Organize under sub-headings: Laboratoire, Imagerie, Autres (ECG, EMG, spirométrie, etc.). Report exhaustively — do not summarize or omit mentioned values. List laboratory results with date. Organize by panel (e.g., FSC, électrolytes, bilan hépatique, coagulation, marqueurs cardiaques). Include prior values in parentheses for trending. Flag abnormal values if clinician does so in transcript. Report imaging results with modality, body region, date, and key findings. If no date is mentioned, assume it is the most recent study of that type. Report all findings mentioned exhaustively. Document nerve conduction study and electromyography findings in structured format. Include: nerves tested, conduction velocities, latencies, amplitudes, and EMG findings per muscle. State the electrophysiological conclusion and clinical correlation.",
     "instruction_fr": "Rapporter tous les résultats d'examens mentionnés. Inclure la date de chaque résultat. Si des valeurs comparatives antérieures sont disponibles, les inclure entre parenthèses. Organiser sous des sous-titres : Laboratoire, Imagerie, Autres (ECG, EMG, spirométrie, etc.). Rapporter de manière exhaustive — ne pas résumer ni omettre les valeurs mentionnées. Lister les résultats de laboratoire avec la date. Organiser par panel (ex. : FSC, électrolytes, bilan hépatique, coagulation, marqueurs cardiaques). Inclure les valeurs antérieures entre parenthèses pour le suivi de tendance. Signaler les valeurs anormales si le clinicien le fait dans la transcription. Rapporter les résultats d'imagerie avec la modalité, la région corporelle, la date et les constatations principales. Si aucune date n'est mentionnée, supposer qu'il s'agit du dernier examen de ce type. Rapporter toutes les constatations mentionnées de manière exhaustive. Documenter les résultats des études de conduction nerveuse et de l'électromyographie dans un format structuré. Inclure : nerfs testés, vitesses de conduction, latences, amplitudes et résultats EMG par muscle. Énoncer la conclusion électrophysiologique et la corrélation clinique.",
     "example": "",
-    "category": "objective"
+    "category": "objective",
+    "abbr_en": "",
+    "abbr_fr": "",
+    "format": ""
   },
   {
     "en": "Follow-up Note",
@@ -249,7 +330,10 @@
     "instruction_en": "For inpatient or outpatient follow-up encounters, document: interval events since last assessment, patient-reported changes in symptoms, response to treatment, and any new concerns raised. Use telegraphic format. This section replaces the full HPI for follow-up notes — do not restate the original presentation. Reference the original diagnosis briefly and focus on evolution.",
     "instruction_fr": "Pour les rencontres de suivi hospitalisé ou en clinique externe, documenter : les événements survenus depuis la dernière évaluation, les changements de symptômes rapportés par le patient, la réponse au traitement et toute nouvelle préoccupation soulevée. Utiliser un format télégraphique. Cette section remplace l'anamnèse complète pour les notes de suivi — ne pas reprendre la présentation initiale. Référencer brièvement le diagnostic initial et se concentrer sur l'évolution.",
     "example": "",
-    "category": "plan"
+    "category": "plan",
+    "abbr_en": "",
+    "abbr_fr": "",
+    "format": ""
   },
   {
     "en": "Assessment & Plan",
@@ -258,7 +342,10 @@
     "instruction_en": "Organize as a numbered problem list. Each item = one diagnosis or active clinical problem, followed immediately by its management actions. Use bold for the diagnosis name. Do NOT restate symptoms, history, or examination findings here — assessment only. Drug doses and new prescriptions belong in the Medications section or clearly listed under the relevant problem's plan. Include differential diagnoses where clinically relevant, noting which are being ruled out (\"r/o\"). For multi-complaint or multimorbidity notes, address each active problem. For geriatric evaluations, include functional goals in the plan where applicable. For psychiatric notes, include safety plan elements when relevant.",
     "instruction_fr": "Organiser sous forme de liste numérotée de problèmes. Chaque item = un diagnostic ou problème clinique actif, suivi immédiatement de ses actions de prise en charge. Mettre le nom du diagnostic en gras. Ne PAS reprendre ici les symptômes, l'histoire ou les résultats d'examen — impression seulement. Les doses de médicaments et nouvelles prescriptions appartiennent à la section Médication ou clairement listées sous le plan du problème pertinent. Inclure les diagnostics différentiels lorsque cliniquement pertinent, en notant ceux à éliminer (\"r/o\"). Pour les notes à plaintes multiples ou de multimorbidité, aborder chaque problème actif. Pour les évaluations gériatriques, inclure les objectifs fonctionnels dans le plan si applicable. Pour les notes psychiatriques, inclure les éléments du plan de sécurité si pertinent.",
     "example": "1) **Fibrillation auriculaire paroxystique — nouveau diagnostic**\n   - ECG 12 dérivations\n   - Bilan thyroïdien, FSC, électrolytes\n   - Anticoagulation : discuter bénéfice/risque, initier Apixaban (Eliquis) selon score CHA₂DS₂-VASc\n   - Référence cardiologie en semi-urgence\n   - Monitoring Holter 48 h\n\n2) **Diabète de type 2 — contrôle sous-optimal**\n   - HbA1c dans bilan sanguin prochain\n   - Ajuster Metformin (Glucophage) si toléré\n   - Référence en éducation diabète\n   - Autosurveillance glycémique à jeun et 2 h postprandial\n\n3) **HTA — non contrôlée**\n   - Augmenter Ramipril (Altace)\n   - Mesures de TA à domicile bid × 2 semaines\n   r/o HTA secondaire si non réponse au traitement",
-    "category": "plan"
+    "category": "plan",
+    "abbr_en": "A&P",
+    "abbr_fr": "IMP et CAT",
+    "format": ""
   },
   {
     "en": "Diagnoses / Problem List",
@@ -267,7 +354,10 @@
     "instruction_en": "Standalone numbered list of diagnoses or active clinical problems, without management actions — use when diagnoses are documented separately from the plan; otherwise prefer Assessment & Plan. Each item = one diagnosis or active clinical problem. Use bold for the diagnosis name. Do NOT restate symptoms, history, or examination findings here — assessment only. Include differential diagnoses where clinically relevant, noting which are being ruled out (\"r/o\").",
     "instruction_fr": "Liste numérotée autonome des diagnostics ou problèmes cliniques actifs, sans les actions de prise en charge — à utiliser lorsque les diagnostics sont documentés séparément du plan; sinon privilégier Impression et conduite. Chaque item = un diagnostic ou problème clinique actif. Mettre le nom du diagnostic en gras. Ne PAS reprendre ici les symptômes, l'histoire ou les résultats d'examen — impression seulement. Inclure les diagnostics différentiels lorsque cliniquement pertinent, en notant ceux à éliminer (\"r/o\").",
     "example": "1) **Fibrillation auriculaire paroxystique — nouveau diagnostic**\n2) **Diabète de type 2 — contrôle sous-optimal**\n3) **HTA — non contrôlée**\n   r/o HTA secondaire",
-    "category": "plan"
+    "category": "plan",
+    "abbr_en": "",
+    "abbr_fr": "",
+    "format": ""
   },
   {
     "en": "Patient Education",
@@ -276,7 +366,10 @@
     "instruction_en": "Document specific educational content, counselling, or recommendations provided to the patient during the encounter. Include lifestyle modifications, preventive measures, warning signs to monitor, and instructions for home monitoring devices. Only include if explicitly discussed.",
     "instruction_fr": "Documenter le contenu éducatif spécifique, les conseils ou recommandations fournis au patient lors de la rencontre. Inclure les modifications du mode de vie, les mesures préventives, les signes d'alarme à surveiller et les instructions pour les appareils de surveillance à domicile. Inclure uniquement si explicitement abordé.",
     "example": "",
-    "category": "plan"
+    "category": "plan",
+    "abbr_en": "",
+    "abbr_fr": "",
+    "format": ""
   },
   {
     "en": "Follow-up",
@@ -285,7 +378,10 @@
     "instruction_en": "Document the next planned appointment with timing and purpose. Include return-precaution instructions if given (warning signs warranting earlier return). Include referrals and their urgency level when stated.",
     "instruction_fr": "Documenter le prochain rendez-vous prévu avec la date et l'objectif. Inclure les instructions de retour-précaution si données (signes d'alarme justifiant un retour anticipé). Inclure les références et leur niveau d'urgence si mentionné.",
     "example": "",
-    "category": "plan"
+    "category": "plan",
+    "abbr_en": "F/U",
+    "abbr_fr": "",
+    "format": ""
   },
   {
     "en": "Consultation Time",
@@ -294,6 +390,9 @@
     "instruction_en": "Record the start and end time of the consultation as derived from the recording timestamps. Format: HH:MM – HH:MM.",
     "instruction_fr": "Inscrire les heures de début et de fin de la consultation selon les horodatages de l'enregistrement. Format : HH:MM – HH:MM.",
     "example": "",
-    "category": "plan"
+    "category": "plan",
+    "abbr_en": "",
+    "abbr_fr": "",
+    "format": ""
   }
 ]
