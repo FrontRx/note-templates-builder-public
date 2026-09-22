@@ -6411,8 +6411,8 @@
         "instruction_en": "<Onset and chronology>\n<Character of symptoms>\n<Severity (CCS/NYHA class if applicable)>\n<Associated symptoms>\n<Aggravating/alleviating factors>\n<Review of systems: Mention pertinent negatives about SYMPTOMS only>\n<Don't put items that go in past medical history here unless part of current illness>\n<At end if pertinent: other discussions for non-cardiovascular problems>\n\n<FORBIDDEN IN THIS SECTION - MOVE TO EXAMENS PERTINENTS:>\n<NO ECG findings (sinus bradycardia, ST changes, etc.)>\n<NO echo findings (LVEF, valve area, gradient, etc.)>\n<NO lab values (CRP, troponin, etc.)>\n<NO imaging results (CT, X-ray, etc.)>",
         "instruction_fr": "<Onset and chronology>\n<Character of symptoms>\n<Severity (CCS/NYHA class if applicable)>\n<Associated symptoms>\n<Aggravating/alleviating factors>\n<Review of systems: Mention pertinent negatives about SYMPTOMS only>\n<Don't put items that go in past medical history here unless part of current illness>\n<At end if pertinent: other discussions for non-cardiovascular problems>\n\n<FORBIDDEN IN THIS SECTION - MOVE TO EXAMENS PERTINENTS:>\n<NO ECG findings (sinus bradycardia, ST changes, etc.)>\n<NO echo findings (LVEF, valve area, gradient, etc.)>\n<NO lab values (CRP, troponin, etc.)>\n<NO imaging results (CT, X-ray, etc.)>",
         "example": "",
-        "abbr_en": "",
-        "abbr_fr": "",
+        "abbr_en": "HPI",
+        "abbr_fr": "HMA",
         "format": ""
       },
       {
@@ -6435,8 +6435,8 @@
         "instruction_en": "<DO NOT REPEAT items from CARDIOVASCULAR RISK FACTORS above>\n<List ONLY: cardiovascular events/procedures, other medical conditions, surgeries, hospitalizations>\n<If talking about Cardiomyopathy put the LVEF or any pertinent ECHO findings>\n<Include year/month when available - e.g., \"Infarctus (2019)\", \"Pontage (mars 2020)\" - OMIT date if not mentioned>",
         "instruction_fr": "<DO NOT REPEAT items from CARDIOVASCULAR RISK FACTORS above>\n<List ONLY: cardiovascular events/procedures, other medical conditions, surgeries, hospitalizations>\n<If talking about Cardiomyopathy put the LVEF or any pertinent ECHO findings>\n<Include year/month when available - e.g., \"Infarctus (2019)\", \"Pontage (mars 2020)\" - OMIT date if not mentioned>",
         "example": "",
-        "abbr_en": "",
-        "abbr_fr": "",
+        "abbr_en": "PMHx",
+        "abbr_fr": "ATCD",
         "format": ""
       },
       {
@@ -6447,8 +6447,8 @@
         "instruction_en": "<Cardiovascular diseases>\n<Age of onset>\n<Sudden cardiac death>",
         "instruction_fr": "<Cardiovascular diseases>\n<Age of onset>\n<Sudden cardiac death>",
         "example": "",
-        "abbr_en": "",
-        "abbr_fr": "",
+        "abbr_en": "FHx",
+        "abbr_fr": "ATCD fam.",
         "format": ""
       },
       {
@@ -6460,7 +6460,7 @@
         "instruction_fr": "<OMIT this entire section if allergies not discussed - NO \"(Omis)\" explanations>\n<If \"no allergies\": write \"NKDA\" or \"Aucune allergie connue\">\n<If specific allergies: list them>",
         "example": "",
         "abbr_en": "",
-        "abbr_fr": "",
+        "abbr_fr": "ALL",
         "format": ""
       },
       {
@@ -6471,8 +6471,8 @@
         "instruction_en": "<Current cardiac medications>\n<Other medications>\n<Over-the-counter medications>",
         "instruction_fr": "<Current cardiac medications>\n<Other medications>\n<Over-the-counter medications>",
         "example": "",
-        "abbr_en": "",
-        "abbr_fr": "",
+        "abbr_en": "Meds",
+        "abbr_fr": "Rx",
         "format": ""
       },
       {
@@ -6495,8 +6495,8 @@
         "instruction_en": "<OMIT ENTIRE SECTION IF NO PHYSICAL EXAM WAS DESCRIBED>\n\nSignes vitaux: <TA, FC, SpO2, poids - ALWAYS LIST FIRST>\nCœur: <B1 B2 normaux, RCR, pas de souffle>\nPoumons: <MV bilatéraux clairs>",
         "instruction_fr": "<OMIT ENTIRE SECTION IF NO PHYSICAL EXAM WAS DESCRIBED>\n\nSignes vitaux: <TA, FC, SpO2, poids - ALWAYS LIST FIRST>\nCœur: <B1 B2 normaux, RCR, pas de souffle>\nPoumons: <MV bilatéraux clairs>",
         "example": "",
-        "abbr_en": "",
-        "abbr_fr": "",
+        "abbr_en": "PE",
+        "abbr_fr": "E/P",
         "format": ""
       },
       {
@@ -6531,7 +6531,7 @@
         "instruction_en": "<Include only if explicit date/timing stated>\n<\"Revoir pour résultats [test]\" if test ordered>",
         "instruction_fr": "<Include only if explicit date/timing stated>\n<\"Revoir pour résultats [test]\" if test ordered>",
         "example": "",
-        "abbr_en": "",
+        "abbr_en": "F/U",
         "abbr_fr": "",
         "format": ""
       }
@@ -6564,8 +6564,8 @@
         "instruction_en": "<MAX 1-3 words - e.g., \"Péricardite aiguë\", \"Infarctus\", \"Dyspnée\">",
         "instruction_fr": "<MAX 1-3 words - e.g., \"Péricardite aiguë\", \"Infarctus\", \"Dyspnée\">",
         "example": "",
-        "abbr_en": "",
-        "abbr_fr": "",
+        "abbr_en": "CC",
+        "abbr_fr": "RC",
         "format": ""
       },
       {
@@ -6577,7 +6577,7 @@
         "instruction_fr": "<List drug/food/environmental allergies>",
         "example": "",
         "abbr_en": "",
-        "abbr_fr": "",
+        "abbr_fr": "ALL",
         "format": ""
       },
       {
@@ -6600,8 +6600,8 @@
         "instruction_en": "<Numbered list (1-10), ICD-10 style (e.g., \"1. Diabète de type 2\")>\n<Order: cardiometabolic → other organs → surgical → trauma → mental health>\n<Include hospitalization data if available>\n<Avoid full sentences; use semicolons for precision (\"FEVG 30% → 60%\")>\n<Include year/month when available - e.g., \"Infarctus (2019)\", \"Cholécystectomie (mars 2020)\" - OMIT date if not mentioned>",
         "instruction_fr": "<Numbered list (1-10), ICD-10 style (e.g., \"1. Diabète de type 2\")>\n<Order: cardiometabolic → other organs → surgical → trauma → mental health>\n<Include hospitalization data if available>\n<Avoid full sentences; use semicolons for precision (\"FEVG 30% → 60%\")>\n<Include year/month when available - e.g., \"Infarctus (2019)\", \"Cholécystectomie (mars 2020)\" - OMIT date if not mentioned>",
         "example": "",
-        "abbr_en": "",
-        "abbr_fr": "",
+        "abbr_en": "PMHx",
+        "abbr_fr": "ATCD",
         "format": ""
       },
       {
@@ -6612,8 +6612,8 @@
         "instruction_en": "<Medical conditions in first-degree relatives>\n<Age of onset, outcomes>",
         "instruction_fr": "<Medical conditions in first-degree relatives>\n<Age of onset, outcomes>",
         "example": "",
-        "abbr_en": "",
-        "abbr_fr": "",
+        "abbr_en": "FHx",
+        "abbr_fr": "ATCD fam.",
         "format": ""
       },
       {
@@ -6636,8 +6636,8 @@
         "instruction_en": "<Telegraphic, one concept per line, 5-15 words each, chronological order>\n<Symptoms, timeline, aggravating/alleviating factors>\n<Include pertinent negatives and review of systems as relevant>\n<Do NOT include PMH, medications, or exam findings here>\n<ATCD conditions: reference briefly (\"connu pour X\") but do NOT restate their history, dates, or treatment course here>",
         "instruction_fr": "<Telegraphic, one concept per line, 5-15 words each, chronological order>\n<Symptoms, timeline, aggravating/alleviating factors>\n<Include pertinent negatives and review of systems as relevant>\n<Do NOT include PMH, medications, or exam findings here>\n<ATCD conditions: reference briefly (\"connu pour X\") but do NOT restate their history, dates, or treatment course here>",
         "example": "",
-        "abbr_en": "",
-        "abbr_fr": "",
+        "abbr_en": "HPI",
+        "abbr_fr": "HMA",
         "format": ""
       },
       {
@@ -6660,7 +6660,7 @@
         "instruction_en": "<ONLY mention vital signs EXPLICITLY stated in transcript>\n<Present all on single line: BP, HR, RR, Temp, SpO2, Height, Weight, BMI>\n<Write concisely, no full sentences or placeholders>",
         "instruction_fr": "<ONLY mention vital signs EXPLICITLY stated in transcript>\n<Present all on single line: BP, HR, RR, Temp, SpO2, Height, Weight, BMI>\n<Write concisely, no full sentences or placeholders>",
         "example": "",
-        "abbr_en": "",
+        "abbr_en": "VS",
         "abbr_fr": "",
         "format": ""
       },
@@ -6672,8 +6672,8 @@
         "instruction_en": "<HEAD-TO-TOE format. ONLY include systems ACTUALLY EXAMINED - OMIT any system not explicitly examined>\n\n<Order when examined:>\n- GÉNÉRAL : <état général, apparence, niveau de conscience, détresse>\n- NEURO : <état mental, nerfs crâniens, force, sensibilité, réflexes, coordination, démarche>\n- TÊTE : <cuir chevelu, crâne, visage>\n  - YEUX : <conjonctives, pupilles, mouvements oculaires, fond d'œil>\n  - ORL : <oreilles, nez, gorge, muqueuses, dentition>\n- COU : <thyroïde, ganglions, JVD, carotides, nuque>\n- CŒUR : <rythme, S1, S2, souffles, bruits surajoutés, PMI>\n- POUMONS : <inspection, MV bilatéral, bruits adventices, percussion, fremitus>\n- ABDOMEN : <inspection, bruits intestinaux, palpation, sensibilité, organomégalie, masses>\n- MEMBRES INFÉRIEURS : <œdème, pouls pédieux/tibial, coloration, température, varices, mollets>\n- PEAU : <lésions, éruptions, coloration, texture, ongles>\n- MSK/RACHIS : <amplitude, sensibilité, déformations>\n- PSYCHIATRIQUE : <affect, humeur, orientation>",
         "instruction_fr": "<HEAD-TO-TOE format. ONLY include systems ACTUALLY EXAMINED - OMIT any system not explicitly examined>\n\n<Order when examined:>\n- GÉNÉRAL : <état général, apparence, niveau de conscience, détresse>\n- NEURO : <état mental, nerfs crâniens, force, sensibilité, réflexes, coordination, démarche>\n- TÊTE : <cuir chevelu, crâne, visage>\n  - YEUX : <conjonctives, pupilles, mouvements oculaires, fond d'œil>\n  - ORL : <oreilles, nez, gorge, muqueuses, dentition>\n- COU : <thyroïde, ganglions, JVD, carotides, nuque>\n- CŒUR : <rythme, S1, S2, souffles, bruits surajoutés, PMI>\n- POUMONS : <inspection, MV bilatéral, bruits adventices, percussion, fremitus>\n- ABDOMEN : <inspection, bruits intestinaux, palpation, sensibilité, organomégalie, masses>\n- MEMBRES INFÉRIEURS : <œdème, pouls pédieux/tibial, coloration, température, varices, mollets>\n- PEAU : <lésions, éruptions, coloration, texture, ongles>\n- MSK/RACHIS : <amplitude, sensibilité, déformations>\n- PSYCHIATRIQUE : <affect, humeur, orientation>",
         "example": "",
-        "abbr_en": "",
-        "abbr_fr": "",
+        "abbr_en": "PE",
+        "abbr_fr": "E/P",
         "format": ""
       },
       {
@@ -6696,8 +6696,8 @@
         "instruction_en": "Organize by numbered list. Each item: diagnosis + actions ONLY. ZERO restatement from HPI, Objective, or Rx except decisive values tied directly to an action. Baseline active drug doses belong in Rx. New, stopped, held, or changed medication actions belong here with exact stated dose, frequency, timing, and action.",
         "instruction_fr": "Organize by numbered list. Each item: diagnosis + actions ONLY. ZERO restatement from HPI, Objective, or Rx except decisive values tied directly to an action. Baseline active drug doses belong in Rx. New, stopped, held, or changed medication actions belong here with exact stated dose, frequency, timing, and action.",
         "example": "",
-        "abbr_en": "",
-        "abbr_fr": "",
+        "abbr_en": "A&P",
+        "abbr_fr": "IMP et CAT",
         "format": ""
       },
       {
@@ -6732,7 +6732,7 @@
         "instruction_en": "<Next appointment: Timing and purpose>\n<Earlier return if: Warning signs>",
         "instruction_fr": "<Next appointment: Timing and purpose>\n<Earlier return if: Warning signs>",
         "example": "",
-        "abbr_en": "",
+        "abbr_en": "F/U",
         "abbr_fr": "",
         "format": ""
       }
@@ -6765,8 +6765,8 @@
         "instruction_en": "<MAX 1-3 words - e.g., \"Péricardite aiguë\", \"Infarctus\", \"Dyspnée\">",
         "instruction_fr": "<MAX 1-3 words - e.g., \"Péricardite aiguë\", \"Infarctus\", \"Dyspnée\">",
         "example": "",
-        "abbr_en": "",
-        "abbr_fr": "",
+        "abbr_en": "CC",
+        "abbr_fr": "RC",
         "format": ""
       },
       {
@@ -6789,8 +6789,8 @@
         "instruction_en": "<List chronic conditions and prior diagnoses NOT related to current chief complaint>\n<Chronic diseases: HTA, diabète, glaucome, hypothyroïdie, etc.>\n<Surgical history if relevant>\n<Do NOT include items that are the reason for THIS visit>",
         "instruction_fr": "<List chronic conditions and prior diagnoses NOT related to current chief complaint>\n<Chronic diseases: HTA, diabète, glaucome, hypothyroïdie, etc.>\n<Surgical history if relevant>\n<Do NOT include items that are the reason for THIS visit>",
         "example": "",
-        "abbr_en": "",
-        "abbr_fr": "",
+        "abbr_en": "PMHx",
+        "abbr_fr": "ATCD",
         "format": ""
       },
       {
@@ -6813,8 +6813,8 @@
         "instruction_en": "<Narrative description of patient concerns - group by problem if multiple>\n<For each problem include: onset, duration, location, quality, severity, timing, aggravating/alleviating factors, associated symptoms, treatments tried>\n<CRITICAL: Place chronic conditions in ATCD section, NOT here>",
         "instruction_fr": "<Narrative description of patient concerns - group by problem if multiple>\n<For each problem include: onset, duration, location, quality, severity, timing, aggravating/alleviating factors, associated symptoms, treatments tried>\n<CRITICAL: Place chronic conditions in ATCD section, NOT here>",
         "example": "",
-        "abbr_en": "",
-        "abbr_fr": "",
+        "abbr_en": "HPI",
+        "abbr_fr": "HMA",
         "format": ""
       },
       {
@@ -6825,8 +6825,8 @@
         "instruction_en": "<List only positive and negative findings relevant to differential diagnoses>",
         "instruction_fr": "<List only positive and negative findings relevant to differential diagnoses>",
         "example": "",
-        "abbr_en": "",
-        "abbr_fr": "",
+        "abbr_en": "ROS",
+        "abbr_fr": "RDS",
         "format": ""
       },
       {
@@ -6849,7 +6849,7 @@
         "instruction_en": "<BP, HR, Temp, SpO2, Weight, Height, BMI - all on single line>",
         "instruction_fr": "<BP, HR, Temp, SpO2, Weight, Height, BMI - all on single line>",
         "example": "",
-        "abbr_en": "",
+        "abbr_en": "VS",
         "abbr_fr": "",
         "format": ""
       },
@@ -6861,8 +6861,8 @@
         "instruction_en": "<General appearance then by system: CŒUR, POUMONS, ABDOMEN, MEMBRES, NEURO, etc.>\n<ONLY include systems actually examined>",
         "instruction_fr": "<General appearance then by system: CŒUR, POUMONS, ABDOMEN, MEMBRES, NEURO, etc.>\n<ONLY include systems actually examined>",
         "example": "",
-        "abbr_en": "",
-        "abbr_fr": "",
+        "abbr_en": "PE",
+        "abbr_fr": "E/P",
         "format": ""
       },
       {
@@ -6885,8 +6885,8 @@
         "instruction_en": "<List each problem separately - keep CONCISE>\n<Use labels in NOTE LANGUAGE - FR uses French, EN uses English>\n<Do NOT repeat \"Conduite:\" or \"Plan:\" multiple times - list all on ONE line>\n\n1. <Problem Name>\n   - Impression: <1-line assessment>\n   - Examens: <ALL tests on ONE line, comma-separated>\n   - Tx: <Medications/treatments> <ONLY IF PRESCRIBED>\n   - Enseignement: <Key education points> <ONLY IF DISCUSSED>\n   - Retour urgent si: <Warning signs> <ONLY IF DISCUSSED>\n\n2. <Secondary problem> <ONLY IF PRESENT>",
         "instruction_fr": "<List each problem separately - keep CONCISE>\n<Use labels in NOTE LANGUAGE - FR uses French, EN uses English>\n<Do NOT repeat \"Conduite:\" or \"Plan:\" multiple times - list all on ONE line>\n\n1. <Problem Name>\n   - Impression: <1-line assessment>\n   - Examens: <ALL tests on ONE line, comma-separated>\n   - Tx: <Medications/treatments> <ONLY IF PRESCRIBED>\n   - Enseignement: <Key education points> <ONLY IF DISCUSSED>\n   - Retour urgent si: <Warning signs> <ONLY IF DISCUSSED>\n\n2. <Secondary problem> <ONLY IF PRESENT>",
         "example": "",
-        "abbr_en": "",
-        "abbr_fr": "",
+        "abbr_en": "A&P",
+        "abbr_fr": "IMP et CAT",
         "format": ""
       },
       {
@@ -6897,7 +6897,7 @@
         "instruction_en": "<Timing and purpose of next appointment>",
         "instruction_fr": "<Timing and purpose of next appointment>",
         "example": "",
-        "abbr_en": "",
+        "abbr_en": "F/U",
         "abbr_fr": "",
         "format": ""
       }
@@ -6930,8 +6930,8 @@
         "instruction_en": "- List ALL baseline medications from ADDITIONAL_CONTEXT\n- Include: drug name, dose, frequency\n- Medication CHANGES go to IMPRESSION ET CONDUITE only",
         "instruction_fr": "- List ALL baseline medications from ADDITIONAL_CONTEXT\n- Include: drug name, dose, frequency\n- Medication CHANGES go to IMPRESSION ET CONDUITE only",
         "example": "",
-        "abbr_en": "",
-        "abbr_fr": "",
+        "abbr_en": "Meds",
+        "abbr_fr": "Rx",
         "format": ""
       },
       {
@@ -6942,8 +6942,8 @@
         "instruction_en": "- New symptoms, evolution since prior visit\n- Response to therapy\n- Patient-reported concerns\n- Weight changes with numeric values",
         "instruction_fr": "- New symptoms, evolution since prior visit\n- Response to therapy\n- Patient-reported concerns\n- Weight changes with numeric values",
         "example": "",
-        "abbr_en": "",
-        "abbr_fr": "",
+        "abbr_en": "HPI",
+        "abbr_fr": "HMA",
         "format": ""
       },
       {
@@ -6954,8 +6954,8 @@
         "instruction_en": "<Only include if explicitly discussed>",
         "instruction_fr": "<Only include if explicitly discussed>",
         "example": "",
-        "abbr_en": "",
-        "abbr_fr": "",
+        "abbr_en": "ROS",
+        "abbr_fr": "RDS",
         "format": ""
       },
       {
@@ -6990,8 +6990,8 @@
         "instruction_en": "<ONLY include systems ACTUALLY EXAMINED - OMIT unexamined systems>\n\n- GÉNÉRAL: état général, apparence\n- CŒUR: rythme, B1 B2, souffles\n- POUMONS: MV bilatéraux, bruits adventices\n- ABDOMEN: palpation, sensibilité\n<Add other systems only if examined>",
         "instruction_fr": "<ONLY include systems ACTUALLY EXAMINED - OMIT unexamined systems>\n\n- GÉNÉRAL: état général, apparence\n- CŒUR: rythme, B1 B2, souffles\n- POUMONS: MV bilatéraux, bruits adventices\n- ABDOMEN: palpation, sensibilité\n<Add other systems only if examined>",
         "example": "",
-        "abbr_en": "",
-        "abbr_fr": "",
+        "abbr_en": "PE",
+        "abbr_fr": "E/P",
         "format": ""
       },
       {
@@ -7026,7 +7026,7 @@
         "instruction_en": "<Only include if explicit date/timing stated>\n<\"Revoir pour résultats [test]\" if test ordered>",
         "instruction_fr": "<Only include if explicit date/timing stated>\n<\"Revoir pour résultats [test]\" if test ordered>",
         "example": "",
-        "abbr_en": "",
+        "abbr_en": "F/U",
         "abbr_fr": "",
         "format": ""
       }
@@ -7161,8 +7161,8 @@
         "instruction_en": "<Rédiger tous les problèmes/plaintes par paragraphes distincts à chaque raison de consultation et chaque élément de l'histoire par points>\n<Inclure pour chaque problème associé :>\n• <La description du problème (intensité, durée, chronologie, caractéristiques)>\n• <Les symptômes négatifs questionnés ou mentionnés (revue des systèmes)>\n• <La durée et l'évolution des symptômes>\n• <Les facteurs déclencheurs/aggravants/atténuants>\n• <Les limitations fonctionnelles qui en découlent ou l'impact sur la vie du patient>\n• <Les traitements tentés par le patient ou prescrits antérieurement et leur efficacité>\n• <Les habitudes sociales :>\n  o <Situation de vie : marié, en couple, vit seul ou avec d'autres personnes, enfants>\n  o <Occupation/emploi>\n  o <Diète>\n  o <Alcool, drogues, tabagisme>\n  o <Système de support>\n• <L'historique d'hospitalisation>\n• <Les antécédents personnels ou familiaux pertinents (inclure lien avec le patient et l'âge du diagnostic)>\n• <Mentionner la vaccination si discutée>\n• <Inclure aussi le diagnostic proposé par le patient en citation>",
         "instruction_fr": "<Rédiger tous les problèmes/plaintes par paragraphes distincts à chaque raison de consultation et chaque élément de l'histoire par points>\n<Inclure pour chaque problème associé :>\n• <La description du problème (intensité, durée, chronologie, caractéristiques)>\n• <Les symptômes négatifs questionnés ou mentionnés (revue des systèmes)>\n• <La durée et l'évolution des symptômes>\n• <Les facteurs déclencheurs/aggravants/atténuants>\n• <Les limitations fonctionnelles qui en découlent ou l'impact sur la vie du patient>\n• <Les traitements tentés par le patient ou prescrits antérieurement et leur efficacité>\n• <Les habitudes sociales :>\n  o <Situation de vie : marié, en couple, vit seul ou avec d'autres personnes, enfants>\n  o <Occupation/emploi>\n  o <Diète>\n  o <Alcool, drogues, tabagisme>\n  o <Système de support>\n• <L'historique d'hospitalisation>\n• <Les antécédents personnels ou familiaux pertinents (inclure lien avec le patient et l'âge du diagnostic)>\n• <Mentionner la vaccination si discutée>\n• <Inclure aussi le diagnostic proposé par le patient en citation>",
         "example": "",
-        "abbr_en": "",
-        "abbr_fr": "",
+        "abbr_en": "HPI",
+        "abbr_fr": "HMA",
         "format": ""
       },
       {
@@ -7174,7 +7174,7 @@
         "instruction_fr": "<Si aucune allergie est explicitement mentionnée : Aucune allergie connue>\n<Si allergies spécifiques : copier exactement allergène et réaction si disponibles>\n<Omettre entièrement si non discuté>",
         "example": "",
         "abbr_en": "",
-        "abbr_fr": "",
+        "abbr_fr": "ALL",
         "format": ""
       },
       {
@@ -7185,8 +7185,8 @@
         "instruction_en": "<Médicaments actifs seulement : nom exact, dose, voie, fréquence si mentionnés>\n<Médicaments nouveaux, cessés, suspendus ou modifiés : mettre dans IMPRESSION ET CONDUITE>",
         "instruction_fr": "<Médicaments actifs seulement : nom exact, dose, voie, fréquence si mentionnés>\n<Médicaments nouveaux, cessés, suspendus ou modifiés : mettre dans IMPRESSION ET CONDUITE>",
         "example": "",
-        "abbr_en": "",
-        "abbr_fr": "",
+        "abbr_en": "Meds",
+        "abbr_fr": "Rx",
         "format": ""
       },
       {
@@ -7209,8 +7209,8 @@
         "instruction_en": "<Inclure seulement l'examen réellement décrit pendant la consultation>\n<Utiliser abbréviations : N=normal, D=droite, G=gauche>\n<Inclure signes vitaux seulement s'ils sont mentionnés pour la consultation actuelle>",
         "instruction_fr": "<Inclure seulement l'examen réellement décrit pendant la consultation>\n<Utiliser abbréviations : N=normal, D=droite, G=gauche>\n<Inclure signes vitaux seulement s'ils sont mentionnés pour la consultation actuelle>",
         "example": "",
-        "abbr_en": "",
-        "abbr_fr": "",
+        "abbr_en": "PE",
+        "abbr_fr": "E/P",
         "format": ""
       },
       {
@@ -7293,8 +7293,8 @@
         "instruction_en": "<Organiser par problème (chaque problème constitue un paragraphe)>\n<Mentionner :>\n• <Diagnostic>\n• <DDX si mentionnés>\n• <Examens demandés et délais souhaitables si mentionnés>\n• <Traitements prescrits ou proposés>\n• <Référence à d'autres médecins ou professionnels>\n• <Conseils et enseignements au patient>\n• <Si arrêt de travail, mentionner les dates>\n<Inscrire à la fin de l'IMP et CAT si un suivi est recommandé, et la date ou le délai discuté>\n<Si entrevue difficile en raison de conflits entre le patient et le médecin, ou méfiance du patient envers ses soins, ou signes d'hostilité du patient envers le médecin, le documenter médico-légalement à la fin de la note.>",
         "instruction_fr": "<Organiser par problème (chaque problème constitue un paragraphe)>\n<Mentionner :>\n• <Diagnostic>\n• <DDX si mentionnés>\n• <Examens demandés et délais souhaitables si mentionnés>\n• <Traitements prescrits ou proposés>\n• <Référence à d'autres médecins ou professionnels>\n• <Conseils et enseignements au patient>\n• <Si arrêt de travail, mentionner les dates>\n<Inscrire à la fin de l'IMP et CAT si un suivi est recommandé, et la date ou le délai discuté>\n<Si entrevue difficile en raison de conflits entre le patient et le médecin, ou méfiance du patient envers ses soins, ou signes d'hostilité du patient envers le médecin, le documenter médico-légalement à la fin de la note.>",
         "example": "",
-        "abbr_en": "",
-        "abbr_fr": "",
+        "abbr_en": "A&P",
+        "abbr_fr": "IMP et CAT",
         "format": ""
       }
     ]
@@ -7326,8 +7326,8 @@
         "instruction_en": "<Rédiger tous les problèmes/plaintes par paragraphes distincts à chaque raison d'admission et chaque élément de l'histoire par points>\n<Inclure pour chaque problème associé :>\n• <La description du problème (intensité, durée, chronologie, caractéristiques)>\n• <Les symptômes négatifs questionnés ou mentionnés (revue des systèmes)>\n• <La durée et l'évolution des symptômes>\n• <Les facteurs déclencheurs/aggravants/atténuants>\n• <Les limitations fonctionnelles qui en découlent ou l'impact sur la vie du patient>\n• <Les traitements tentés ou prescrits antérieurement et leur efficacité>\n• <Les habitudes sociales : situation de vie, occupation, diète, alcool/tabac/drogues, support>\n• <L'historique d'hospitalisation>\n• <Les antécédents personnels ou familiaux pertinents>\n• <Mentionner les allergies ou vaccination>\n• <Inclure aussi le diagnostic proposé par le patient en citation>",
         "instruction_fr": "<Rédiger tous les problèmes/plaintes par paragraphes distincts à chaque raison d'admission et chaque élément de l'histoire par points>\n<Inclure pour chaque problème associé :>\n• <La description du problème (intensité, durée, chronologie, caractéristiques)>\n• <Les symptômes négatifs questionnés ou mentionnés (revue des systèmes)>\n• <La durée et l'évolution des symptômes>\n• <Les facteurs déclencheurs/aggravants/atténuants>\n• <Les limitations fonctionnelles qui en découlent ou l'impact sur la vie du patient>\n• <Les traitements tentés ou prescrits antérieurement et leur efficacité>\n• <Les habitudes sociales : situation de vie, occupation, diète, alcool/tabac/drogues, support>\n• <L'historique d'hospitalisation>\n• <Les antécédents personnels ou familiaux pertinents>\n• <Mentionner les allergies ou vaccination>\n• <Inclure aussi le diagnostic proposé par le patient en citation>",
         "example": "",
-        "abbr_en": "",
-        "abbr_fr": "",
+        "abbr_en": "HPI",
+        "abbr_fr": "HMA",
         "format": ""
       },
       {
@@ -7362,8 +7362,8 @@
         "instruction_en": "<ONLY include systems ACTUALLY EXAMINED - OMIT unexamined systems>\n- GENERAL: overall appearance, distress level\n- CARDIAC: rhythm, heart sounds, murmurs\n- RESPIRATORY: breath sounds bilaterally, adventitious sounds\n- ABDOMEN: palpation findings, tenderness\n- Other systems as examined",
         "instruction_fr": "<ONLY include systems ACTUALLY EXAMINED - OMIT unexamined systems>\n- GENERAL: overall appearance, distress level\n- CARDIAC: rhythm, heart sounds, murmurs\n- RESPIRATORY: breath sounds bilaterally, adventitious sounds\n- ABDOMEN: palpation findings, tenderness\n- Other systems as examined",
         "example": "",
-        "abbr_en": "",
-        "abbr_fr": "",
+        "abbr_en": "PE",
+        "abbr_fr": "E/P",
         "format": ""
       },
       {
