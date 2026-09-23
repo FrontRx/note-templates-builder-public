@@ -55,7 +55,7 @@
     "instruction_fr": "Lister toutes les allergies médicamenteuses, alimentaires et environnementales connues, avec le type de réaction si précisé. Inscrire \"Aucune allergie connue\" si explicitement mentionné.",
     "example": "",
     "category": "subjective",
-    "abbr_en": "",
+    "abbr_en": "ALL",
     "abbr_fr": "ALL",
     "format": ""
   },
@@ -139,7 +139,7 @@
     "instruction_fr": "Documenter le tabac (paquets-années, statut actuel), l'alcool (consommations/semaine), les drogues récréatives, l'activité physique, l'alimentation, le sommeil, l'occupation et la situation de logement. Utiliser des abréviations concises. Inclure les négatifs pertinents si explicitement mentionnés.",
     "example": "",
     "category": "subjective",
-    "abbr_en": "",
+    "abbr_en": "SHx",
     "abbr_fr": "HDV",
     "format": ""
   },
@@ -247,7 +247,7 @@
     "instruction_fr": "Inclure uniquement si le dépistage périodique a été explicitement abordé lors de la visite. Documenter les systèmes revus et le statut de dépistage : cardiovasculaire, gastro-intestinal, génito-urinaire, cutané, symptômes B (fièvre, perte de poids, anorexie, sueurs nocturnes). Noter les dépistages complétés et en attente (mammographie, coloscopie, Pap, PSA, etc.) avec dates si disponibles.",
     "example": "Cardio-respiratoire : pas de douleur rétrosternale, pas de dyspnée au repos\nGastro-intestinal : transit normal, pas de rectorragie\nGénito-urinaire : pas de saignements utérins anormaux\nSx B : pas de fièvre, pas de perte de poids\nMammographie : [date] — à jour\nColoscopie : non réalisée — à planifier",
     "category": "subjective",
-    "abbr_en": "",
+    "abbr_en": "PHE",
     "abbr_fr": "EMP",
     "format": ""
   },
@@ -260,7 +260,7 @@
     "example": "FC : 88 bpm, TA : 148/92 mmHg (antérieure : 162/98 mmHg), T° : 37.1°C, SpO2 : 97%, FR : 16/min, Poids : 84 kg, Taille : 1.72 m",
     "category": "objective",
     "abbr_en": "VS",
-    "abbr_fr": "",
+    "abbr_fr": "SV",
     "format": ""
   },
   {
@@ -380,7 +380,7 @@
     "example": "",
     "category": "plan",
     "abbr_en": "F/U",
-    "abbr_fr": "",
+    "abbr_fr": "Suivi",
     "format": ""
   },
   {
