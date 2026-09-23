@@ -37,7 +37,7 @@
         "instruction_en": "List all known drug, food, and environmental allergies with the type of reaction when specified. Write \"NKDA\" / \"Aucune allergie connue\" if explicitly stated as none.",
         "instruction_fr": "Lister toutes les allergies médicamenteuses, alimentaires et environnementales connues, avec le type de réaction si précisé. Inscrire \"Aucune allergie connue\" si explicitement mentionné.",
         "example": "",
-        "abbr_en": "",
+        "abbr_en": "ALL",
         "abbr_fr": "ALL",
         "format": ""
       },
@@ -109,7 +109,7 @@
         "instruction_en": "Document tobacco (pack-years, current status), alcohol (drinks/week), recreational drugs, physical activity, diet, sleep, occupation, and living situation. Use concise shorthand. Include pertinent negatives if explicitly stated.",
         "instruction_fr": "Documenter le tabac (paquets-années, statut actuel), l'alcool (consommations/semaine), les drogues récréatives, l'activité physique, l'alimentation, le sommeil, l'occupation et la situation de logement. Utiliser des abréviations concises. Inclure les négatifs pertinents si explicitement mentionnés.",
         "example": "",
-        "abbr_en": "",
+        "abbr_en": "SHx",
         "abbr_fr": "HDV",
         "format": ""
       },
@@ -146,7 +146,7 @@
         "instruction_fr": "Documenter uniquement les signes vitaux explicitement mentionnés. Présenter sur une seule ligne ou en format structuré. Inclure : fréquence cardiaque (bpm), tension artérielle (mmHg, avec valeur antérieure entre parenthèses si disponible), température (°C), SpO2 (%), fréquence respiratoire (/min), poids (kg), taille (m), IMC si calculable.",
         "example": "FC : 72 bpm, TA : 118/74 mmHg, T° : 36.8°C, SpO2 : 98%, FR : 14/min, Poids : 68 kg, Taille : 1.68 m",
         "abbr_en": "VS",
-        "abbr_fr": "",
+        "abbr_fr": "SV",
         "format": ""
       },
       {
@@ -206,7 +206,7 @@
         "instruction_fr": "Documenter le prochain rendez-vous prévu avec la date et l'objectif. Inclure les instructions de retour-précaution si données (signes d'alarme justifiant un retour anticipé). Inclure les références et leur niveau d'urgence si mentionné.",
         "example": "",
         "abbr_en": "F/U",
-        "abbr_fr": "",
+        "abbr_fr": "Suivi",
         "format": ""
       },
       {
@@ -273,7 +273,7 @@
         "instruction_en": "List all known drug, food, and environmental allergies with the type of reaction when specified. Write \"NKDA\" / \"Aucune allergie connue\" if explicitly stated as none.",
         "instruction_fr": "Lister toutes les allergies médicamenteuses, alimentaires et environnementales connues, avec le type de réaction si précisé. Inscrire \"Aucune allergie connue\" si explicitement mentionné.",
         "example": "",
-        "abbr_en": "",
+        "abbr_en": "ALL",
         "abbr_fr": "ALL",
         "format": ""
       },
@@ -322,7 +322,7 @@
         "instruction_fr": "Documenter uniquement les signes vitaux explicitement mentionnés. Présenter sur une seule ligne ou en format structuré. Inclure : fréquence cardiaque (bpm), tension artérielle (mmHg, avec valeur antérieure entre parenthèses si disponible), température (°C), SpO2 (%), fréquence respiratoire (/min), poids (kg), taille (m), IMC si calculable. Pour les notes procédurales, inscrire les signes vitaux pré- et post-intervention dans des sous-sections distinctes.",
         "example": "FC : 118 bpm, TA : 82/54 mmHg sous noradrénaline (antérieure : 88/60 mmHg), T° : 39.2°C, SpO2 : 94% sous VM (FiO2 60%), FR : 22/min (assistée), Poids : 78 kg, Taille : 1.70 m",
         "abbr_en": "VS",
-        "abbr_fr": "",
+        "abbr_fr": "SV",
         "format": ""
       },
       {
@@ -382,7 +382,7 @@
         "instruction_fr": "Documenter le prochain rendez-vous prévu avec la date et l'objectif. Inclure les instructions de retour-précaution si données (signes d'alarme justifiant un retour anticipé). Inclure les références et leur niveau d'urgence si mentionné.",
         "example": "",
         "abbr_en": "F/U",
-        "abbr_fr": "",
+        "abbr_fr": "Suivi",
         "format": ""
       }
     ]
@@ -518,7 +518,7 @@
         "instruction_fr": "Documenter le prochain rendez-vous prévu avec la date et l'objectif. Inclure les instructions de retour-précaution si données (signes d'alarme justifiant un retour anticipé). Inclure les références et leur niveau d'urgence si mentionné.",
         "example": "",
         "abbr_en": "F/U",
-        "abbr_fr": "",
+        "abbr_fr": "Suivi",
         "format": ""
       }
     ]
@@ -587,7 +587,7 @@
         "instruction_en": "List all known drug, food, and environmental allergies with the type of reaction when specified. Write \"NKDA\" / \"Aucune allergie connue\" if explicitly stated as none.",
         "instruction_fr": "Lister toutes les allergies médicamenteuses, alimentaires et environnementales connues, avec le type de réaction si précisé. Inscrire \"Aucune allergie connue\" si explicitement mentionné.",
         "example": "",
-        "abbr_en": "",
+        "abbr_en": "ALL",
         "abbr_fr": "ALL",
         "format": ""
       },
@@ -659,7 +659,7 @@
         "instruction_en": "Document tobacco (pack-years, current status), alcohol (drinks/week), recreational drugs, physical activity, diet, sleep, occupation, and living situation. Use concise shorthand. Include pertinent negatives if explicitly stated.",
         "instruction_fr": "Documenter le tabac (paquets-années, statut actuel), l'alcool (consommations/semaine), les drogues récréatives, l'activité physique, l'alimentation, le sommeil, l'occupation et la situation de logement. Utiliser des abréviations concises. Inclure les négatifs pertinents si explicitement mentionnés.",
         "example": "",
-        "abbr_en": "",
+        "abbr_en": "SHx",
         "abbr_fr": "HDV",
         "format": ""
       },
@@ -720,7 +720,7 @@
         "instruction_fr": "Documenter uniquement les signes vitaux explicitement mentionnés. Présenter sur une seule ligne ou en format structuré. Inclure : fréquence cardiaque (bpm), tension artérielle (mmHg, avec valeur antérieure entre parenthèses si disponible), température (°C), SpO2 (%), fréquence respiratoire (/min), poids (kg), taille (m), IMC si calculable. Pour les notes procédurales, inscrire les signes vitaux pré- et post-intervention dans des sous-sections distinctes.",
         "example": "FC : 88 bpm, TA : 148/92 mmHg (antérieure : 162/98 mmHg), T° : 37.1°C, SpO2 : 97%, FR : 16/min, Poids : 84 kg, Taille : 1.72 m",
         "abbr_en": "VS",
-        "abbr_fr": "",
+        "abbr_fr": "SV",
         "format": ""
       },
       {
@@ -792,7 +792,7 @@
         "instruction_fr": "Documenter le prochain rendez-vous prévu avec la date et l'objectif. Inclure les instructions de retour-précaution si données (signes d'alarme justifiant un retour anticipé). Inclure les références et leur niveau d'urgence si mentionné.",
         "example": "",
         "abbr_en": "F/U",
-        "abbr_fr": "",
+        "abbr_fr": "Suivi",
         "format": ""
       }
     ]
@@ -843,7 +843,7 @@
         "instruction_en": "List all known drug, food, and environmental allergies with the type of reaction when specified. Write \"NKDA\" / \"Aucune allergie connue\" if explicitly stated as none.",
         "instruction_fr": "Lister toutes les allergies médicamenteuses, alimentaires et environnementales connues, avec le type de réaction si précisé. Inscrire \"Aucune allergie connue\" si explicitement mentionné.",
         "example": "",
-        "abbr_en": "",
+        "abbr_en": "ALL",
         "abbr_fr": "ALL",
         "format": ""
       },
@@ -903,7 +903,7 @@
         "instruction_en": "Document tobacco (pack-years, current status), alcohol (drinks/week), recreational drugs, physical activity, diet, sleep, occupation, and living situation. Use concise shorthand. Include pertinent negatives if explicitly stated.",
         "instruction_fr": "Documenter le tabac (paquets-années, statut actuel), l'alcool (consommations/semaine), les drogues récréatives, l'activité physique, l'alimentation, le sommeil, l'occupation et la situation de logement. Utiliser des abréviations concises. Inclure les négatifs pertinents si explicitement mentionnés.",
         "example": "",
-        "abbr_en": "",
+        "abbr_en": "SHx",
         "abbr_fr": "HDV",
         "format": ""
       },
@@ -964,7 +964,7 @@
         "instruction_fr": "Documenter le prochain rendez-vous prévu avec la date et l'objectif. Inclure les instructions de retour-précaution si données (signes d'alarme justifiant un retour anticipé). Inclure les références et leur niveau d'urgence si mentionné.",
         "example": "",
         "abbr_en": "F/U",
-        "abbr_fr": "",
+        "abbr_fr": "Suivi",
         "format": ""
       }
     ]
@@ -1046,7 +1046,7 @@
         "instruction_en": "List all known drug, food, and environmental allergies with the type of reaction when specified. Write \"NKDA\" / \"Aucune allergie connue\" if explicitly stated as none.",
         "instruction_fr": "Lister toutes les allergies médicamenteuses, alimentaires et environnementales connues, avec le type de réaction si précisé. Inscrire \"Aucune allergie connue\" si explicitement mentionné.",
         "example": "",
-        "abbr_en": "",
+        "abbr_en": "ALL",
         "abbr_fr": "ALL",
         "format": ""
       },
@@ -1095,7 +1095,7 @@
         "instruction_fr": "Documenter uniquement les signes vitaux explicitement mentionnés. Présenter sur une seule ligne ou en format structuré. Inclure : fréquence cardiaque (bpm), tension artérielle (mmHg, avec valeur antérieure entre parenthèses si disponible), température (°C), SpO2 (%), fréquence respiratoire (/min), poids (kg), taille (m), IMC si calculable. Pour les notes procédurales, inscrire les signes vitaux pré- et post-intervention dans des sous-sections distinctes.",
         "example": "FC : 88 bpm, TA : 148/92 mmHg (antérieure : 162/98 mmHg), T° : 37.1°C, SpO2 : 97%, FR : 16/min, Poids : 84 kg, Taille : 1.72 m",
         "abbr_en": "VS",
-        "abbr_fr": "",
+        "abbr_fr": "SV",
         "format": ""
       },
       {
@@ -1155,7 +1155,7 @@
         "instruction_fr": "Documenter le prochain rendez-vous prévu avec la date et l'objectif. Inclure les instructions de retour-précaution si données (signes d'alarme justifiant un retour anticipé). Inclure les références et leur niveau d'urgence si mentionné.",
         "example": "",
         "abbr_en": "F/U",
-        "abbr_fr": "",
+        "abbr_fr": "Suivi",
         "format": ""
       }
     ]
@@ -1198,7 +1198,7 @@
         "instruction_en": "List all known drug, food, and environmental allergies with the type of reaction when specified. Write \"NKDA\" / \"Aucune allergie connue\" if explicitly stated as none.",
         "instruction_fr": "Lister toutes les allergies médicamenteuses, alimentaires et environnementales connues, avec le type de réaction si précisé. Inscrire \"Aucune allergie connue\" si explicitement mentionné.",
         "example": "",
-        "abbr_en": "",
+        "abbr_en": "ALL",
         "abbr_fr": "ALL",
         "format": ""
       },
@@ -1235,7 +1235,7 @@
         "instruction_fr": "Documenter uniquement les signes vitaux explicitement mentionnés. Présenter sur une seule ligne ou en format structuré. Inclure : fréquence cardiaque (bpm), tension artérielle (mmHg, avec valeur antérieure entre parenthèses si disponible), température (°C), SpO2 (%), fréquence respiratoire (/min), poids (kg), taille (m), IMC si calculable. Pour les notes procédurales, inscrire les signes vitaux pré- et post-intervention dans des sous-sections distinctes.",
         "example": "FC : 88 bpm, TA : 148/92 mmHg (antérieure : 162/98 mmHg), T° : 37.1°C, SpO2 : 97%, FR : 16/min, Poids : 84 kg, Taille : 1.72 m",
         "abbr_en": "VS",
-        "abbr_fr": "",
+        "abbr_fr": "SV",
         "format": ""
       },
       {
@@ -1307,7 +1307,7 @@
         "instruction_fr": "Documenter le prochain rendez-vous prévu avec la date et l'objectif. Inclure les instructions de retour-précaution si données (signes d'alarme justifiant un retour anticipé). Inclure les références et leur niveau d'urgence si mentionné.",
         "example": "",
         "abbr_en": "F/U",
-        "abbr_fr": "",
+        "abbr_fr": "Suivi",
         "format": ""
       }
     ]
@@ -1362,7 +1362,7 @@
         "instruction_en": "List all known drug, food, and environmental allergies with the type of reaction when specified. Write \"NKDA\" / \"Aucune allergie connue\" if explicitly stated as none.",
         "instruction_fr": "Lister toutes les allergies médicamenteuses, alimentaires et environnementales connues, avec le type de réaction si précisé. Inscrire \"Aucune allergie connue\" si explicitement mentionné.",
         "example": "",
-        "abbr_en": "",
+        "abbr_en": "ALL",
         "abbr_fr": "ALL",
         "format": ""
       },
@@ -1422,7 +1422,7 @@
         "instruction_en": "Document tobacco (pack-years, current status), alcohol (drinks/week), recreational drugs, physical activity, diet, sleep, occupation, and living situation. Use concise shorthand. Include pertinent negatives if explicitly stated.",
         "instruction_fr": "Documenter le tabac (paquets-années, statut actuel), l'alcool (consommations/semaine), les drogues récréatives, l'activité physique, l'alimentation, le sommeil, l'occupation et la situation de logement. Utiliser des abréviations concises. Inclure les négatifs pertinents si explicitement mentionnés.",
         "example": "",
-        "abbr_en": "",
+        "abbr_en": "SHx",
         "abbr_fr": "HDV",
         "format": ""
       },
@@ -1459,7 +1459,7 @@
         "instruction_fr": "Documenter uniquement les signes vitaux explicitement mentionnés. Présenter sur une seule ligne ou en format structuré. Inclure : fréquence cardiaque (bpm), tension artérielle (mmHg, avec valeur antérieure entre parenthèses si disponible), température (°C), SpO2 (%), fréquence respiratoire (/min), poids (kg), taille (m), IMC si calculable. Pour les notes procédurales, inscrire les signes vitaux pré- et post-intervention dans des sous-sections distinctes.",
         "example": "FC : 88 bpm, TA : 148/92 mmHg (antérieure : 162/98 mmHg), T° : 37.1°C, SpO2 : 97%, FR : 16/min, Poids : 84 kg, Taille : 1.72 m",
         "abbr_en": "VS",
-        "abbr_fr": "",
+        "abbr_fr": "SV",
         "format": ""
       },
       {
@@ -1531,7 +1531,7 @@
         "instruction_fr": "Documenter le prochain rendez-vous prévu avec la date et l'objectif. Inclure les instructions de retour-précaution si données (signes d'alarme justifiant un retour anticipé). Inclure les références et leur niveau d'urgence si mentionné.",
         "example": "",
         "abbr_en": "F/U",
-        "abbr_fr": "",
+        "abbr_fr": "Suivi",
         "format": ""
       }
     ]
@@ -1598,7 +1598,7 @@
         "instruction_en": "List all known drug, food, and environmental allergies with the type of reaction when specified. Write \"NKDA\" / \"Aucune allergie connue\" if explicitly stated as none.",
         "instruction_fr": "Lister toutes les allergies médicamenteuses, alimentaires et environnementales connues, avec le type de réaction si précisé. Inscrire \"Aucune allergie connue\" si explicitement mentionné.",
         "example": "",
-        "abbr_en": "",
+        "abbr_en": "ALL",
         "abbr_fr": "ALL",
         "format": ""
       },
@@ -1670,7 +1670,7 @@
         "instruction_en": "Document tobacco (pack-years, current status), alcohol (drinks/week), recreational drugs, physical activity, diet, sleep, occupation, and living situation. Use concise shorthand. Include pertinent negatives if explicitly stated.",
         "instruction_fr": "Documenter le tabac (paquets-années, statut actuel), l'alcool (consommations/semaine), les drogues récréatives, l'activité physique, l'alimentation, le sommeil, l'occupation et la situation de logement. Utiliser des abréviations concises. Inclure les négatifs pertinents si explicitement mentionnés.",
         "example": "",
-        "abbr_en": "",
+        "abbr_en": "SHx",
         "abbr_fr": "HDV",
         "format": ""
       },
@@ -1695,7 +1695,7 @@
         "instruction_fr": "Documenter uniquement les signes vitaux explicitement mentionnés. Présenter sur une seule ligne ou en format structuré. Inclure : fréquence cardiaque (bpm), tension artérielle (mmHg), température (°C), SpO2 (%), fréquence respiratoire (/min), poids (kg), taille (m), IMC si calculable.",
         "example": "FC : 88 bpm, TA : 118/74 mmHg, T° : 36.8°C, SpO2 : 98%, FR : 16/min, Poids : 72 kg",
         "abbr_en": "VS",
-        "abbr_fr": "",
+        "abbr_fr": "SV",
         "format": ""
       },
       {
@@ -1767,7 +1767,7 @@
         "instruction_fr": "Documenter le prochain rendez-vous prévu avec la date et l'objectif. Inclure les instructions de retour-précaution si données (signes d'alarme justifiant un retour anticipé). Inclure les références et leur niveau d'urgence si mentionné.",
         "example": "",
         "abbr_en": "F/U",
-        "abbr_fr": "",
+        "abbr_fr": "Suivi",
         "format": ""
       }
     ]
@@ -1822,7 +1822,7 @@
         "instruction_en": "List all known drug, food, and environmental allergies with the type of reaction when specified. Write \"NKDA\" / \"Aucune allergie connue\" if explicitly stated as none.",
         "instruction_fr": "Lister toutes les allergies médicamenteuses, alimentaires et environnementales connues, avec le type de réaction si précisé. Inscrire \"Aucune allergie connue\" si explicitement mentionné.",
         "example": "",
-        "abbr_en": "",
+        "abbr_en": "ALL",
         "abbr_fr": "ALL",
         "format": ""
       },
@@ -1859,7 +1859,7 @@
         "instruction_fr": "Documenter uniquement les signes vitaux explicitement mentionnés. Présenter sur une seule ligne ou en format structuré. Inclure : fréquence cardiaque (bpm), tension artérielle (mmHg, avec valeur antérieure entre parenthèses si disponible), température (°C), SpO2 (%), fréquence respiratoire (/min), poids (kg), taille (m), IMC si calculable. Pour les notes procédurales, inscrire les signes vitaux pré- et post-intervention dans des sous-sections distinctes.",
         "example": "FC : 88 bpm, TA : 148/92 mmHg (antérieure : 162/98 mmHg), T° : 37.1°C, SpO2 : 97%, FR : 16/min, Poids : 84 kg, Taille : 1.72 m",
         "abbr_en": "VS",
-        "abbr_fr": "",
+        "abbr_fr": "SV",
         "format": ""
       },
       {
@@ -1919,7 +1919,7 @@
         "instruction_fr": "Documenter le prochain rendez-vous prévu avec la date et l'objectif. Inclure les instructions de retour-précaution si données (signes d'alarme justifiant un retour anticipé). Inclure les références et leur niveau d'urgence si mentionné.",
         "example": "",
         "abbr_en": "F/U",
-        "abbr_fr": "",
+        "abbr_fr": "Suivi",
         "format": ""
       }
     ]
@@ -1939,7 +1939,7 @@
         "instruction_fr": "Documenter uniquement les signes vitaux explicitement mentionnés avant la procédure. Présenter sur une seule ligne ou en format structuré. Inclure : fréquence cardiaque (bpm), tension artérielle (mmHg, avec valeur antérieure entre parenthèses si disponible), température (°C), SpO2 (%), fréquence respiratoire (/min), poids (kg), taille (m), IMC si calculable. Pour les notes procédurales, inscrire les signes vitaux pré- et post-intervention dans des sous-sections distinctes.",
         "example": "FC : 92 bpm, TA : 138/84 mmHg, T° : 37.2°C, SpO2 : 96%, FR : 18/min",
         "abbr_en": "VS — Pre-intervention",
-        "abbr_fr": "",
+        "abbr_fr": "SV — Pré-intervention",
         "format": ""
       },
       {
@@ -1963,7 +1963,7 @@
         "instruction_fr": "Documenter uniquement les signes vitaux explicitement mentionnés après la procédure. Présenter sur une seule ligne ou en format structuré. Inclure : fréquence cardiaque (bpm), tension artérielle (mmHg), température (°C), SpO2 (%), fréquence respiratoire (/min). Pour les notes procédurales, inscrire les signes vitaux pré- et post-intervention dans des sous-sections distinctes.",
         "example": "FC : 84 bpm, TA : 126/78 mmHg, T° : 37.0°C, SpO2 : 98%, FR : 16/min",
         "abbr_en": "VS — Post-intervention",
-        "abbr_fr": "",
+        "abbr_fr": "SV — Post-intervention",
         "format": ""
       },
       {
@@ -2011,7 +2011,7 @@
         "instruction_fr": "Documenter le prochain rendez-vous prévu avec la date et l'objectif. Inclure les instructions de retour-précaution si données (signes d'alarme justifiant un retour anticipé). Inclure les références et leur niveau d'urgence si mentionné.",
         "example": "",
         "abbr_en": "F/U",
-        "abbr_fr": "",
+        "abbr_fr": "Suivi",
         "format": ""
       }
     ]
@@ -2042,7 +2042,7 @@
         "instruction_en": "List all known drug, food, and environmental allergies with the type of reaction when specified. Write \"NKDA\" / \"Aucune allergie connue\" if explicitly stated as none.",
         "instruction_fr": "Lister toutes les allergies médicamenteuses, alimentaires et environnementales connues, avec le type de réaction si précisé. Inscrire \"Aucune allergie connue\" si explicitement mentionné.",
         "example": "",
-        "abbr_en": "",
+        "abbr_en": "ALL",
         "abbr_fr": "ALL",
         "format": ""
       },
@@ -2078,7 +2078,7 @@
         "instruction_en": "Include only if periodic health screening was explicitly discussed during the visit. Document relevant systems reviewed and screening status: cardiovascular, gastrointestinal, genitourinary, skin, B symptoms (fever, weight loss, anorexia, night sweats). Note completed and outstanding screening (mammography, colonoscopy, Pap smear, PSA, etc.) with dates when available.",
         "instruction_fr": "Inclure uniquement si le dépistage périodique a été explicitement abordé lors de la visite. Documenter les systèmes revus et le statut de dépistage : cardiovasculaire, gastro-intestinal, génito-urinaire, cutané, symptômes B (fièvre, perte de poids, anorexie, sueurs nocturnes). Noter les dépistages complétés et en attente (mammographie, coloscopie, Pap, PSA, etc.) avec dates si disponibles.",
         "example": "Cardio-respiratoire : pas de douleur rétrosternale, pas de dyspnée au repos\nGastro-intestinal : transit normal, pas de rectorragie\nGénito-urinaire : pas de saignements utérins anormaux\nSx B : pas de fièvre, pas de perte de poids\nMammographie : [date] — à jour\nColoscopie : non réalisée — à planifier",
-        "abbr_en": "",
+        "abbr_en": "PHE",
         "abbr_fr": "EMP",
         "format": ""
       },
@@ -2091,7 +2091,7 @@
         "instruction_fr": "Documenter uniquement les signes vitaux explicitement mentionnés. Présenter sur une seule ligne ou en format structuré. Inclure : fréquence cardiaque (bpm), tension artérielle (mmHg, avec valeur antérieure entre parenthèses si disponible), température (°C), SpO2 (%), fréquence respiratoire (/min), poids (kg), taille (m), IMC si calculable.",
         "example": "FC : 88 bpm, TA : 148/92 mmHg (antérieure : 162/98 mmHg), T° : 37.1°C, SpO2 : 97%, FR : 16/min, Poids : 84 kg, Taille : 1.72 m",
         "abbr_en": "VS",
-        "abbr_fr": "",
+        "abbr_fr": "SV",
         "format": ""
       },
       {
@@ -2151,7 +2151,7 @@
         "instruction_fr": "Documenter le prochain rendez-vous prévu avec la date et l'objectif. Inclure les instructions de retour-précaution si données (signes d'alarme justifiant un retour anticipé). Inclure les références et leur niveau d'urgence si mentionné.",
         "example": "",
         "abbr_en": "F/U",
-        "abbr_fr": "",
+        "abbr_fr": "Suivi",
         "format": ""
       },
       {
@@ -2194,7 +2194,7 @@
         "instruction_en": "List all known drug, food, and environmental allergies with the type of reaction when specified. Write \"NKDA\" / \"Aucune allergie connue\" if explicitly stated as none.",
         "instruction_fr": "Lister toutes les allergies médicamenteuses, alimentaires et environnementales connues, avec le type de réaction si précisé. Inscrire \"Aucune allergie connue\" si explicitement mentionné.",
         "example": "",
-        "abbr_en": "",
+        "abbr_en": "ALL",
         "abbr_fr": "ALL",
         "format": ""
       },
@@ -2230,7 +2230,7 @@
         "instruction_en": "Document tobacco (pack-years, current status), alcohol (drinks/week), recreational drugs, physical activity, diet, sleep, occupation, and living situation. Use concise shorthand. Include pertinent negatives if explicitly stated.",
         "instruction_fr": "Documenter le tabac (paquets-années, statut actuel), l'alcool (consommations/semaine), les drogues récréatives, l'activité physique, l'alimentation, le sommeil, l'occupation et la situation de logement. Utiliser des abréviations concises. Inclure les négatifs pertinents si explicitement mentionnés.",
         "example": "",
-        "abbr_en": "",
+        "abbr_en": "SHx",
         "abbr_fr": "HDV",
         "format": ""
       },
@@ -2254,7 +2254,7 @@
         "instruction_en": "Include only if periodic health screening was explicitly discussed during the visit. Document relevant systems reviewed and screening status: cardiovascular, gastrointestinal, genitourinary, skin, B symptoms (fever, weight loss, anorexia, night sweats). Note completed and outstanding screening (mammography, colonoscopy, Pap smear, PSA, etc.) with dates when available.",
         "instruction_fr": "Inclure uniquement si le dépistage périodique a été explicitement abordé lors de la visite. Documenter les systèmes revus et le statut de dépistage : cardiovasculaire, gastro-intestinal, génito-urinaire, cutané, symptômes B (fièvre, perte de poids, anorexie, sueurs nocturnes). Noter les dépistages complétés et en attente (mammographie, coloscopie, Pap, PSA, etc.) avec dates si disponibles.",
         "example": "Cardio-respiratoire : pas de douleur rétrosternale, pas de dyspnée au repos\nGastro-intestinal : transit normal, pas de rectorragie\nGénito-urinaire : pas de saignements utérins anormaux\nSx B : pas de fièvre, pas de perte de poids\nMammographie : [date] — à jour\nColoscopie : non réalisée — à planifier",
-        "abbr_en": "",
+        "abbr_en": "PHE",
         "abbr_fr": "EMP",
         "format": ""
       },
@@ -2267,7 +2267,7 @@
         "instruction_fr": "Documenter uniquement les signes vitaux explicitement mentionnés. Présenter sur une seule ligne ou en format structuré. Inclure : fréquence cardiaque (bpm), tension artérielle (mmHg, avec valeur antérieure entre parenthèses si disponible), température (°C), SpO2 (%), fréquence respiratoire (/min), poids (kg), taille (m), IMC si calculable.",
         "example": "FC : 88 bpm, TA : 148/92 mmHg (antérieure : 162/98 mmHg), T° : 37.1°C, SpO2 : 97%, FR : 16/min, Poids : 84 kg, Taille : 1.72 m",
         "abbr_en": "VS",
-        "abbr_fr": "",
+        "abbr_fr": "SV",
         "format": ""
       },
       {
@@ -2327,7 +2327,7 @@
         "instruction_fr": "Documenter le prochain rendez-vous prévu avec la date et l'objectif. Inclure les instructions de retour-précaution si données (signes d'alarme justifiant un retour anticipé). Inclure les références et leur niveau d'urgence si mentionné.",
         "example": "",
         "abbr_en": "F/U",
-        "abbr_fr": "",
+        "abbr_fr": "Suivi",
         "format": ""
       },
       {
@@ -2394,7 +2394,7 @@
         "instruction_en": "List all known drug, food, and environmental allergies with the type of reaction when specified. Write \"Aucune allergie connue\" if explicitly stated as none.",
         "instruction_fr": "Lister toutes les allergies médicamenteuses, alimentaires et environnementales connues, avec le type de réaction si précisé. Inscrire \"Aucune allergie connue\" si explicitement mentionné.",
         "example": "",
-        "abbr_en": "",
+        "abbr_en": "ALL",
         "abbr_fr": "ALL",
         "format": ""
       },
@@ -2455,7 +2455,7 @@
         "instruction_fr": "Documenter le prochain rendez-vous prévu avec la date et l'objectif. Inclure les instructions de retour-précaution si données (signes d'alarme justifiant un retour anticipé ou une consultation aux urgences). Inclure les références et leur niveau d'urgence si mentionné.",
         "example": "",
         "abbr_en": "F/U",
-        "abbr_fr": "",
+        "abbr_fr": "Suivi",
         "format": ""
       },
       {
@@ -2510,7 +2510,7 @@
         "instruction_en": "List all known drug, food, and environmental allergies with the type of reaction when specified. Write \"NKDA\" / \"Aucune allergie connue\" if explicitly stated as none.",
         "instruction_fr": "Lister toutes les allergies médicamenteuses, alimentaires et environnementales connues, avec le type de réaction si précisé. Inscrire \"Aucune allergie connue\" si explicitement mentionné.",
         "example": "",
-        "abbr_en": "",
+        "abbr_en": "ALL",
         "abbr_fr": "ALL",
         "format": ""
       },
@@ -2571,7 +2571,7 @@
         "instruction_fr": "Documenter le prochain rendez-vous prévu avec la date et l'objectif. Inclure les instructions de retour-précaution si données (signes d'alarme justifiant un retour anticipé). Inclure les références et leur niveau d'urgence si mentionné.",
         "example": "",
         "abbr_en": "F/U",
-        "abbr_fr": "",
+        "abbr_fr": "Suivi",
         "format": ""
       },
       {
@@ -2626,7 +2626,7 @@
         "instruction_en": "List all known drug, food, and environmental allergies with the type of reaction when specified. Write \"NKDA\" / \"Aucune allergie connue\" if explicitly stated as none.",
         "instruction_fr": "Lister toutes les allergies médicamenteuses, alimentaires et environnementales connues, avec le type de réaction si précisé. Inscrire \"Aucune allergie connue\" si explicitement mentionné.",
         "example": "",
-        "abbr_en": "",
+        "abbr_en": "ALL",
         "abbr_fr": "ALL",
         "format": ""
       },
@@ -2663,7 +2663,7 @@
         "instruction_fr": "Documenter uniquement les signes vitaux explicitement mentionnés. Présenter sur une seule ligne ou en format structuré. Inclure : fréquence cardiaque (bpm), tension artérielle (mmHg, avec valeur antérieure entre parenthèses si disponible), température (°C), SpO2 (%), fréquence respiratoire (/min), poids (kg), taille (m), IMC si calculable.",
         "example": "FC : 78 bpm, TA : 118/74 mmHg, Poids : 68 kg",
         "abbr_en": "VS",
-        "abbr_fr": "",
+        "abbr_fr": "SV",
         "format": ""
       },
       {
@@ -2723,7 +2723,7 @@
         "instruction_fr": "Documenter le prochain rendez-vous prévu avec la date et l'objectif. Inclure les instructions de retour-précaution si données (signes d'alarme justifiant un retour anticipé). Inclure les références et leur niveau d'urgence si mentionné.",
         "example": "",
         "abbr_en": "F/U",
-        "abbr_fr": "",
+        "abbr_fr": "Suivi",
         "format": ""
       },
       {
@@ -2790,7 +2790,7 @@
         "instruction_en": "List all known drug, food, and environmental allergies with the type of reaction when specified. Write \"NKDA\" / \"Aucune allergie connue\" if explicitly stated as none.",
         "instruction_fr": "Lister toutes les allergies médicamenteuses, alimentaires et environnementales connues, avec le type de réaction si précisé. Inscrire \"Aucune allergie connue\" si explicitement mentionné.",
         "example": "",
-        "abbr_en": "",
+        "abbr_en": "ALL",
         "abbr_fr": "ALL",
         "format": ""
       },
@@ -2862,7 +2862,7 @@
         "instruction_en": "Document tobacco (pack-years, current status), alcohol (drinks/week), recreational drugs, physical activity, diet, sleep, occupation, and living situation. Use concise shorthand. Include pertinent negatives if explicitly stated.",
         "instruction_fr": "Documenter le tabac (paquets-années, statut actuel), l'alcool (consommations/semaine), les drogues récréatives, l'activité physique, l'alimentation, le sommeil, l'occupation et la situation de logement. Utiliser des abréviations concises. Inclure les négatifs pertinents si explicitement mentionnés.",
         "example": "",
-        "abbr_en": "",
+        "abbr_en": "SHx",
         "abbr_fr": "HDV",
         "format": ""
       },
@@ -2887,7 +2887,7 @@
         "instruction_fr": "Documenter uniquement les signes vitaux explicitement mentionnés. Présenter sur une seule ligne ou en format structuré. Inclure : fréquence cardiaque (bpm), tension artérielle (mmHg, avec valeur antérieure entre parenthèses si disponible), température (°C), SpO2 (%), fréquence respiratoire (/min), poids (kg), taille (m), IMC si calculable.",
         "example": "FC : 78 bpm, TA : 122/76 mmHg, T° : 36.8°C, SpO2 : 98%, Poids : 72 kg",
         "abbr_en": "VS",
-        "abbr_fr": "",
+        "abbr_fr": "SV",
         "format": ""
       },
       {
@@ -2959,7 +2959,7 @@
         "instruction_fr": "Documenter le prochain rendez-vous prévu avec la date et l'objectif. Inclure les instructions de retour-précaution si données (signes d'alarme justifiant un retour anticipé). Inclure les références et leur niveau d'urgence si mentionné.",
         "example": "",
         "abbr_en": "F/U",
-        "abbr_fr": "",
+        "abbr_fr": "Suivi",
         "format": ""
       },
       {
@@ -3002,7 +3002,7 @@
         "instruction_en": "List all known drug, food, and environmental allergies with the type of reaction when specified. Write \"NKDA\" / \"Aucune allergie connue\" if explicitly stated as none.",
         "instruction_fr": "Lister toutes les allergies médicamenteuses, alimentaires et environnementales connues, avec le type de réaction si précisé. Inscrire \"Aucune allergie connue\" si explicitement mentionné.",
         "example": "",
-        "abbr_en": "",
+        "abbr_en": "ALL",
         "abbr_fr": "ALL",
         "format": ""
       },
@@ -3039,7 +3039,7 @@
         "instruction_fr": "Documenter uniquement les signes vitaux explicitement mentionnés. Présenter sur une seule ligne ou en format structuré. Inclure : fréquence cardiaque (bpm), tension artérielle (mmHg, avec valeur antérieure entre parenthèses si disponible), température (°C), SpO2 (%), fréquence respiratoire (/min), poids (kg), taille (m), IMC si calculable.",
         "example": "FC : 88 bpm, TA : 148/92 mmHg, T° : 38.2°C, SpO2 : 98%, FR : 16/min, Poids : 72 kg",
         "abbr_en": "VS",
-        "abbr_fr": "",
+        "abbr_fr": "SV",
         "format": ""
       },
       {
@@ -3099,7 +3099,7 @@
         "instruction_fr": "Documenter le prochain rendez-vous prévu avec la date et l'objectif. Inclure les instructions de retour-précaution si données (signes d'alarme justifiant un retour anticipé). Inclure les références et leur niveau d'urgence si mentionné.",
         "example": "",
         "abbr_en": "F/U",
-        "abbr_fr": "",
+        "abbr_fr": "Suivi",
         "format": ""
       },
       {
@@ -3142,7 +3142,7 @@
         "instruction_en": "List all known drug, food, and environmental allergies with the type of reaction when specified. Write \"NKDA\" / \"Aucune allergie connue\" if explicitly stated as none.",
         "instruction_fr": "Lister toutes les allergies médicamenteuses, alimentaires et environnementales connues, avec le type de réaction si précisé. Inscrire \"Aucune allergie connue\" si explicitement mentionné.",
         "example": "",
-        "abbr_en": "",
+        "abbr_en": "ALL",
         "abbr_fr": "ALL",
         "format": ""
       },
@@ -3191,7 +3191,7 @@
         "instruction_fr": "Documenter uniquement les signes vitaux explicitement mentionnés. Présenter sur une seule ligne ou en format structuré. Inclure : fréquence cardiaque (bpm), tension artérielle (mmHg, avec valeur antérieure entre parenthèses si disponible), température (°C), SpO2 (%), fréquence respiratoire (/min), poids (kg), taille (m), IMC si calculable. Pour les notes procédurales, inscrire les signes vitaux pré- et post-intervention dans des sous-sections distinctes.",
         "example": "FC : 88 bpm, TA : 148/92 mmHg (antérieure : 162/98 mmHg), T° : 37.1°C, SpO2 : 97%, FR : 16/min, Poids : 84 kg, Taille : 1.72 m",
         "abbr_en": "VS",
-        "abbr_fr": "",
+        "abbr_fr": "SV",
         "format": ""
       },
       {
@@ -3251,7 +3251,7 @@
         "instruction_fr": "Documenter le prochain rendez-vous prévu avec la date et l'objectif. Inclure les instructions de retour-précaution si données (signes d'alarme justifiant un retour anticipé). Inclure les références et leur niveau d'urgence si mentionné.",
         "example": "",
         "abbr_en": "F/U",
-        "abbr_fr": "",
+        "abbr_fr": "Suivi",
         "format": ""
       }
     ]
@@ -3306,7 +3306,7 @@
         "instruction_en": "List all known drug, food, and environmental allergies with the type of reaction when specified. Write \"NKDA\" / \"Aucune allergie connue\" if explicitly stated as none.",
         "instruction_fr": "Lister toutes les allergies médicamenteuses, alimentaires et environnementales connues, avec le type de réaction si précisé. Inscrire \"Aucune allergie connue\" si explicitement mentionné.",
         "example": "",
-        "abbr_en": "",
+        "abbr_en": "ALL",
         "abbr_fr": "ALL",
         "format": ""
       },
@@ -3366,7 +3366,7 @@
         "instruction_en": "Document tobacco (pack-years, current status), alcohol (drinks/week), recreational drugs, physical activity, diet, sleep, occupation, and living situation. Use concise shorthand. Include pertinent negatives if explicitly stated.",
         "instruction_fr": "Documenter le tabac (paquets-années, statut actuel), l'alcool (consommations/semaine), les drogues récréatives, l'activité physique, l'alimentation, le sommeil, l'occupation et la situation de logement. Utiliser des abréviations concises. Inclure les négatifs pertinents si explicitement mentionnés.",
         "example": "",
-        "abbr_en": "",
+        "abbr_en": "SHx",
         "abbr_fr": "HDV",
         "format": ""
       },
@@ -3415,7 +3415,7 @@
         "instruction_fr": "Documenter uniquement les signes vitaux explicitement mentionnés. Présenter sur une seule ligne ou en format structuré. Inclure : fréquence cardiaque (bpm), tension artérielle (mmHg, avec valeur antérieure entre parenthèses si disponible), température (°C), SpO2 (%), fréquence respiratoire (/min), poids (kg), taille (m), IMC si calculable. Pour les notes procédurales, inscrire les signes vitaux pré- et post-intervention dans des sous-sections distinctes.",
         "example": "FC : 88 bpm, TA : 148/92 mmHg (antérieure : 162/98 mmHg), T° : 37.1°C, SpO2 : 97%, FR : 16/min, Poids : 84 kg, Taille : 1.72 m",
         "abbr_en": "VS",
-        "abbr_fr": "",
+        "abbr_fr": "SV",
         "format": ""
       },
       {
@@ -3475,7 +3475,7 @@
         "instruction_fr": "Documenter le prochain rendez-vous prévu avec la date et l'objectif. Inclure les instructions de retour-précaution si données (signes d'alarme justifiant un retour anticipé). Inclure les références et leur niveau d'urgence si mentionné.",
         "example": "",
         "abbr_en": "F/U",
-        "abbr_fr": "",
+        "abbr_fr": "Suivi",
         "format": ""
       }
     ]
@@ -3507,7 +3507,7 @@
         "instruction_fr": "Documenter uniquement les signes vitaux explicitement mentionnés. Présenter sur une seule ligne ou en format structuré. Inclure : fréquence cardiaque (bpm), tension artérielle (mmHg, avec valeur antérieure entre parenthèses si disponible), température (°C), SpO2 (%), fréquence respiratoire (/min), poids (kg), taille (m), IMC si calculable. Pour les notes procédurales, inscrire les signes vitaux pré- et post-intervention dans des sous-sections distinctes.",
         "example": "FC : 88 bpm, TA : 148/92 mmHg (antérieure : 162/98 mmHg), T° : 37.1°C, SpO2 : 97%, FR : 16/min, Poids : 84 kg, Taille : 1.72 m",
         "abbr_en": "VS",
-        "abbr_fr": "",
+        "abbr_fr": "SV",
         "format": ""
       },
       {
@@ -3591,7 +3591,7 @@
         "instruction_fr": "Documenter le prochain rendez-vous prévu avec la date et l'objectif. Inclure les instructions de retour-précaution si données (signes d'alarme justifiant un retour anticipé). Inclure les références et leur niveau d'urgence si mentionné.",
         "example": "",
         "abbr_en": "F/U",
-        "abbr_fr": "",
+        "abbr_fr": "Suivi",
         "format": ""
       }
     ]
@@ -3658,7 +3658,7 @@
         "instruction_en": "List all known drug, food, and environmental allergies with the type of reaction when specified. Write \"NKDA\" / \"Aucune allergie connue\" if explicitly stated as none.",
         "instruction_fr": "Lister toutes les allergies médicamenteuses, alimentaires et environnementales connues, avec le type de réaction si précisé. Inscrire \"Aucune allergie connue\" si explicitement mentionné.",
         "example": "",
-        "abbr_en": "",
+        "abbr_en": "ALL",
         "abbr_fr": "ALL",
         "format": ""
       },
@@ -3730,7 +3730,7 @@
         "instruction_en": "Document tobacco (pack-years, current status), alcohol (drinks/week), recreational drugs, physical activity, diet, sleep, occupation, and living situation. Use concise shorthand. Include pertinent negatives if explicitly stated.",
         "instruction_fr": "Documenter le tabac (paquets-années, statut actuel), l'alcool (consommations/semaine), les drogues récréatives, l'activité physique, l'alimentation, le sommeil, l'occupation et la situation de logement. Utiliser des abréviations concises. Inclure les négatifs pertinents si explicitement mentionnés.",
         "example": "",
-        "abbr_en": "",
+        "abbr_en": "SHx",
         "abbr_fr": "HDV",
         "format": ""
       },
@@ -3767,7 +3767,7 @@
         "instruction_fr": "Documenter uniquement les signes vitaux explicitement mentionnés. Présenter sur une seule ligne ou en format structuré. Inclure : fréquence cardiaque (bpm), tension artérielle (mmHg, avec valeur antérieure entre parenthèses si disponible), température (°C), SpO2 (%), fréquence respiratoire (/min), poids (kg), taille (m), IMC si calculable.",
         "example": "FC : 88 bpm, TA : 148/92 mmHg (antérieure : 162/98 mmHg), T° : 37.1°C, SpO2 : 97%, FR : 16/min, Poids : 84 kg, Taille : 1.72 m",
         "abbr_en": "VS",
-        "abbr_fr": "",
+        "abbr_fr": "SV",
         "format": ""
       },
       {
@@ -3827,7 +3827,7 @@
         "instruction_fr": "Documenter le prochain rendez-vous prévu avec la date et l'objectif. Inclure les instructions de retour-précaution si données (signes d'alarme justifiant un retour anticipé). Inclure les références et leur niveau d'urgence si mentionné.",
         "example": "",
         "abbr_en": "F/U",
-        "abbr_fr": "",
+        "abbr_fr": "Suivi",
         "format": ""
       },
       {
@@ -3870,7 +3870,7 @@
         "instruction_en": "List all known drug, food, and environmental allergies with the type of reaction when specified. Write \"NKDA\" / \"Aucune allergie connue\" if explicitly stated as none.",
         "instruction_fr": "Lister toutes les allergies médicamenteuses, alimentaires et environnementales connues, avec le type de réaction si précisé. Inscrire \"Aucune allergie connue\" si explicitement mentionné.",
         "example": "",
-        "abbr_en": "",
+        "abbr_en": "ALL",
         "abbr_fr": "ALL",
         "format": ""
       },
@@ -3906,7 +3906,7 @@
         "instruction_en": "Document tobacco (pack-years, current status), alcohol (drinks/week), recreational drugs, physical activity, diet, sleep, occupation, and living situation. Use concise shorthand. Include pertinent negatives if explicitly stated.",
         "instruction_fr": "Documenter le tabac (paquets-années, statut actuel), l'alcool (consommations/semaine), les drogues récréatives, l'activité physique, l'alimentation, le sommeil, l'occupation et la situation de logement. Utiliser des abréviations concises. Inclure les négatifs pertinents si explicitement mentionnés.",
         "example": "",
-        "abbr_en": "",
+        "abbr_en": "SHx",
         "abbr_fr": "HDV",
         "format": ""
       },
@@ -3931,7 +3931,7 @@
         "instruction_fr": "Documenter uniquement les signes vitaux explicitement mentionnés. Présenter sur une seule ligne ou en format structuré. Inclure : fréquence cardiaque (bpm), tension artérielle (mmHg, avec valeur antérieure entre parenthèses si disponible), température (°C), SpO2 (%), fréquence respiratoire (/min), poids (kg), taille (m), IMC si calculable.",
         "example": "FC : 88 bpm, TA : 148/92 mmHg (antérieure : 162/98 mmHg), T° : 37.1°C, SpO2 : 97%, FR : 16/min, Poids : 84 kg, Taille : 1.72 m",
         "abbr_en": "VS",
-        "abbr_fr": "",
+        "abbr_fr": "SV",
         "format": ""
       },
       {
@@ -3991,7 +3991,7 @@
         "instruction_fr": "Documenter le prochain rendez-vous prévu avec la date et l'objectif. Inclure les instructions de retour-précaution si données (signes d'alarme justifiant un retour anticipé). Inclure les références et leur niveau d'urgence si mentionné.",
         "example": "",
         "abbr_en": "F/U",
-        "abbr_fr": "",
+        "abbr_fr": "Suivi",
         "format": ""
       },
       {
@@ -4070,7 +4070,7 @@
         "instruction_en": "List all known drug, food, and environmental allergies with the type of reaction when specified. Write \"NKDA\" / \"Aucune allergie connue\" if explicitly stated as none.",
         "instruction_fr": "Lister toutes les allergies médicamenteuses, alimentaires et environnementales connues, avec le type de réaction si précisé. Inscrire \"Aucune allergie connue\" si explicitement mentionné.",
         "example": "",
-        "abbr_en": "",
+        "abbr_en": "ALL",
         "abbr_fr": "ALL",
         "format": ""
       },
@@ -4142,7 +4142,7 @@
         "instruction_en": "Document tobacco (pack-years, current status), alcohol (drinks/week), recreational drugs, physical activity, diet, sleep, occupation, and living situation. Use concise shorthand. Include pertinent negatives if explicitly stated.",
         "instruction_fr": "Documenter le tabac (paquets-années, statut actuel), l'alcool (consommations/semaine), les drogues récréatives, l'activité physique, l'alimentation, le sommeil, l'occupation et la situation de logement. Utiliser des abréviations concises. Inclure les négatifs pertinents si explicitement mentionnés.",
         "example": "",
-        "abbr_en": "",
+        "abbr_en": "SHx",
         "abbr_fr": "HDV",
         "format": ""
       },
@@ -4191,7 +4191,7 @@
         "instruction_fr": "Documenter uniquement les signes vitaux explicitement mentionnés. Présenter sur une seule ligne ou en format structuré. Inclure : fréquence cardiaque (bpm), tension artérielle (mmHg, avec valeur antérieure entre parenthèses si disponible), température (°C), SpO2 (%), fréquence respiratoire (/min), poids (kg), taille (m), IMC si calculable.",
         "example": "FC : 72 bpm, TA : 138/84 mmHg, T° : 36.7°C, SpO2 : 96%, FR : 14/min, Poids : 63 kg, Taille : 1.64 m",
         "abbr_en": "VS",
-        "abbr_fr": "",
+        "abbr_fr": "SV",
         "format": ""
       },
       {
@@ -4263,7 +4263,7 @@
         "instruction_fr": "Documenter le prochain rendez-vous prévu avec la date et l'objectif. Inclure les instructions de retour-précaution si données (signes d'alarme justifiant un retour anticipé). Inclure les références et leur niveau d'urgence si mentionné.",
         "example": "",
         "abbr_en": "F/U",
-        "abbr_fr": "",
+        "abbr_fr": "Suivi",
         "format": ""
       }
     ]
@@ -4330,7 +4330,7 @@
         "instruction_en": "List all known drug, food, and environmental allergies with the type of reaction when specified. Write \"NKDA\" / \"Aucune allergie connue\" if explicitly stated as none.",
         "instruction_fr": "Lister toutes les allergies médicamenteuses, alimentaires et environnementales connues, avec le type de réaction si précisé. Inscrire \"Aucune allergie connue\" si explicitement mentionné.",
         "example": "",
-        "abbr_en": "",
+        "abbr_en": "ALL",
         "abbr_fr": "ALL",
         "format": ""
       },
@@ -4402,7 +4402,7 @@
         "instruction_en": "Document tobacco (pack-years, current status), alcohol (drinks/week), recreational drugs, physical activity, diet, sleep, occupation, and living situation. Use concise shorthand. Include pertinent negatives if explicitly stated.",
         "instruction_fr": "Documenter le tabac (paquets-années, statut actuel), l'alcool (consommations/semaine), les drogues récréatives, l'activité physique, l'alimentation, le sommeil, l'occupation et la situation de logement. Utiliser des abréviations concises. Inclure les négatifs pertinents si explicitement mentionnés.",
         "example": "",
-        "abbr_en": "",
+        "abbr_en": "SHx",
         "abbr_fr": "HDV",
         "format": ""
       },
@@ -4451,7 +4451,7 @@
         "instruction_fr": "Documenter uniquement les signes vitaux explicitement mentionnés. Présenter sur une seule ligne ou en format structuré. Inclure : fréquence cardiaque (bpm), tension artérielle (mmHg, avec valeur antérieure entre parenthèses si disponible), température (°C), SpO2 (%), fréquence respiratoire (/min), poids (kg), taille (m), IMC si calculable. Pour les notes procédurales, inscrire les signes vitaux pré- et post-intervention dans des sous-sections distinctes.",
         "example": "FC : 88 bpm, TA : 148/92 mmHg (antérieure : 162/98 mmHg), T° : 37.1°C, SpO2 : 97%, FR : 16/min, Poids : 84 kg, Taille : 1.72 m",
         "abbr_en": "VS",
-        "abbr_fr": "",
+        "abbr_fr": "SV",
         "format": ""
       },
       {
@@ -4511,7 +4511,7 @@
         "instruction_fr": "Documenter le prochain rendez-vous prévu avec la date et l'objectif. Inclure les instructions de retour-précaution si données (signes d'alarme justifiant un retour anticipé). Inclure les références et leur niveau d'urgence si mentionné.",
         "example": "",
         "abbr_en": "F/U",
-        "abbr_fr": "",
+        "abbr_fr": "Suivi",
         "format": ""
       }
     ]
@@ -4542,7 +4542,7 @@
         "instruction_en": "List all known drug, food, and environmental allergies with the type of reaction when specified. Write \"NKDA\" / \"Aucune allergie connue\" if explicitly stated as none.",
         "instruction_fr": "Lister toutes les allergies médicamenteuses, alimentaires et environnementales connues, avec le type de réaction si précisé. Inscrire \"Aucune allergie connue\" si explicitement mentionné.",
         "example": "",
-        "abbr_en": "",
+        "abbr_en": "ALL",
         "abbr_fr": "ALL",
         "format": ""
       },
@@ -4579,7 +4579,7 @@
         "instruction_fr": "Documenter uniquement les signes vitaux explicitement mentionnés. Présenter sur une seule ligne ou en format structuré. Inclure : fréquence cardiaque (bpm), tension artérielle (mmHg, avec valeur antérieure entre parenthèses si disponible), température (°C), SpO2 (%), fréquence respiratoire (/min), poids (kg), taille (m), IMC si calculable. Pour les notes procédurales, inscrire les signes vitaux pré- et post-intervention dans des sous-sections distinctes.",
         "example": "FC : 88 bpm, TA : 148/92 mmHg (antérieure : 162/98 mmHg), T° : 37.1°C, SpO2 : 97%, FR : 16/min, Poids : 84 kg, Taille : 1.72 m",
         "abbr_en": "VS",
-        "abbr_fr": "",
+        "abbr_fr": "SV",
         "format": ""
       },
       {
@@ -4639,7 +4639,7 @@
         "instruction_fr": "Documenter le prochain rendez-vous prévu avec la date et l'objectif. Inclure les instructions de retour-précaution si données (signes d'alarme justifiant un retour anticipé). Inclure les références et leur niveau d'urgence si mentionné.",
         "example": "",
         "abbr_en": "F/U",
-        "abbr_fr": "",
+        "abbr_fr": "Suivi",
         "format": ""
       }
     ]
@@ -4706,7 +4706,7 @@
         "instruction_en": "List all known drug, food, and environmental allergies with the type of reaction when specified. Write \"NKDA\" / \"Aucune allergie connue\" if explicitly stated as none.",
         "instruction_fr": "Lister toutes les allergies médicamenteuses, alimentaires et environnementales connues, avec le type de réaction si précisé. Inscrire \"Aucune allergie connue\" si explicitement mentionné.",
         "example": "",
-        "abbr_en": "",
+        "abbr_en": "ALL",
         "abbr_fr": "ALL",
         "format": ""
       },
@@ -4766,7 +4766,7 @@
         "instruction_en": "Document tobacco (pack-years, current status), alcohol (drinks/week), recreational drugs, physical activity, diet, sleep, occupation, and living situation. Use concise shorthand. Include pertinent negatives if explicitly stated.",
         "instruction_fr": "Documenter le tabac (paquets-années, statut actuel), l'alcool (consommations/semaine), les drogues récréatives, l'activité physique, l'alimentation, le sommeil, l'occupation et la situation de logement. Utiliser des abréviations concises. Inclure les négatifs pertinents si explicitement mentionnés.",
         "example": "",
-        "abbr_en": "",
+        "abbr_en": "SHx",
         "abbr_fr": "HDV",
         "format": ""
       },
@@ -4815,7 +4815,7 @@
         "instruction_fr": "Documenter uniquement les signes vitaux explicitement mentionnés. Présenter sur une seule ligne ou en format structuré. Inclure : fréquence cardiaque (bpm), tension artérielle (mmHg, avec valeur antérieure entre parenthèses si disponible), température (°C), SpO2 (%), fréquence respiratoire (/min), poids (kg), taille (m), IMC si calculable. Pour les notes procédurales, inscrire les signes vitaux pré- et post-intervention dans des sous-sections distinctes.",
         "example": "FC : 88 bpm, TA : 148/92 mmHg (antérieure : 162/98 mmHg), T° : 37.1°C, SpO2 : 97%, FR : 16/min, Poids : 84 kg, Taille : 1.72 m",
         "abbr_en": "VS",
-        "abbr_fr": "",
+        "abbr_fr": "SV",
         "format": ""
       },
       {
@@ -4887,7 +4887,7 @@
         "instruction_fr": "Documenter le prochain rendez-vous prévu avec la date et l'objectif. Inclure les instructions de retour-précaution si données (signes d'alarme justifiant un retour anticipé). Inclure les références et leur niveau d'urgence si mentionné.",
         "example": "",
         "abbr_en": "F/U",
-        "abbr_fr": "",
+        "abbr_fr": "Suivi",
         "format": ""
       }
     ]
@@ -4942,7 +4942,7 @@
         "instruction_en": "List all known drug, food, and environmental allergies with the type of reaction when specified. Write \"NKDA\" / \"Aucune allergie connue\" if explicitly stated as none.",
         "instruction_fr": "Lister toutes les allergies médicamenteuses, alimentaires et environnementales connues, avec le type de réaction si précisé. Inscrire \"Aucune allergie connue\" si explicitement mentionné.",
         "example": "",
-        "abbr_en": "",
+        "abbr_en": "ALL",
         "abbr_fr": "ALL",
         "format": ""
       },
@@ -5027,7 +5027,7 @@
         "instruction_fr": "Documenter le prochain rendez-vous prévu avec la date et l'objectif. Inclure les instructions de retour-précaution si données (signes d'alarme justifiant un retour anticipé). Inclure les références et leur niveau d'urgence si mentionné.",
         "example": "",
         "abbr_en": "F/U",
-        "abbr_fr": "",
+        "abbr_fr": "Suivi",
         "format": ""
       }
     ]
@@ -5083,7 +5083,7 @@
         "instruction_fr": "Documenter uniquement les signes vitaux explicitement mentionnés. Présenter sur une seule ligne ou en format structuré. Inclure : fréquence cardiaque (bpm), tension artérielle (mmHg, avec valeur antérieure entre parenthèses si disponible), température (°C), SpO2 (%), fréquence respiratoire (/min), poids (kg), taille (m), IMC si calculable. Pour les notes procédurales, inscrire les signes vitaux pré- et post-intervention dans des sous-sections distinctes.",
         "example": "FC : 88 bpm, TA : 148/92 mmHg (antérieure : 162/98 mmHg), T° : 37.1°C, SpO2 : 97%, FR : 16/min, Poids : 84 kg, Taille : 1.72 m",
         "abbr_en": "VS",
-        "abbr_fr": "",
+        "abbr_fr": "SV",
         "format": ""
       },
       {
@@ -5155,7 +5155,7 @@
         "instruction_fr": "Documenter le prochain rendez-vous prévu avec la date et l'objectif. Inclure les instructions de retour-précaution si données (signes d'alarme justifiant un retour anticipé). Inclure les références et leur niveau d'urgence si mentionné.",
         "example": "",
         "abbr_en": "F/U",
-        "abbr_fr": "",
+        "abbr_fr": "Suivi",
         "format": ""
       }
     ]
@@ -5198,7 +5198,7 @@
         "instruction_en": "List all known drug, food, and environmental allergies with the type of reaction when specified. Write \"NKDA\" / \"Aucune allergie connue\" if explicitly stated as none.",
         "instruction_fr": "Lister toutes les allergies médicamenteuses, alimentaires et environnementales connues, avec le type de réaction si précisé. Inscrire \"Aucune allergie connue\" si explicitement mentionné.",
         "example": "",
-        "abbr_en": "",
+        "abbr_en": "ALL",
         "abbr_fr": "ALL",
         "format": ""
       },
@@ -5258,7 +5258,7 @@
         "instruction_en": "Document tobacco (pack-years, current status), alcohol (drinks/week), recreational drugs, physical activity, diet, sleep, occupation, and living situation. Use concise shorthand. Include pertinent negatives if explicitly stated.",
         "instruction_fr": "Documenter le tabac (paquets-années, statut actuel), l'alcool (consommations/semaine), les drogues récréatives, l'activité physique, l'alimentation, le sommeil, l'occupation et la situation de logement. Utiliser des abréviations concises. Inclure les négatifs pertinents si explicitement mentionnés.",
         "example": "",
-        "abbr_en": "",
+        "abbr_en": "SHx",
         "abbr_fr": "HDV",
         "format": ""
       },
@@ -5295,7 +5295,7 @@
         "instruction_fr": "Documenter uniquement les signes vitaux explicitement mentionnés. Présenter sur une seule ligne ou en format structuré. Inclure : fréquence cardiaque (bpm), tension artérielle (mmHg, avec valeur antérieure entre parenthèses si disponible), température (°C), SpO2 (%), fréquence respiratoire (/min), poids (kg), taille (m), IMC si calculable.",
         "example": "FC : 88 bpm, TA : 148/92 mmHg (antérieure : 162/98 mmHg), T° : 37.1°C, SpO2 : 97%, FR : 16/min, Poids : 84 kg, Taille : 1.72 m",
         "abbr_en": "VS",
-        "abbr_fr": "",
+        "abbr_fr": "SV",
         "format": ""
       },
       {
@@ -5367,7 +5367,7 @@
         "instruction_fr": "Documenter le prochain rendez-vous prévu avec la date et l'objectif. Inclure les instructions de retour-précaution si données (signes d'alarme justifiant un retour anticipé). Inclure les références et leur niveau d'urgence si mentionné.",
         "example": "",
         "abbr_en": "F/U",
-        "abbr_fr": "",
+        "abbr_fr": "Suivi",
         "format": ""
       },
       {
@@ -5410,7 +5410,7 @@
         "instruction_en": "List all known drug, food, and environmental allergies with the type of reaction when specified. Write \"NKDA\" / \"Aucune allergie connue\" if explicitly stated as none.",
         "instruction_fr": "Lister toutes les allergies médicamenteuses, alimentaires et environnementales connues, avec le type de réaction si précisé. Inscrire \"Aucune allergie connue\" si explicitement mentionné.",
         "example": "",
-        "abbr_en": "",
+        "abbr_en": "ALL",
         "abbr_fr": "ALL",
         "format": ""
       },
@@ -5458,7 +5458,7 @@
         "instruction_en": "Document tobacco (pack-years, current status), alcohol (drinks/week), recreational drugs, physical activity, diet, sleep, occupation, and living situation. Use concise shorthand. Include pertinent negatives if explicitly stated.",
         "instruction_fr": "Documenter le tabac (paquets-années, statut actuel), l'alcool (consommations/semaine), les drogues récréatives, l'activité physique, l'alimentation, le sommeil, l'occupation et la situation de logement. Utiliser des abréviations concises. Inclure les négatifs pertinents si explicitement mentionnés.",
         "example": "",
-        "abbr_en": "",
+        "abbr_en": "SHx",
         "abbr_fr": "HDV",
         "format": ""
       },
@@ -5483,7 +5483,7 @@
         "instruction_fr": "Documenter uniquement les signes vitaux explicitement mentionnés. Présenter sur une seule ligne ou en format structuré. Inclure : fréquence cardiaque (bpm), tension artérielle (mmHg, avec valeur antérieure entre parenthèses si disponible), température (°C), SpO2 (%), fréquence respiratoire (/min), poids (kg), taille (m), IMC si calculable.",
         "example": "FC : 72 bpm, TA : 128/80 mmHg (antérieure : 134/84 mmHg), T° : 36.8°C, SpO2 : 98%, Poids : 68 kg",
         "abbr_en": "VS",
-        "abbr_fr": "",
+        "abbr_fr": "SV",
         "format": ""
       },
       {
@@ -5555,7 +5555,7 @@
         "instruction_fr": "Documenter le prochain rendez-vous prévu avec la date et l'objectif. Inclure les instructions de retour-précaution si données (signes d'alarme justifiant un retour anticipé). Inclure les références et leur niveau d'urgence si mentionné.",
         "example": "",
         "abbr_en": "F/U",
-        "abbr_fr": "",
+        "abbr_fr": "Suivi",
         "format": ""
       },
       {
@@ -5610,7 +5610,7 @@
         "instruction_en": "List all known drug, food, and environmental allergies with the type of reaction when specified. Write \"NKDA\" / \"Aucune allergie connue\" if explicitly stated as none.",
         "instruction_fr": "Lister toutes les allergies médicamenteuses, alimentaires et environnementales connues, avec le type de réaction si précisé. Inscrire \"Aucune allergie connue\" si explicitement mentionné.",
         "example": "",
-        "abbr_en": "",
+        "abbr_en": "ALL",
         "abbr_fr": "ALL",
         "format": ""
       },
@@ -5659,7 +5659,7 @@
         "instruction_fr": "Documenter uniquement les signes vitaux explicitement mentionnés. Présenter sur une seule ligne ou en format structuré. Inclure : fréquence cardiaque (bpm), tension artérielle (mmHg, avec valeur antérieure entre parenthèses si disponible), température (°C), SpO2 (%), fréquence respiratoire (/min), poids (kg), taille (m), IMC si calculable.",
         "example": "FC : 72 bpm, TA : 118/76 mmHg, T° : 37.0°C, Poids : 71 kg",
         "abbr_en": "VS",
-        "abbr_fr": "",
+        "abbr_fr": "SV",
         "format": ""
       },
       {
@@ -5719,7 +5719,7 @@
         "instruction_fr": "Documenter le prochain rendez-vous prévu avec la date et l'objectif. Inclure les instructions de retour-précaution si données (signes d'alarme justifiant un retour anticipé). Inclure les références et leur niveau d'urgence si mentionné.",
         "example": "",
         "abbr_en": "F/U",
-        "abbr_fr": "",
+        "abbr_fr": "Suivi",
         "format": ""
       }
     ]
@@ -5762,7 +5762,7 @@
         "instruction_en": "List all known drug, food, and environmental allergies with the type of reaction when specified. Write \"NKDA\" / \"Aucune allergie connue\" if explicitly stated as none.",
         "instruction_fr": "Lister toutes les allergies médicamenteuses, alimentaires et environnementales connues, avec le type de réaction si précisé. Inscrire \"Aucune allergie connue\" si explicitement mentionné.",
         "example": "",
-        "abbr_en": "",
+        "abbr_en": "ALL",
         "abbr_fr": "ALL",
         "format": ""
       },
@@ -5834,7 +5834,7 @@
         "instruction_en": "Document tobacco (pack-years, current status), alcohol (drinks/week), recreational drugs, physical activity, diet, sleep, occupation, and living situation. Use concise shorthand. Include pertinent negatives if explicitly stated.",
         "instruction_fr": "Documenter le tabac (paquets-années, statut actuel), l'alcool (consommations/semaine), les drogues récréatives, l'activité physique, l'alimentation, le sommeil, l'occupation et la situation de logement. Utiliser des abréviations concises. Inclure les négatifs pertinents si explicitement mentionnés.",
         "example": "",
-        "abbr_en": "",
+        "abbr_en": "SHx",
         "abbr_fr": "HDV",
         "format": ""
       },
@@ -5871,7 +5871,7 @@
         "instruction_fr": "Documenter uniquement les signes vitaux explicitement mentionnés. Présenter sur une seule ligne ou en format structuré. Inclure : fréquence cardiaque (bpm), tension artérielle (mmHg, avec valeur antérieure entre parenthèses si disponible), température (°C), SpO2 (%), fréquence respiratoire (/min), poids (kg), taille (m), IMC si calculable.",
         "example": "FC : 78 bpm, TA : 122/78 mmHg, T° : 36.8°C, SpO2 : 98%, Poids : 72 kg, Taille : 1.68 m",
         "abbr_en": "VS",
-        "abbr_fr": "",
+        "abbr_fr": "SV",
         "format": ""
       },
       {
@@ -5943,7 +5943,7 @@
         "instruction_fr": "Documenter le prochain rendez-vous prévu avec la date et l'objectif. Inclure les instructions de retour-précaution si données (signes d'alarme justifiant un retour anticipé). Inclure les références et leur niveau d'urgence si mentionné.",
         "example": "",
         "abbr_en": "F/U",
-        "abbr_fr": "",
+        "abbr_fr": "Suivi",
         "format": ""
       }
     ]
@@ -5974,7 +5974,7 @@
         "instruction_en": "List all known drug, food, and environmental allergies with the type of reaction when specified. Write \"NKDA\" / \"Aucune allergie connue\" if explicitly stated as none.",
         "instruction_fr": "Lister toutes les allergies médicamenteuses, alimentaires et environnementales connues, avec le type de réaction si précisé. Inscrire \"Aucune allergie connue\" si explicitement mentionné.",
         "example": "",
-        "abbr_en": "",
+        "abbr_en": "ALL",
         "abbr_fr": "ALL",
         "format": ""
       },
@@ -6047,7 +6047,7 @@
         "instruction_fr": "Documenter uniquement les signes vitaux explicitement mentionnés. Présenter sur une seule ligne ou en format structuré. Inclure : fréquence cardiaque (bpm), tension artérielle (mmHg, avec valeur antérieure entre parenthèses si disponible), température (°C), SpO2 (%), fréquence respiratoire (/min), poids (kg), taille (m), IMC si calculable.",
         "example": "FC : 78 bpm, TA : 110/68 mmHg, T° : 36.8°C, Poids : 32 kg, Taille : 1.38 m",
         "abbr_en": "VS",
-        "abbr_fr": "",
+        "abbr_fr": "SV",
         "format": ""
       },
       {
@@ -6107,7 +6107,7 @@
         "instruction_fr": "Documenter le prochain rendez-vous prévu avec la date et l'objectif. Inclure les instructions de retour-précaution si données (signes d'alarme justifiant un retour anticipé). Inclure les références et leur niveau d'urgence si mentionné.",
         "example": "",
         "abbr_en": "F/U",
-        "abbr_fr": "",
+        "abbr_fr": "Suivi",
         "format": ""
       },
       {
@@ -6162,7 +6162,7 @@
         "instruction_en": "List all known drug, food, and environmental allergies with the type of reaction when specified. Write \"NKDA\" / \"Aucune allergie connue\" if explicitly stated as none.",
         "instruction_fr": "Lister toutes les allergies médicamenteuses, alimentaires et environnementales connues, avec le type de réaction si précisé. Inscrire \"Aucune allergie connue\" si explicitement mentionné.",
         "example": "",
-        "abbr_en": "",
+        "abbr_en": "ALL",
         "abbr_fr": "ALL",
         "format": ""
       },
@@ -6222,7 +6222,7 @@
         "instruction_en": "Document tobacco (pack-years, current status), alcohol (drinks/week), recreational drugs, physical activity, diet, sleep, occupation, and living situation. Use concise shorthand. Include pertinent negatives if explicitly stated.",
         "instruction_fr": "Documenter le tabac (paquets-années, statut actuel), l'alcool (consommations/semaine), les drogues récréatives, l'activité physique, l'alimentation, le sommeil, l'occupation et la situation de logement. Utiliser des abréviations concises. Inclure les négatifs pertinents si explicitement mentionnés.",
         "example": "",
-        "abbr_en": "",
+        "abbr_en": "SHx",
         "abbr_fr": "HDV",
         "format": ""
       },
@@ -6307,7 +6307,7 @@
         "instruction_fr": "Documenter uniquement les signes vitaux explicitement mentionnés. Présenter sur une seule ligne ou en format structuré. Inclure : fréquence cardiaque (bpm), tension artérielle (mmHg, avec valeur antérieure entre parenthèses si disponible), température (°C), SpO2 (%), fréquence respiratoire (/min), poids (kg), taille (m), IMC si calculable.",
         "example": "FC : 92 bpm, TA : 104/68 mmHg, T° : 36.8°C, SpO2 : 99%, Poids : 32 kg, Taille : 1.38 m",
         "abbr_en": "VS",
-        "abbr_fr": "",
+        "abbr_fr": "SV",
         "format": ""
       },
       {
@@ -6379,7 +6379,7 @@
         "instruction_fr": "Documenter le prochain rendez-vous prévu avec la date et l'objectif. Inclure les instructions de retour-précaution si données (signes d'alarme justifiant un retour anticipé). Inclure les références et leur niveau d'urgence si mentionné.",
         "example": "",
         "abbr_en": "F/U",
-        "abbr_fr": "",
+        "abbr_fr": "Suivi",
         "format": ""
       }
     ]
@@ -6459,7 +6459,7 @@
         "instruction_en": "<OMIT this entire section if allergies not discussed - NO \"(Omis)\" explanations>\n<If \"no allergies\": write \"NKDA\" or \"Aucune allergie connue\">\n<If specific allergies: list them>",
         "instruction_fr": "<OMIT this entire section if allergies not discussed - NO \"(Omis)\" explanations>\n<If \"no allergies\": write \"NKDA\" or \"Aucune allergie connue\">\n<If specific allergies: list them>",
         "example": "",
-        "abbr_en": "",
+        "abbr_en": "ALL",
         "abbr_fr": "ALL",
         "format": ""
       },
@@ -6532,7 +6532,7 @@
         "instruction_fr": "<Include only if explicit date/timing stated>\n<\"Revoir pour résultats [test]\" if test ordered>",
         "example": "",
         "abbr_en": "F/U",
-        "abbr_fr": "",
+        "abbr_fr": "Suivi",
         "format": ""
       }
     ]
@@ -6576,7 +6576,7 @@
         "instruction_en": "<List drug/food/environmental allergies>",
         "instruction_fr": "<List drug/food/environmental allergies>",
         "example": "",
-        "abbr_en": "",
+        "abbr_en": "ALL",
         "abbr_fr": "ALL",
         "format": ""
       },
@@ -6661,7 +6661,7 @@
         "instruction_fr": "<ONLY mention vital signs EXPLICITLY stated in transcript>\n<Present all on single line: BP, HR, RR, Temp, SpO2, Height, Weight, BMI>\n<Write concisely, no full sentences or placeholders>",
         "example": "",
         "abbr_en": "VS",
-        "abbr_fr": "",
+        "abbr_fr": "SV",
         "format": ""
       },
       {
@@ -6733,7 +6733,7 @@
         "instruction_fr": "<Next appointment: Timing and purpose>\n<Earlier return if: Warning signs>",
         "example": "",
         "abbr_en": "F/U",
-        "abbr_fr": "",
+        "abbr_fr": "Suivi",
         "format": ""
       }
     ]
@@ -6850,7 +6850,7 @@
         "instruction_fr": "<BP, HR, Temp, SpO2, Weight, Height, BMI - all on single line>",
         "example": "",
         "abbr_en": "VS",
-        "abbr_fr": "",
+        "abbr_fr": "SV",
         "format": ""
       },
       {
@@ -6898,7 +6898,7 @@
         "instruction_fr": "<Timing and purpose of next appointment>",
         "example": "",
         "abbr_en": "F/U",
-        "abbr_fr": "",
+        "abbr_fr": "Suivi",
         "format": ""
       }
     ]
@@ -7027,7 +7027,7 @@
         "instruction_fr": "<Only include if explicit date/timing stated>\n<\"Revoir pour résultats [test]\" if test ordered>",
         "example": "",
         "abbr_en": "F/U",
-        "abbr_fr": "",
+        "abbr_fr": "Suivi",
         "format": ""
       }
     ]
@@ -7173,7 +7173,7 @@
         "instruction_en": "<Si aucune allergie est explicitement mentionnée : Aucune allergie connue>\n<Si allergies spécifiques : copier exactement allergène et réaction si disponibles>\n<Omettre entièrement si non discuté>",
         "instruction_fr": "<Si aucune allergie est explicitement mentionnée : Aucune allergie connue>\n<Si allergies spécifiques : copier exactement allergène et réaction si disponibles>\n<Omettre entièrement si non discuté>",
         "example": "",
-        "abbr_en": "",
+        "abbr_en": "ALL",
         "abbr_fr": "ALL",
         "format": ""
       },
