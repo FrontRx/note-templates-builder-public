@@ -2,6 +2,13 @@
   {
     "path": "templates/allergy_and_immunology/initial-evaluation.md",
     "specialty": "Allergy and Immunology",
+    "roles": [
+      "physician",
+      "medical_resident",
+      "medical_student",
+      "physician_assistant",
+      "nurse_practitioner"
+    ],
     "title_en": "Initial evaluation",
     "title_fr": "Consultation initiale",
     "sections": [
@@ -226,6 +233,13 @@
   {
     "path": "templates/critical_care/icu-1-0.md",
     "specialty": "Critical Care",
+    "roles": [
+      "physician",
+      "medical_resident",
+      "medical_student",
+      "physician_assistant",
+      "nurse_practitioner"
+    ],
     "title_en": "ICU 1.0",
     "title_fr": "USI note clinique 1.0",
     "sections": [
@@ -390,6 +404,13 @@
   {
     "path": "templates/documents-administrative/minutes.md",
     "specialty": "Administrative",
+    "roles": [
+      "physician",
+      "medical_resident",
+      "medical_student",
+      "physician_assistant",
+      "nurse_practitioner"
+    ],
     "title_en": "Minutes",
     "title_fr": "Procès Verbal",
     "sections": [
@@ -470,6 +491,13 @@
   {
     "path": "templates/documents-administrative/summary.md",
     "specialty": "Administrative",
+    "roles": [
+      "physician",
+      "medical_resident",
+      "medical_student",
+      "physician_assistant",
+      "nurse_practitioner"
+    ],
     "title_en": "Summary",
     "title_fr": "Note résumé",
     "sections": [
@@ -526,6 +554,13 @@
   {
     "path": "templates/documents-formal_dictation/verbatim-dictation-2.md",
     "specialty": "Formal Dictation",
+    "roles": [
+      "physician",
+      "medical_resident",
+      "medical_student",
+      "physician_assistant",
+      "nurse_practitioner"
+    ],
     "title_en": "Verbatim dictation",
     "title_fr": "Dictée mot pour mot Radiologie",
     "sections": []
@@ -533,6 +568,13 @@
   {
     "path": "templates/documents-formal_dictation/verbatim-dictation.md",
     "specialty": "Formal Dictation",
+    "roles": [
+      "physician",
+      "medical_resident",
+      "medical_student",
+      "physician_assistant",
+      "nurse_practitioner"
+    ],
     "title_en": "Verbatim dictation",
     "title_fr": "Dictée mot pour mot",
     "sections": []
@@ -540,6 +582,13 @@
   {
     "path": "templates/documents-medico_legal_expertise/expertise-1-0.md",
     "specialty": "Medico-Legal Expertise",
+    "roles": [
+      "physician",
+      "medical_resident",
+      "medical_student",
+      "physician_assistant",
+      "nurse_practitioner"
+    ],
     "title_en": "Expertise 1.0",
     "title_fr": "Expertise 1.0",
     "sections": [
@@ -800,6 +849,13 @@
   {
     "path": "templates/documents-patient_and_professional_communication/professionnal-summary.md",
     "specialty": "Patient and Professional Communication",
+    "roles": [
+      "physician",
+      "medical_resident",
+      "medical_student",
+      "physician_assistant",
+      "nurse_practitioner"
+    ],
     "title_en": "Professionnal summary",
     "title_fr": "Résumé pour professionnel 1.0",
     "sections": [
@@ -820,6 +876,13 @@
   {
     "path": "templates/documents-patient_and_professional_communication/resume-medical-general.md",
     "specialty": "Patient and Professional Communication",
+    "roles": [
+      "physician",
+      "medical_resident",
+      "medical_student",
+      "physician_assistant",
+      "nurse_practitioner"
+    ],
     "title_en": "Résumé médical général",
     "title_fr": "Résumé médical général",
     "sections": [
@@ -972,6 +1035,13 @@
   {
     "path": "templates/documents-patient_and_professional_communication/resume-pour-patient-court.md",
     "specialty": "Patient and Professional Communication",
+    "roles": [
+      "physician",
+      "medical_resident",
+      "medical_student",
+      "physician_assistant",
+      "nurse_practitioner"
+    ],
     "title_en": "Résumé pour patient Court",
     "title_fr": "Résumé pour patient Court",
     "sections": [
@@ -992,6 +1062,13 @@
   {
     "path": "templates/documents-patient_and_professional_communication/resume-pour-patient-detaille.md",
     "specialty": "Patient and Professional Communication",
+    "roles": [
+      "physician",
+      "medical_resident",
+      "medical_student",
+      "physician_assistant",
+      "nurse_practitioner"
+    ],
     "title_en": "Résumé pour patient détaillé",
     "title_fr": "Résumé pour patient détaillé",
     "sections": []
@@ -999,6 +1076,13 @@
   {
     "path": "templates/emergency_medicine/coordinator-note-transfert-note.md",
     "specialty": "Emergency Medicine",
+    "roles": [
+      "physician",
+      "medical_resident",
+      "medical_student",
+      "physician_assistant",
+      "nurse_practitioner"
+    ],
     "title_en": "Coordinator note/Transfert note",
     "title_fr": "Note coordo/PEC de transfert",
     "sections": [
@@ -1163,6 +1247,13 @@
   {
     "path": "templates/emergency_medicine/follow-up.md",
     "specialty": "Emergency Medicine",
+    "roles": [
+      "physician",
+      "medical_resident",
+      "medical_student",
+      "physician_assistant",
+      "nurse_practitioner"
+    ],
     "title_en": "Follow-up",
     "title_fr": "Suivi",
     "sections": [
@@ -1315,6 +1406,13 @@
   {
     "path": "templates/emergency_medicine/initial-note.md",
     "specialty": "Emergency Medicine",
+    "roles": [
+      "physician",
+      "medical_resident",
+      "medical_student",
+      "physician_assistant",
+      "nurse_practitioner"
+    ],
     "title_en": "Initial note",
     "title_fr": "Note initiale",
     "sections": [
@@ -1539,6 +1637,13 @@
   {
     "path": "templates/emergency_medicine/initial-psychiatric-note.md",
     "specialty": "Emergency Medicine",
+    "roles": [
+      "physician",
+      "medical_resident",
+      "medical_student",
+      "physician_assistant",
+      "nurse_practitioner"
+    ],
     "title_en": "Initial psychiatric note",
     "title_fr": "Note initiale psychiatrique",
     "sections": [
@@ -1775,6 +1880,13 @@
   {
     "path": "templates/emergency_medicine/resuscitation-note.md",
     "specialty": "Emergency Medicine",
+    "roles": [
+      "physician",
+      "medical_resident",
+      "medical_student",
+      "physician_assistant",
+      "nurse_practitioner"
+    ],
     "title_en": "Resuscitation note",
     "title_fr": "Note réanimation",
     "sections": [
@@ -1927,6 +2039,13 @@
   {
     "path": "templates/emergency_medicine/technical-note-procedural-note.md",
     "specialty": "Emergency Medicine",
+    "roles": [
+      "physician",
+      "medical_resident",
+      "medical_student",
+      "physician_assistant",
+      "nurse_practitioner"
+    ],
     "title_en": "Technical note/ Procedural note",
     "title_fr": "Note technique/Procédurale",
     "sections": [
@@ -2019,6 +2138,13 @@
   {
     "path": "templates/family_medicine/office-multiple-complaints-emr.md",
     "specialty": "Family Medicine",
+    "roles": [
+      "physician",
+      "medical_resident",
+      "medical_student",
+      "physician_assistant",
+      "nurse_practitioner"
+    ],
     "title_en": "Office/Multiple complaints EMR",
     "title_fr": "Bureau/Multi plaintes DME",
     "sections": [
@@ -2171,6 +2297,13 @@
   {
     "path": "templates/family_medicine/office-multiple-complaints.md",
     "specialty": "Family Medicine",
+    "roles": [
+      "physician",
+      "medical_resident",
+      "medical_student",
+      "physician_assistant",
+      "nurse_practitioner"
+    ],
     "title_en": "Office/Multiple complaints",
     "title_fr": "Bureau/Multi plaintes",
     "sections": [
@@ -2347,6 +2480,13 @@
   {
     "path": "templates/family_medicine/phone-follow-up-emr.md",
     "specialty": "Family Medicine",
+    "roles": [
+      "physician",
+      "medical_resident",
+      "medical_student",
+      "physician_assistant",
+      "nurse_practitioner"
+    ],
     "title_en": "Phone follow-up EMR",
     "title_fr": "Suivi téléphonique DME",
     "sections": [
@@ -2475,6 +2615,13 @@
   {
     "path": "templates/family_medicine/phone-follow-up.md",
     "specialty": "Family Medicine",
+    "roles": [
+      "physician",
+      "medical_resident",
+      "medical_student",
+      "physician_assistant",
+      "nurse_practitioner"
+    ],
     "title_en": "Phone follow-up",
     "title_fr": "Suivi téléphonique",
     "sections": [
@@ -2591,6 +2738,13 @@
   {
     "path": "templates/family_medicine/psychiatric-note-emr.md",
     "specialty": "Family Medicine",
+    "roles": [
+      "physician",
+      "medical_resident",
+      "medical_student",
+      "physician_assistant",
+      "nurse_practitioner"
+    ],
     "title_en": "Psychiatric note EMR",
     "title_fr": "Note psychiatrique DME",
     "sections": [
@@ -2743,6 +2897,13 @@
   {
     "path": "templates/family_medicine/psychiatric-note.md",
     "specialty": "Family Medicine",
+    "roles": [
+      "physician",
+      "medical_resident",
+      "medical_student",
+      "physician_assistant",
+      "nurse_practitioner"
+    ],
     "title_en": "Psychiatric note",
     "title_fr": "Note psychiatrique",
     "sections": [
@@ -2979,6 +3140,13 @@
   {
     "path": "templates/family_medicine/walk-in-note-single-complaint-emr.md",
     "specialty": "Family Medicine",
+    "roles": [
+      "physician",
+      "medical_resident",
+      "medical_student",
+      "physician_assistant",
+      "nurse_practitioner"
+    ],
     "title_en": "Walk in note/Single complaint EMR",
     "title_fr": "Srv/Monoplainte DME",
     "sections": [
@@ -3119,6 +3287,13 @@
   {
     "path": "templates/family_medicine/walk-in-note-single-complaint.md",
     "specialty": "Family Medicine",
+    "roles": [
+      "physician",
+      "medical_resident",
+      "medical_student",
+      "physician_assistant",
+      "nurse_practitioner"
+    ],
     "title_en": "Walk in note/Single complaint",
     "title_fr": "Srv/Monoplainte",
     "sections": [
@@ -3259,6 +3434,13 @@
   {
     "path": "templates/general_specialty_consultation/admission-hospital-consultation.md",
     "specialty": "General Specialty Consultation",
+    "roles": [
+      "physician",
+      "medical_resident",
+      "medical_student",
+      "physician_assistant",
+      "nurse_practitioner"
+    ],
     "title_en": "Admission / Hospital Consultation",
     "title_fr": "Hôpital - Consultation/admission",
     "sections": [
@@ -3483,6 +3665,13 @@
   {
     "path": "templates/general_specialty_consultation/follow-up-note-admitted.md",
     "specialty": "General Specialty Consultation",
+    "roles": [
+      "physician",
+      "medical_resident",
+      "medical_student",
+      "physician_assistant",
+      "nurse_practitioner"
+    ],
     "title_en": "Follow-up note admitted",
     "title_fr": "Hôpital - Suivi de consultation",
     "sections": [
@@ -3599,6 +3788,13 @@
   {
     "path": "templates/general_specialty_consultation/outpatient-consultation.md",
     "specialty": "General Specialty Consultation",
+    "roles": [
+      "physician",
+      "medical_resident",
+      "medical_student",
+      "physician_assistant",
+      "nurse_practitioner"
+    ],
     "title_en": "Outpatient consultation",
     "title_fr": "Clinique externe - Nouvelle consultation",
     "sections": [
@@ -3847,6 +4043,13 @@
   {
     "path": "templates/general_specialty_consultation/outpatient-follow-up.md",
     "specialty": "General Specialty Consultation",
+    "roles": [
+      "physician",
+      "medical_resident",
+      "medical_student",
+      "physician_assistant",
+      "nurse_practitioner"
+    ],
     "title_en": "Outpatient follow-up",
     "title_fr": "Clinique externe - Suivi",
     "sections": [
@@ -4011,6 +4214,13 @@
   {
     "path": "templates/geriatric_medicine/initial-evaluation.md",
     "specialty": "Geriatric Medicine",
+    "roles": [
+      "physician",
+      "medical_resident",
+      "medical_student",
+      "physician_assistant",
+      "nurse_practitioner"
+    ],
     "title_en": "Initial evaluation",
     "title_fr": "Évaluation initiale",
     "sections": [
@@ -4271,6 +4481,13 @@
   {
     "path": "templates/internal_medicine_hospital_medicine/admission.md",
     "specialty": "Internal Medicine - Hospital Medicine",
+    "roles": [
+      "physician",
+      "medical_resident",
+      "medical_student",
+      "physician_assistant",
+      "nurse_practitioner"
+    ],
     "title_en": "Admission",
     "title_fr": "Admission",
     "sections": [
@@ -4519,6 +4736,13 @@
   {
     "path": "templates/internal_medicine_hospital_medicine/follow-up.md",
     "specialty": "Internal Medicine - Hospital Medicine",
+    "roles": [
+      "physician",
+      "medical_resident",
+      "medical_student",
+      "physician_assistant",
+      "nurse_practitioner"
+    ],
     "title_en": "Follow-up",
     "title_fr": "Suivi",
     "sections": [
@@ -4647,6 +4871,13 @@
   {
     "path": "templates/neurology/admission-hospital-consultation.md",
     "specialty": "Neurology",
+    "roles": [
+      "physician",
+      "medical_resident",
+      "medical_student",
+      "physician_assistant",
+      "nurse_practitioner"
+    ],
     "title_en": "Admission / Hospital Consultation",
     "title_fr": "Hôpital - Consultation/admission",
     "sections": [
@@ -4895,6 +5126,13 @@
   {
     "path": "templates/neurology/emg.md",
     "specialty": "Neurology",
+    "roles": [
+      "physician",
+      "medical_resident",
+      "medical_student",
+      "physician_assistant",
+      "nurse_practitioner"
+    ],
     "title_en": "EMG",
     "title_fr": "EMG",
     "sections": [
@@ -5035,6 +5273,13 @@
   {
     "path": "templates/neurology/follow-up-note-admitted.md",
     "specialty": "Neurology",
+    "roles": [
+      "physician",
+      "medical_resident",
+      "medical_student",
+      "physician_assistant",
+      "nurse_practitioner"
+    ],
     "title_en": "Follow-up note admitted",
     "title_fr": "Hôpital - Suivi de consultation",
     "sections": [
@@ -5163,6 +5408,13 @@
   {
     "path": "templates/neurology/outpatient-consultation.md",
     "specialty": "Neurology",
+    "roles": [
+      "physician",
+      "medical_resident",
+      "medical_student",
+      "physician_assistant",
+      "nurse_practitioner"
+    ],
     "title_en": "Outpatient consultation",
     "title_fr": "Clinique externe - Nouvelle consultation",
     "sections": [
@@ -5387,6 +5639,13 @@
   {
     "path": "templates/neurology/outpatient-follow-up.md",
     "specialty": "Neurology",
+    "roles": [
+      "physician",
+      "medical_resident",
+      "medical_student",
+      "physician_assistant",
+      "nurse_practitioner"
+    ],
     "title_en": "Outpatient follow-up",
     "title_fr": "Clinique externe - Suivi",
     "sections": [
@@ -5575,6 +5834,13 @@
   {
     "path": "templates/psychiatry/follow-up-note.md",
     "specialty": "Psychiatry",
+    "roles": [
+      "physician",
+      "medical_resident",
+      "medical_student",
+      "physician_assistant",
+      "nurse_practitioner"
+    ],
     "title_en": "Follow-up note",
     "title_fr": "Note de suivi",
     "sections": [
@@ -5727,6 +5993,13 @@
   {
     "path": "templates/psychiatry/initial-evaluation.md",
     "specialty": "Psychiatry",
+    "roles": [
+      "physician",
+      "medical_resident",
+      "medical_student",
+      "physician_assistant",
+      "nurse_practitioner"
+    ],
     "title_en": "Initial evaluation",
     "title_fr": "Consultation initiale",
     "sections": [
@@ -5951,6 +6224,13 @@
   {
     "path": "templates/psychiatry_child_and_adolescent/follow-up-note.md",
     "specialty": "Psychiatry - Child and Adolescent",
+    "roles": [
+      "physician",
+      "medical_resident",
+      "medical_student",
+      "physician_assistant",
+      "nurse_practitioner"
+    ],
     "title_en": "Follow-up note",
     "title_fr": "Note de suivi",
     "sections": [
@@ -6127,6 +6407,13 @@
   {
     "path": "templates/psychiatry_child_and_adolescent/initial-evaluation.md",
     "specialty": "Psychiatry - Child and Adolescent",
+    "roles": [
+      "physician",
+      "medical_resident",
+      "medical_student",
+      "physician_assistant",
+      "nurse_practitioner"
+    ],
     "title_en": "Initial evaluation",
     "title_fr": "Évaluation initiale",
     "sections": [
@@ -6387,6 +6674,13 @@
   {
     "path": "aiscribe/cardiology_consult_note.md",
     "specialty": "AI Scribe Library",
+    "roles": [
+      "physician",
+      "medical_resident",
+      "medical_student",
+      "physician_assistant",
+      "nurse_practitioner"
+    ],
     "format": "scribe",
     "title_en": "Cardiology Consult Note",
     "title_fr": "Cardiology Consult Note",
@@ -6540,6 +6834,13 @@
   {
     "path": "aiscribe/global_SOAP_consult_note.md",
     "specialty": "AI Scribe Library",
+    "roles": [
+      "physician",
+      "medical_resident",
+      "medical_student",
+      "physician_assistant",
+      "nurse_practitioner"
+    ],
     "format": "scribe",
     "title_en": "Global Soap Consult Note",
     "title_fr": "Global Soap Consult Note",
@@ -6741,6 +7042,13 @@
   {
     "path": "aiscribe/global_problem_oriented_note.md",
     "specialty": "AI Scribe Library",
+    "roles": [
+      "physician",
+      "medical_resident",
+      "medical_student",
+      "physician_assistant",
+      "nurse_practitioner"
+    ],
     "format": "scribe",
     "title_en": "Global Problem Oriented Note",
     "title_fr": "Global Problem Oriented Note",
@@ -6906,6 +7214,13 @@
   {
     "path": "aiscribe/global_progress_note.md",
     "specialty": "AI Scribe Library",
+    "roles": [
+      "physician",
+      "medical_resident",
+      "medical_student",
+      "physician_assistant",
+      "nurse_practitioner"
+    ],
     "format": "scribe",
     "title_en": "Global Progress Note",
     "title_fr": "Global Progress Note",
@@ -7035,6 +7350,13 @@
   {
     "path": "aiscribe/global_test_result.md",
     "specialty": "AI Scribe Library",
+    "roles": [
+      "physician",
+      "medical_resident",
+      "medical_student",
+      "physician_assistant",
+      "nurse_practitioner"
+    ],
     "format": "scribe",
     "title_en": "Global Test Result",
     "title_fr": "Global Test Result",
@@ -7056,6 +7378,13 @@
   {
     "path": "aiscribe/operative_note.md",
     "specialty": "AI Scribe Library",
+    "roles": [
+      "physician",
+      "medical_resident",
+      "medical_student",
+      "physician_assistant",
+      "nurse_practitioner"
+    ],
     "format": "scribe",
     "title_en": "Operative Note",
     "title_fr": "Operative Note",
@@ -7113,6 +7442,13 @@
   {
     "path": "aiscribe/suivi_mdf_frontrx_v3.md",
     "specialty": "AI Scribe Library",
+    "roles": [
+      "physician",
+      "medical_resident",
+      "medical_student",
+      "physician_assistant",
+      "nurse_practitioner"
+    ],
     "format": "scribe",
     "title_en": "Suivi Mdf Frontrx V3",
     "title_fr": "Suivi Mdf Frontrx V3",
@@ -7302,6 +7638,13 @@
   {
     "path": "aiscribe/test_template.md",
     "specialty": "AI Scribe Library",
+    "roles": [
+      "physician",
+      "medical_resident",
+      "medical_student",
+      "physician_assistant",
+      "nurse_practitioner"
+    ],
     "format": "scribe",
     "title_en": "Test Template",
     "title_fr": "Test Template",
@@ -7395,6 +7738,9 @@
   {
     "path": "templates/allied-physiotherapy/_specialty_master.md",
     "specialty": "Physiotherapy",
+    "roles": [
+      "physiotherapist"
+    ],
     "title_en": "Physiotherapy note",
     "title_fr": "Note de physiothérapie",
     "sections": [
@@ -7595,6 +7941,9 @@
   {
     "path": "templates/allied-occupational_therapy/_specialty_master.md",
     "specialty": "Occupational Therapy",
+    "roles": [
+      "occupational_therapist"
+    ],
     "title_en": "Occupational therapy note",
     "title_fr": "Note d'ergothérapie",
     "sections": [
@@ -7759,6 +8108,9 @@
   {
     "path": "templates/allied-social_work/_specialty_master.md",
     "specialty": "Social Work",
+    "roles": [
+      "social_worker"
+    ],
     "title_en": "Social work note",
     "title_fr": "Note en travail social",
     "sections": [
@@ -7899,6 +8251,9 @@
   {
     "path": "templates/allied-psychology/_specialty_master.md",
     "specialty": "Psychology",
+    "roles": [
+      "psychologist"
+    ],
     "title_en": "Psychology note",
     "title_fr": "Note en psychologie",
     "sections": [
@@ -8075,6 +8430,10 @@
   {
     "path": "templates/allied-dietetics_nutrition/_specialty_master.md",
     "specialty": "Dietetics and Nutrition",
+    "roles": [
+      "dietitian",
+      "nutritionist"
+    ],
     "title_en": "Nutrition note",
     "title_fr": "Note en nutrition",
     "sections": [
@@ -8251,6 +8610,10 @@
   {
     "path": "templates/allied-pharmacy/_specialty_master.md",
     "specialty": "Pharmacy",
+    "roles": [
+      "pharmacist",
+      "prescriber_pharmacist"
+    ],
     "title_en": "Pharmacist consultation note",
     "title_fr": "Note de consultation pharmaceutique",
     "sections": [
@@ -8391,6 +8754,9 @@
   {
     "path": "templates/allied-speech_language_pathology/_specialty_master.md",
     "specialty": "Speech-Language Pathology",
+    "roles": [
+      "speech_language_pathologist"
+    ],
     "title_en": "Speech-language pathology note",
     "title_fr": "Note d'orthophonie",
     "sections": [
@@ -8543,6 +8909,9 @@
   {
     "path": "templates/allied-respiratory_therapy/_specialty_master.md",
     "specialty": "Respiratory Therapy",
+    "roles": [
+      "respiratory_therapist"
+    ],
     "title_en": "Respiratory therapy note",
     "title_fr": "Note d'inhalothérapie",
     "sections": [
@@ -8719,6 +9088,9 @@
   {
     "path": "templates/allied-chiropractic/_specialty_master.md",
     "specialty": "Chiropractic",
+    "roles": [
+      "chiropractor"
+    ],
     "title_en": "Chiropractic note",
     "title_fr": "Note de chiropratique",
     "sections": [
