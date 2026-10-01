@@ -5,6 +5,16 @@ Data files read by the physician app's note template builder (`webapp-physician-
 - `builder-headers.json`: the header library, one entry per section a physician can add.
 - `builder-templates.json`: ready-made templates grouped by specialty, each a list of sections in the same shape.
 
+## Template fields
+
+| field | meaning |
+|---|---|
+| `path` | Source file in `FrontRx-Physician-Templates`. |
+| `specialty` | Display group in the library (`Family Medicine`, `Physiotherapy`, ...). |
+| `roles` | Audience: the backend `workplace_role` ids (`api-billr` `models/user.go`, `users.workplace_role`) the template is written for. Physician-corpus templates list `physician`, `medical_resident`, `medical_student`, `physician_assistant`, `nurse_practitioner`; allied-health templates list their profession (`physiotherapist`, `dietitian` + `nutritionist`, ...). Mirrors `roles.json` in `FrontRx-Physician-Templates`. `social_worker`, `speech_language_pathologist`, `respiratory_therapist` and `chiropractor` are not backend roles yet. Clients filter the library on the signed-in user's role with this field; until they do, every user sees every template. |
+| `title_en`, `title_fr` | Template name in each language. |
+| `sections` | Ordered sections, see below. |
+
 ## Section fields
 
 | field | meaning |
