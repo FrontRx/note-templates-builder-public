@@ -9239,5 +9239,347 @@
         "format": ""
       }
     ]
+  },
+  {
+    "path": "aiscribe/general_consult_note.md",
+    "specialty": "General Medicine",
+    "roles": [
+      "physician",
+      "medical_resident",
+      "medical_student",
+      "physician_assistant",
+      "nurse_practitioner"
+    ],
+    "title_en": "General consultation",
+    "title_fr": "Consultation générale",
+    "sections": [
+      {
+        "en": "Identification",
+        "fr": "Identification",
+        "group": "SUBJECTIVE",
+        "condition": "ONLY IF MENTIONED",
+        "instruction_en": "Include age and sex only when explicitly documented in the source. Omit the section otherwise. Do not include names, dates of birth, insurance numbers, facility, physician or license placeholders.",
+        "instruction_fr": "Inclure l’âge et le sexe seulement si explicitement documentés; sinon omettre la section. Ne pas inclure de nom, date de naissance, numéro d’assurance maladie, ni de variables de lieu, médecin ou permis.",
+        "example": "",
+        "abbr_en": "",
+        "abbr_fr": "",
+        "format": ""
+      },
+      {
+        "en": "Chief Complaint",
+        "fr": "Raison de consultation",
+        "group": "SUBJECTIVE",
+        "condition": "",
+        "instruction_en": "Record the reasons for consultation exactly as reported by the patient or referring clinician; do not infer additional reasons.",
+        "instruction_fr": "Inscrire le(s) motif(s) tel(s) que rapporté(s); ne pas inférer",
+        "example": "",
+        "abbr_en": "CC",
+        "abbr_fr": "RC",
+        "format": "TELEGRAPHIC LINES"
+      },
+      {
+        "en": "Past Medical History",
+        "fr": "Antécédents médicaux personnels",
+        "group": "SUBJECTIVE",
+        "condition": "ONLY IF MENTIONED",
+        "instruction_en": "Include only explicitly documented medical, surgical and other relevant history. Include prior hospitalizations with reason and date or period only when provided; do not infer missing history.",
+        "instruction_fr": "Inclure seulement les antécédents médicaux explicitement mentionnés Inclure seulement les antécédents chirurgicaux explicitement mentionnés Histoire d’hospitalisation : inclure seulement si mentionnée",
+        "example": "",
+        "abbr_en": "PMHx",
+        "abbr_fr": "ATCD",
+        "format": "BULLET POINTS"
+      },
+      {
+        "en": "Family History",
+        "fr": "Histoire familiale",
+        "group": "SUBJECTIVE",
+        "condition": "ONLY IF MENTIONED",
+        "instruction_en": "Include only documented family history, specifying the family relationship and condition.",
+        "instruction_fr": "Inclure seulement les antécédents familiaux explicitement mentionnés et le lien familial",
+        "example": "",
+        "abbr_en": "FHx",
+        "abbr_fr": "ATCD fam.",
+        "format": "BULLET POINTS"
+      },
+      {
+        "en": "Lifestyle Habits",
+        "fr": "Habitudes de vie",
+        "group": "SUBJECTIVE",
+        "condition": "ONLY IF MENTIONED",
+        "instruction_en": "Include tobacco, alcohol, substances, occupation, living situation, support, activity and diet only when documented. Do not assume absence or denial.",
+        "instruction_fr": "Inclure seulement ce qui est mentionné; ne pas supposer",
+        "example": "",
+        "abbr_en": "SHx",
+        "abbr_fr": "HDV",
+        "format": "BULLET POINTS"
+      },
+      {
+        "en": "Medications",
+        "fr": "Médication",
+        "group": "SUBJECTIVE",
+        "condition": "ONLY IF MENTIONED",
+        "instruction_en": "List only current medications explicitly provided. Include dose, form, route and frequency only when documented. Do not infer indications or adherence.",
+        "instruction_fr": "Inscrire uniquement les traitements actuels explicitement fournis; inclure dose et fréquence seulement si documentées",
+        "example": "",
+        "abbr_en": "Meds",
+        "abbr_fr": "Rx",
+        "format": "BULLET POINTS"
+      },
+      {
+        "en": "Allergies",
+        "fr": "Allergies",
+        "group": "SUBJECTIVE",
+        "condition": "ONLY IF MENTIONED",
+        "instruction_en": "Include allergies and intolerances only when documented, with reactions when provided. Do not report no known allergies by default.",
+        "instruction_fr": "Inclure allergies/intolérances seulement si renseignées; inclure réaction si fournie; ne pas écrire d’absence d’allergie par défaut",
+        "example": "",
+        "abbr_en": "ALL",
+        "abbr_fr": "ALL",
+        "format": "BULLET POINTS"
+      },
+      {
+        "en": "History of Present Illness",
+        "fr": "Anamnèse",
+        "group": "SUBJECTIVE",
+        "condition": "",
+        "instruction_en": "Separate each presenting problem. Include only documented symptom characteristics, severity, duration, chronology, evolution, associated symptoms, explicit pertinent negatives, triggers, aggravating or relieving factors, functional impact, treatments tried and response. Include relevant social, hospitalization, personal or family history, allergies and vaccination only when discussed. Quote a diagnosis proposed by the patient. Preserve uncertainty and distinguish patient or third-party reports from observed findings.",
+        "instruction_fr": "Rédiger les plaintes/problèmes; séparer par problème si plus d’un Inclure pour chaque problème associé : La description du problème (intensité, durée, chronologie, caractéristiques) Les symptômes négatifs questionnés ou mentionnés (revue des systèmes) La durée et l'évolution des symptômes Les facteurs déclencheurs/aggravants/atténuants Les limitations fonctionnelles ou impact sur la vie du patient Les traitements tentés et leur efficacité Les habitudes sociales (situation de vie, emploi, diète, alcool/drogues/tabac, support) L'historique d'hospitalisation Les antécédents personnels ou familiaux pertinents Mentionner allergies ou vaccination Inclure le diagnostic proposé par le patient en citation Distinguer : informations rapportées par le patient/proches vs constatations observées/mesurées Inclure uniquement les éléments explicitement documentés; ne rien inférer.",
+        "example": "",
+        "abbr_en": "HPI",
+        "abbr_fr": "HMA",
+        "format": "BULLET POINTS"
+      },
+      {
+        "en": "Review of Systems",
+        "fr": "Revue des systèmes",
+        "group": "SUBJECTIVE",
+        "condition": "ONLY IF MENTIONED",
+        "instruction_en": "Include only explicitly reported systems and symptoms or denials. Do not add a complete review of systems by default.",
+        "instruction_fr": "Inclure seulement les systèmes/éléments explicitement rapportés; ne pas ajouter de RDS complète par défaut",
+        "example": "",
+        "abbr_en": "ROS",
+        "abbr_fr": "RDS",
+        "format": "BULLET POINTS"
+      },
+      {
+        "en": "Physical Examination",
+        "fr": "Examen physique",
+        "group": "OBJECTIVE",
+        "condition": "ONLY IF EXAMINED",
+        "instruction_en": "Include only vital signs explicitly provided and systems actually examined with documented findings. Omit unexamined or undocumented systems. Do not generate normal findings, missing values or a default examination.",
+        "instruction_fr": "Inclure les constantes seulement si fournies; ne pas inventer Seulement si examiné et documenté, inclure le(s) système(s) avec constatations explicitement notées; omettre tout système non examiné",
+        "example": "",
+        "abbr_en": "PE",
+        "abbr_fr": "E/P",
+        "format": "BULLET POINTS"
+      },
+      {
+        "en": "Relevant Investigations",
+        "fr": "Examens pertinents",
+        "group": "OBJECTIVE",
+        "condition": "ONLY IF RESULTS AVAILABLE",
+        "instruction_en": "Include only available test, laboratory and imaging results, with dates or times when provided. Do not write unavailable or invent results.",
+        "instruction_fr": "Inclure seulement les résultats disponibles avec date/heure si fournies; ne pas écrire « non disponible »",
+        "example": "",
+        "abbr_en": "",
+        "abbr_fr": "",
+        "format": "BULLET POINTS"
+      },
+      {
+        "en": "Assessment & Plan",
+        "fr": "Impression et conduite",
+        "group": "ASSESSMENT & PLAN",
+        "condition": "",
+        "instruction_en": "Use a numbered list of documented problems only, with supporting reported or observed facts, status or evolution, and the explicitly dictated plan for each problem. Include tests, treatments, medication changes, referrals and advice only when stated. Do not add default problems, recommendations, therapeutic targets or follow-up. Add a second or subsequent problem only when documented.",
+        "instruction_fr": "Numéroter chaque problème; pour chacun, documenter l’évaluation et le plan uniquement selon les données explicites; ne pas ajouter de conseils médicaux par défaut Évaluation : éléments factuels soutenant l’impression (rapportés vs observés) Plan : examens demandés, traitements/ordonnances, références, consignes discutées — seulement si explicitement mentionnés Ajouter un deuxième problème ou les suivants uniquement si documentés; ne pas créer de problème par défaut.",
+        "example": "",
+        "abbr_en": "A&P",
+        "abbr_fr": "IMP et CAT",
+        "format": "NUMBERED LIST"
+      },
+      {
+        "en": "Follow-up",
+        "fr": "Suivi",
+        "group": "ASSESSMENT & PLAN",
+        "condition": "ONLY IF TIMING STATED",
+        "instruction_en": "Include follow-up only when agreed with an explicit date, interval or clear condition. Include modality and purpose only when stated; do not invent follow-up.",
+        "instruction_fr": "Inclure seulement si un suivi est convenu avec une temporalité explicite (date, délai, ou condition claire); ne pas inventer",
+        "example": "",
+        "abbr_en": "F/U",
+        "abbr_fr": "Suivi",
+        "format": "BULLET POINTS"
+      }
+    ]
+  },
+  {
+    "path": "aiscribe/internal_medicine_consult_note.md",
+    "specialty": "Internal Medicine",
+    "roles": [
+      "physician",
+      "medical_resident",
+      "medical_student",
+      "physician_assistant",
+      "nurse_practitioner"
+    ],
+    "title_en": "Internal medicine consultation",
+    "title_fr": "Consultation de médecine interne",
+    "sections": [
+      {
+        "en": "Identification",
+        "fr": "Identification",
+        "group": "SUBJECTIVE",
+        "condition": "ONLY IF MENTIONED",
+        "instruction_en": "Include age and sex only when explicitly documented in the source. Omit the section otherwise. Do not include names, dates of birth, insurance numbers, facility, physician or license placeholders.",
+        "instruction_fr": "Inclure l’âge et le sexe seulement si explicitement documentés; sinon omettre la section. Ne pas inclure de nom, date de naissance, numéro d’assurance maladie, ni de variables de lieu, médecin ou permis.",
+        "example": "",
+        "abbr_en": "",
+        "abbr_fr": "",
+        "format": ""
+      },
+      {
+        "en": "Chief Complaint",
+        "fr": "Raison de consultation",
+        "group": "SUBJECTIVE",
+        "condition": "",
+        "instruction_en": "Record the reasons for consultation exactly as reported by the patient or referring clinician; do not infer additional reasons. Use 1 to 10 words.",
+        "instruction_fr": "MAX 1-10 mots; reprendre le libellé du patient ou du référent tel que fourni",
+        "example": "",
+        "abbr_en": "CC",
+        "abbr_fr": "RC",
+        "format": ""
+      },
+      {
+        "en": "Past Medical History",
+        "fr": "Antécédents médicaux personnels",
+        "group": "SUBJECTIVE",
+        "condition": "ONLY IF MENTIONED",
+        "instruction_en": "Include only explicitly documented medical, surgical and other relevant history. Include prior hospitalizations with reason and date or period only when provided; do not infer missing history.",
+        "instruction_fr": "Inclure seulement les éléments explicitement documentés; ne pas inférer",
+        "example": "",
+        "abbr_en": "PMHx",
+        "abbr_fr": "ATCD",
+        "format": ""
+      },
+      {
+        "en": "Family History",
+        "fr": "Histoire familiale",
+        "group": "SUBJECTIVE",
+        "condition": "ONLY IF MENTIONED",
+        "instruction_en": "Include only documented family history, specifying the family relationship and condition.",
+        "instruction_fr": "Inclure seulement si documenté; préciser lien familial et condition",
+        "example": "",
+        "abbr_en": "FHx",
+        "abbr_fr": "ATCD fam.",
+        "format": ""
+      },
+      {
+        "en": "Lifestyle Habits",
+        "fr": "Habitudes de vie",
+        "group": "SUBJECTIVE",
+        "condition": "ONLY IF MENTIONED",
+        "instruction_en": "Include tobacco, alcohol, substances, occupation, living situation, support, activity and diet only when documented. Do not assume absence or denial.",
+        "instruction_fr": "Inclure seulement si documenté; ne pas conclure « non »/« nie » par défaut",
+        "example": "",
+        "abbr_en": "SHx",
+        "abbr_fr": "HDV",
+        "format": ""
+      },
+      {
+        "en": "Medications",
+        "fr": "Médication",
+        "group": "SUBJECTIVE",
+        "condition": "ONLY IF MENTIONED",
+        "instruction_en": "List only current medications explicitly provided. Include dose, form, route and frequency only when documented. Do not infer indications or adherence. Put medication additions, stops and adjustments only in Assessment & Plan.",
+        "instruction_fr": "Inscrire la médication de base telle que fournie : nom, dose, voie, fréquence; ne pas ajouter d’indication ni d’adhérence si non documentées. Les changements (arrêt/ajout/ajustement) vont uniquement dans Impression et conduite.",
+        "example": "",
+        "abbr_en": "Meds",
+        "abbr_fr": "Rx",
+        "format": "BULLET POINTS"
+      },
+      {
+        "en": "Allergies",
+        "fr": "Allergies",
+        "group": "SUBJECTIVE",
+        "condition": "ONLY IF MENTIONED",
+        "instruction_en": "Include allergies and intolerances only when documented, with reactions when provided. Do not report no known allergies by default.",
+        "instruction_fr": "Inclure allergies et intolérances seulement si renseignées; préciser réaction si fournie",
+        "example": "",
+        "abbr_en": "ALL",
+        "abbr_fr": "ALL",
+        "format": "BULLET POINTS"
+      },
+      {
+        "en": "History of Present Illness",
+        "fr": "Anamnèse",
+        "group": "SUBJECTIVE",
+        "condition": "",
+        "instruction_en": "Separate each presenting problem. Include only documented symptom characteristics, severity, duration, chronology, evolution, associated symptoms, explicit pertinent negatives, triggers, aggravating or relieving factors, functional impact, treatments tried and response. Include relevant social, hospitalization, personal or family history, allergies and vaccination only when discussed. Quote a diagnosis proposed by the patient. Preserve uncertainty and distinguish patient or third-party reports from observed findings.",
+        "instruction_fr": "Rédiger en paragraphes distincts pour chaque problème/raison de consultation Conserver l’incertitude; distinguer faits rapportés (patient/proche/tiers/dossier) vs faits observés Inclure pour chaque problème associé : La description du problème (intensité, durée, chronologie, caractéristiques) Les symptômes négatifs questionnés ou mentionnés (revue des systèmes) La durée et l'évolution des symptômes Les facteurs déclencheurs/aggravants/atténuants Les limitations fonctionnelles ou impact sur la vie du patient Les traitements tentés et leur efficacité Les habitudes sociales (situation de vie, emploi, diète, alcool/drogues/tabac, support) L'historique d'hospitalisation Les antécédents personnels ou familiaux pertinents Mentionner allergies ou vaccination si et seulement si discutées Inclure le diagnostic proposé par le patient en citation Inclure uniquement les éléments explicitement documentés; ne rien inférer.",
+        "example": "",
+        "abbr_en": "HPI",
+        "abbr_fr": "HMA",
+        "format": "PROSE"
+      },
+      {
+        "en": "Physical Examination",
+        "fr": "Examen physique",
+        "group": "OBJECTIVE",
+        "condition": "ONLY IF EXAMINED",
+        "instruction_en": "Include only vital signs explicitly provided and systems actually examined with documented findings. Omit unexamined or undocumented systems. Do not generate normal findings, missing values or a default examination.",
+        "instruction_fr": "Inclure constantes si disponibles Ensuite, inclure UNIQUEMENT les systèmes réellement examinés et les constatations explicitement documentées; ne pas générer de constat « normal » par défaut Si un système n’est pas examiné ou pas documenté, l’omettre",
+        "example": "",
+        "abbr_en": "PE",
+        "abbr_fr": "E/P",
+        "format": "TELEGRAPHIC LINES"
+      },
+      {
+        "en": "Laboratory Results",
+        "fr": "Labos",
+        "group": "OBJECTIVE",
+        "condition": "ONLY IF RESULTS AVAILABLE",
+        "instruction_en": "Report only supplied results, grouped by date when provided, then by panel. Include blood count, renal function, electrolytes, coagulation, inflammatory and cardiac markers only when available. Preserve supplied values, units and dates; do not invent units or reference ranges. Report trends only when explicitly documented.",
+        "instruction_fr": "Présenter les résultats réellement fournis, groupés par date (AAAA-MM-JJ si fourni) puis par groupe Inclure FSC, fonction rénale/électrolytes, coagulation, marqueurs inflammatoires et cardiaques uniquement si disponibles Préserver valeurs, unités et dates telles que fournies; ne pas inventer unités ni valeurs de référence Indiquer tendances seulement si explicitement documentées",
+        "example": "",
+        "abbr_en": "",
+        "abbr_fr": "",
+        "format": "BULLET POINTS"
+      },
+      {
+        "en": "Imaging",
+        "fr": "Imageries",
+        "group": "OBJECTIVE",
+        "condition": "ONLY IF RESULTS AVAILABLE",
+        "instruction_en": "Use one entry per study with modality, body region, date and relevant conclusion when provided. Include preliminary or final status, laterality and comparison only when supplied. Do not invent a report.",
+        "instruction_fr": "Une entrée par examen: modalité, région, date, conclusion pertinente Inclure statut (préliminaire/final), latéralité et comparaison seulement si fournis Sans inventer de rapport",
+        "example": "",
+        "abbr_en": "",
+        "abbr_fr": "",
+        "format": "BULLET POINTS"
+      },
+      {
+        "en": "Assessment & Plan",
+        "fr": "Impression et conduite",
+        "group": "ASSESSMENT & PLAN",
+        "condition": "",
+        "instruction_en": "Use a numbered list of documented problems only, with supporting reported or observed facts, status or evolution, and the explicitly dictated plan for each problem. Include tests, treatments, medication changes, referrals and advice only when stated. Do not add default problems, recommendations, therapeutic targets or follow-up. Add a second or subsequent problem only when documented.",
+        "instruction_fr": "Problèmes numérotés; ne pas figer de problèmes par défaut Pour chacun: impression/diagnostic (si formulé), faits justificatifs, état/évolution, conduite explicitement dictée (tests, traitements, consultations, ajustements de Rx, conseils rapportés comme tels) Ne pas ajouter de recommandations, cibles thérapeutiques ou suivis non dictés Ajouter un deuxième problème ou les suivants uniquement si documentés; ne pas créer de problème par défaut.",
+        "example": "",
+        "abbr_en": "A&P",
+        "abbr_fr": "IMP et CAT",
+        "format": "NUMBERED LIST"
+      },
+      {
+        "en": "Follow-up",
+        "fr": "Suivi",
+        "group": "ASSESSMENT & PLAN",
+        "condition": "ONLY IF TIMING STATED",
+        "instruction_en": "Include follow-up only when agreed with an explicit date or interval. Include modality and purpose only when stated; do not invent follow-up.",
+        "instruction_fr": "Inclure seulement si un suivi est convenu avec moment explicite (date/délai) Ex.: rendez-vous, appel, revoir pour résultats, suivi avec autre service — seulement si convenu",
+        "example": "",
+        "abbr_en": "F/U",
+        "abbr_fr": "Suivi",
+        "format": "TELEGRAPHIC LINES"
+      }
+    ]
   }
 ]

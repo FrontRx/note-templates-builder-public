@@ -5,6 +5,19 @@ Data files read by the physician app's note template builder (`webapp-physician-
 - `builder-headers.json`: the header library, one entry per section a physician can add.
 - `builder-templates.json`: ready-made templates grouped by specialty, each a list of sections in the same shape.
 
+## New-user default selection
+
+Use the following template paths when implementing the initial note selection for newly signed-up users. Apply the default only when the user has no saved template preference; users can still choose another template. Existing users' saved preferences take precedence.
+
+| User specialty | Initial template | Template path |
+|---|---|---|
+| Family Medicine | Bureau/Multi plaintes | `templates/family_medicine/office-multiple-complaints.md` |
+| Cardiology | Cardiology Consult Note | `aiscribe/cardiology_consult_note.md` |
+| Internal Medicine | Consultation de médecine interne | `aiscribe/internal_medicine_consult_note.md` |
+| Other, missing or unrecognized specialty | Consultation générale | `aiscribe/general_consult_note.md` |
+
+These are user-specialty rules, separate from the template's display group (`specialty`) and audience (`roles`). The consuming app owns specialty-id matching, role eligibility and persistence. This data repository documents the mapping; adding templates here does not implement signup-default behavior.
+
 ## Template fields
 
 | field | meaning |
